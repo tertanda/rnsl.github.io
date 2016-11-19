@@ -1,0 +1,5 @@
+<ul class="site-nav__list">
+    <li class="site-nav__item">
+        <a href="{%if page.url == '/artikel/'%}{{site.baseurl}}/artikel/#{%else%}{{site.baseurl}}/artikel/{%endif%}" class="site-nav__link {%if page.url == '/artikel/'%}site-nav__active{%elsif page.url contains 'desain'%}site-nav__active{%elsif page.url contains 'tipografi'%}site-nav__active{%endif%}">Artikel</a>
+    </li>
+</ul>

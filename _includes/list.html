@@ -1,0 +1,11 @@
+<a href="{{post.url}}" class="site-article__list-link">
+    <span class="site-article__banner">
+        <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="{{post.banner}}" alt="Typeface Memiliki Perasaan">
+    </span>
+    <span class="site-article__info site-article__info-list">
+        <h3 class="site-article__title">{{post.title}}</h3>
+        <span class="site-article__preview">{{post.intro}}</span>
+        <small class="site-article__date oldstyle"><date>{{post.date | date: "%-d %B %Y"}}</date> &mdash; {{post.category}}</small>
+        <small>Oleh {{post.author}}</small>
+    </span>
+</a>

@@ -1,0 +1,31 @@
+.site-nav {
+    font-size: 0.875rem;
+    
+    &__home {
+        float: left;
+    }
+    
+    &__list {
+        float: right;
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+    
+    &__item {
+        float: left;
+        font-size: 0.875rem;
+        margin-bottom: 0;
+        margin-left: 1.7rem;
+    }
+    
+    &__link {
+        display: block;
+        padding-bottom: 1.5rem;
+        padding-top: 1.5rem;
+    }
+    
+    &__active {
+        color: #333;
+    }
+}

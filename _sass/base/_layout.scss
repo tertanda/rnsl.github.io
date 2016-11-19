@@ -1,0 +1,26 @@
+html {
+    box-sizing: border-box;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+.page-wrapper,
+.page-article-wrapper {
+    margin: 0 auto;
+    max-width: 85%;
+}
+
+.page-column {
+    &::after {
+        clear: both;
+        content: " ";
+        display: table;
+    }
+}
+
+img {
+    display: block;
+    max-width: 100%;
+}

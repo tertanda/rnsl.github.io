@@ -1,0 +1,132 @@
+@media screen and (min-width: 425px) {
+    ol,
+    ul,
+    p,
+    .site-article__latest {
+        font-size: 1.125rem;
+    }
+    /* TYPO ENDS */
+}
+
+@media screen and (min-width: 640px) {
+    .page-wrapper,
+    .page-article-wrapper {
+        max-width: 600px;
+    }
+    
+    
+    
+    /* TYPO STARTS */
+    ol,
+    ul,
+    p,
+    .site-article__latest {
+        font-size: 1.25rem;
+        line-height: 1.425;
+        margin-top: 0;
+    }
+    
+    ol,
+    ul,
+    blockquote p {
+        padding-left: 1.275rem;
+    }
+    /* TYPO ENDS */
+    
+    .site-article {
+        &__icon {
+            max-width: 8%;
+        }
+    }
+    
+    
+    
+    
+    .site-article__list {
+        &-item {
+            margin-top: 1.5rem;
+            width: 48%;
+            
+            &:first-child {
+                width: 100%;
+            }
+            
+            &:nth-of-type(2n+2) {
+                margin-right: 4%;
+            }
+        }
+    }
+    
+    .site-article__list-solo {
+        margin-top: 1.5rem;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .page-wrapper {
+        max-width: 960px;
+    }
+    
+    .site-article__list {
+        &-item {
+            margin-right: 3.5%;
+            width: 31%;
+            margin-top: 0;
+            
+            &:first-child {
+                width: 31%;
+            }
+            
+            &:nth-of-type(2n+2) {
+                margin-right: 3.5%;
+            }
+            
+            &:nth-of-type(3n+3) {
+                margin-right: 0;
+            }
+            
+            &:nth-of-type(1n+4) {
+                margin-top: 2rem;
+            }
+        }
+        
+        &-link {
+            &:hover {
+                h3 {
+                    color: #1976d2;
+                }
+            }
+        }
+    }
+    
+    .site-nav__link,    
+    .site-article__list-title-link {
+        &:hover {
+            color: #333;
+        }
+    }
+    
+    .site-article__top-link {
+        padding-bottom: 5rem;
+        padding-top: 5rem;
+    }
+    
+    .site-article__top:hover {
+        h3 {
+            color: #1976d2;
+        }
+    }
+    
+    .site-article__list-solo {
+        margin-top: 2rem;
+    }
+}
+
+
+
+
+
+
+
+
+

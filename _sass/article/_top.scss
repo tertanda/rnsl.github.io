@@ -1,0 +1,23 @@
+.site-article {
+    &__top {
+        background-color: #fafafa;
+        text-align: center;
+    }
+    
+    &__top-link {
+        display: block;
+        padding-bottom: 3.5rem;
+        padding-top: 3.5rem;
+        padding-left: 1rem;
+        padding-right: 1rem;
+        width: 100%;
+    }
+    
+    &__heading-top {
+        margin-bottom: 0.4875rem;
+    }
+}
+
+.site-article__list-solo {
+    margin-top: 2rem;
+}

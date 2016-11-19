@@ -1,0 +1,111 @@
+html {
+    background-color: #fff;
+    color: #333;
+    font-family: "Source Sans Pro", "Helvetica", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    color: #444;
+    letter-spacing: -0.0625rem;
+    line-height: 1.25;
+    margin-bottom: 0.75rem;
+    margin-top: 0;
+}
+
+h1 {
+    font-size: 1.675rem;
+}
+
+h2 {
+    font-size: 1.5rem;
+}
+
+h3 {
+    font-size: 1.35rem;
+}
+
+h4 {
+    font-size: 1.225rem;
+}
+
+h5 {
+    font-size: 1.125rem;
+}
+
+a {
+    color: #1976d2;
+    text-decoration: none;
+}
+
+ol,
+ul,
+p {
+    font-size: 1rem;
+    line-height: 1.425;
+    margin-bottom: 1.75rem;
+    margin-top: 0;
+}
+
+ol,
+ul,
+blockquote p {
+    padding-left: 1.195rem;
+}
+
+li {
+    margin-bottom: 0.7rem;
+}
+
+blockquote {
+    font-style: italic;
+    margin-bottom: 1.75rem;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    
+    &::after,
+    &::before {
+        background-color: #cacaca;
+        content: " ";
+        display: block;
+        height: 1px;
+        width: 100px;
+    }
+    
+    p {
+        margin-top: 1.75rem;
+    }
+}
+
+
+
+
+
+.oldstyle {
+    font-feature-settings: 'onum';
+}
+
+.smallcaps {
+    font-style: normal;
+    font-variant-caps: all-small-caps;
+}
+
+
+
+
+
+.site-article__section-heading {
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+.site-copy {
+    color: #767676;
+    float: left;
+    padding-bottom: 1.5rem;
+    padding-top: 1.5rem;
+}

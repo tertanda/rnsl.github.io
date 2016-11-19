@@ -1,0 +1,35 @@
+<section class="site-article__top page-wrapper">
+{%if page.url == "/"%}
+    {%for post in site.posts limit: 1%}
+    <a href="{{post.url}}" class="site-article__top-link">
+        <small class="site-article__heading-top">Artikel Terbaru</small>
+        {%include single.html%}
+    </a>
+    {%endfor%}
+    
+{%elsif page.url == "/artikel/"%}
+    {%for post in site.tags.popular limit: 1%}
+    <a href="{{post.url}}" class="site-article__top-link">
+        <small class="site-article__heading-top">Artikel Populer</small>
+        {%include single.html%}
+    </a>
+    {%endfor%}
+    
+{%elsif page.url == "/artikel/desain/"%}
+    {%for post in site.tags.popdesain limit: 1%}
+    <a href="{{post.url}}" class="site-article__top-link">
+        <small class="site-article__heading-top">Artikel Desain Populer</small>
+        {%include single.html%}
+    </a>
+    {%endfor%}
+    
+{%elsif page.url == "/artikel/tipografi/"%}
+    {%for post in site.tags.poptipografi limit: 1%}
+    <a href="{{post.url}}" class="site-article__top-link">
+        <small class="site-article__heading-top">Artikel Tipografi Populer</small>
+        {%include single.html%}
+    </a>
+    {%endfor%}
+    
+{%endif%}
+</section>

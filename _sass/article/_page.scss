@@ -1,0 +1,77 @@
+.site-article {
+    padding-top: 5rem;
+    padding-bottom: 4.75rem;
+    
+    &::after {
+        color: #767676;
+        content: "\2698";
+        display: block;
+        font-size: 1.25rem;
+        margin-top: 3.5rem;
+        text-align: center;
+    }
+    
+    a {
+        background-image: linear-gradient(#1976d2, #1976d2);
+        background-position: 0 1.075em;
+        background-repeat: repeat-x;
+        background-size: 1px 1px;
+        text-shadow: 0.04545em 0 0 #fff,0.09091em 0 0 #fff,0.13636em 0 0 #fff,-0.04545em 0 0 #fff,-0.09091em 0 0 #fff,-0.13636em 0 0 #fff,0 0.04545em 0 #fff,0 0.09091em 0 #fff,0 -0.04545em 0 #fff,0 -0.09091em 0 #fff;
+    }
+    
+    &__icon {
+        margin: 0 auto;
+        max-width: 20%;
+    }
+    
+    &__intro {
+        margin-bottom: 3.5rem;
+        text-align: center;
+
+        &::after {
+            color: #767676;
+            content: "\2698";
+            display: block;
+            font-size: 1.25rem;
+            margin-top: 3.5rem;
+            text-align: center;
+        }
+    }
+    
+    &__heading {
+        margin-bottom: 0;
+        text-align: center;
+    }
+    
+    &__info {
+        color: #767676;
+        display: block;
+        margin-bottom: 0;
+        
+        small {
+            display: block;
+        }
+    }
+    
+    &__date {
+        text-transform: capitalize;
+    }
+    
+    &__caption {
+        color: #767676;
+        display: block;
+        margin-top: 0.4875rem;
+    }
+    
+    &__icon {
+        margin-bottom: 0.4875rem;
+        margin-top: 0.4875rem;
+    }
+    
+    h2,
+    h3,
+    h4,
+    h5 {
+        padding-top: 0.75rem;
+    }
+}
