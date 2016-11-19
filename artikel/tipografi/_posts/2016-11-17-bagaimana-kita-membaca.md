@@ -19,9 +19,9 @@ Sebuah tulisan dengan tipografi yang baik dapat dibaca cepat. Perhatian pembaca 
 
 Meskipun jika Anda menulis untuk pembaca yang mengutamakan kualitas, mereka akan tetap membaca cepat. Mereka akan memulai dari sesuatu yang mencolok, seperti judul, gambar, dsb. Paragraf adalah tujuan terakhir, karena terlalu banyak tulisan yang perlu dibaca.
 
-Pembaca membaca cepat untuk menentukan kualitas tulisan dan menghemat waktu. Jika tulisan Anda tidak dapat dibaca cepat, mereka akan mengabaikannya.
+Seseorang membaca cepat untuk menentukan kualitas tulisan dan menghemat waktu. Jika tulisan Anda tidak dapat dibaca cepat, mereka akan mengabaikannya.
 
-Kecuali, jika Anda adalah seseorang yang berpengaruh, seperti Manajer, maka Anda dapat menulis dengan acak-acakan. Ya, karyawan Anda mungkin akan membacanya dengan berkata, "Sialan!"
+Kecuali, jika Anda adalah seseorang yang berpengaruh, seperti Manajer, maka Anda dapat menulis dengan acak-acakan. Ya, bawahan Anda mungkin akan membacanya dengan berkata, "Sialan!"
 
 <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/800/1*i4qhMewsHa_2a9jaYK-J0A.png" alt="Typeface Memiliki Perasaan" title="Typeface Memiliki Perasaan"><small class="site-article__caption"><span class="oldstyle">1.0:</span> Kurang baik, susah untuk dibaca cepat.</small>
 
@@ -33,7 +33,7 @@ Tom tidak membaca setiap kata, ia mencari hal terpenting; siapa yang akan bermai
 
 Begitulah bagaimana seseorang membaca, dan hal itu terjadi dengan cepat. Jika mereka tidak dapat menemukan apa yang mereka cari dengan cepat dan mudah, mereka akan pergi. Memahami bagaimana seseorang membaca akan membantu kita menyusun tipografi yang baik.
 
-Lalu, apa yang harus kita lakukan? Kita memulai dengan <em><a href="http://tertanda.com/artikel/desain/bagaimana-memulai-desain" title="Mendesain dengan Informasi" target="_blank">Information Architecture</a></em>, kita mengumpulkan apa yang penting. Dalam kasus poster musik di atas, hanya ada <span class="oldstyle">4</span> hal penting: pemain, lokasi, dan tanggal. Jadi, hal itu harus menjadi prioritas.
+Lalu, apa yang harus kita lakukan? Kita memulai dengan <em><a href="http://tertanda.com/artikel/desain/bagaimana-memulai-desain" title="Mendesain dengan Informasi" target="_blank">Information Architecture</a></em>, kita mengumpulkan apa yang penting. Dalam kasus poster musik di atas, hanya ada <span class="oldstyle">3</span> hal penting: pemain, lokasi, dan tanggal. Jadi, hal itu harus menjadi prioritas.
 
 Dalam buku <em><a href="https://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758" title="Don't Make Me Think" target="_blank">Don't Make Me Think</a></em>, Steve Krug mengatakannya dengan lebih sederhana, "Buang setengah kata-kata pada setiap halaman, kemudian potong lagi setengahnya." Apa yang harus kita lakukan adalah membuatnya sederhana, dan prioritaskan apa yang penting.
 
