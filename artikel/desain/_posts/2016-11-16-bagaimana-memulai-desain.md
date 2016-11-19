@@ -6,6 +6,7 @@ category : desain
 permalink: artikel/desain/:title
 banner   : "https://cdn-images-1.medium.com/max/800/1*2T6JBsp0hpVdd0fCqJu6TA.png"
 icon     : "https://cdn-images-1.medium.com/max/800/1*N2OQjtjhm-XzWNkts2i06g.png"
+bantitle : Mendesain dengan Informasi
 intro    : Visual hanyalah cara desainer menyampaikan ekspresi, desainer memulai desain dengan Information Architecture.
 meta     : Untuk menjadi desainer yang baik, kita harus memulai desain dengan mengumpulkan, menyusun, dan menyeleksi informasi.
 ---
