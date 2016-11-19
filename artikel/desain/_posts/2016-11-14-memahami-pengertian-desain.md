@@ -35,9 +35,9 @@ Awalnya, semua hal yang ada di sekitar kita memiliki masalah.
 
 Pada abad ke-<span class="oldstyle">20</span>, seseorang harus mengantri di sebuah gedung untuk berkomunikasi dengan orang lain yang tinggal di luar jangkauan mereka, lalu mereka masih harus menunggu berhari-hari untuk mendapat balasan. Karena masalah inilah saat ini kita memiliki <em>email</em>, <em>chat</em>, dsb.
 
-Sekarang, karena tidak ingin membawa flashdisk kemana pun, kita membuat <a href="http://dropbox.com" title="Dropbox" target="_blank">Dropbox</a>. Karena kita juga ingin menggunakan alat transportasi yang lebih murah dan cepat, kita membuat <a href="http://uber.com" title="Uber" target="_blank">Uber</a>. Kita menginginkan perbaikan, dan kita melakukannya dengan inovasi dan desain.
+Sekarang, karena tidak ingin membawa <em>flashdisk</em> kemana pun, kita membuat <a href="http://dropbox.com" title="Dropbox" target="_blank">Dropbox</a>. Karena kita juga ingin menggunakan alat transportasi yang lebih murah dan cepat, kita membuat <a href="http://uber.com" title="Uber" target="_blank">Uber</a>. Kita menginginkan perbaikan, dan kita melakukannya dengan inovasi dan desain.
 
-Desain bukanlah apa yang kita lakukan dengan software. Ketika kita membuat <em>web</em>, brosur, poster, dsb., bukan berarti kita sedang membuat desain. Kita tidak membuat desain dengan; step satu: lakukan ini, step dua: lakukan ini dan ini, step tiga: lalu ini.
+Desain bukanlah apa yang kita lakukan dengan <em>software</em>. Ketika kita membuat <em>web</em>, brosur, poster, dsb., bukan berarti kita sedang membuat desain. Kita tidak membuat desain dengan; step satu: lakukan ini, step dua: lakukan ini dan ini, step tiga: lalu ini.
 
 Desain bukan tentang penampilan. Tingginya selera kita tentang visual atau kemampuan menggunakan <em>software</em> tidak menentukan seberapa baiknya kita sebagai desainer. Bahkan, kita tidak perlu bisa menggunakan <em>software</em> apa pun untuk menjadi desainer.
 
