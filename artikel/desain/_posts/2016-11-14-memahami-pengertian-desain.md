@@ -62,7 +62,7 @@ Desainer memperbaiki sesuatu dengan memperhatikan orang lain, bukan hanya diri s
 
 Desainer yang baik mengutamakan kejelasan, bukan penampilan. Alasan mengapa ada tulisan nama warna pada pensil warna adalah karena orang yang membuatnya peduli dengan orang lain—orang buta warna membacanya untuk mengetahui warna pensil.
 
-<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/800/1*OG-ojI4bIfjIWaUqu6Bgfw.png" alt="Pensil Warna" title="Pensil Warna"><small class="site-article__caption"><span class="oldstyle">1.0:</span> Desain yang baik.</small>
+<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/800/1*XmXFz16Db4VVAstjzHb_EA.png" alt="Pensil Warna" title="Pensil Warna"><small class="site-article__caption"><span class="oldstyle">1.0:</span> Desain yang baik.</small>
 
 Selain mudah digunakan, desain juga harus menyenangkan untuk digunakan. Mengantri adalah desain yang baik karena kita menjadi tertata dan mudah dilayani, tetapi mengantri bukan hal yang menyenangkan, jadi kita membuat <a href="http://amazon.com" title="Amazon" target="_blank">Amazon</a> untuk memperbaikinya.
 
