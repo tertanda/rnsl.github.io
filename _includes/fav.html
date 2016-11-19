@@ -13,7 +13,7 @@
                 {%include list.html%}
             </li>
             {% endfor %}
-        {%elsif page.url == "/404"%}
+        {%elsif page.url == "/404.html"%}
             {%for post in site.posts limit: 3%}
             <li class="site-article__list-item">
                 {%include list.html%}
