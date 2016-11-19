@@ -23,13 +23,13 @@ Pembaca membaca cepat untuk menentukan kualitas tulisan dan menghemat waktu. Jik
 
 Kecuali, jika Anda adalah seseorang yang berpengaruh, seperti Manajer, maka Anda dapat menulis dengan acak-acakan. Ya, karyawan Anda mungkin akan membacanya dengan berkata, "Sialan!"
 
-!--IMAGE--! 1.0: Buruk, susah untuk dibaca cepat.
+<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/800/1*i4qhMewsHa_2a9jaYK-J0A.png" alt="Typeface Memiliki Perasaan" title="Typeface Memiliki Perasaan"><small class="site-article__caption"><span class="oldstyle">1.0:</span> Kurang baik, susah untuk dibaca cepat.</small>
 
 Katakanlah, ketika Tom berjalan pulang ke rumahnya, ia melihat sebuah poster musik. Sayangnya, ia tidak dapat berhenti untuk membacanya, ia harus segera pulang. Tom membaca cepat poster tersebut, dan ia memulai dengan mencari siapa yang akan bermain. 
 
 Tom tidak membaca setiap kata, ia mencari hal terpenting; siapa yang akan bermain. Jika Tom tidak tertarik dengan pemainnya, ia akan berhenti membacanya. Jika ia tertarik, ia melanjutkan mencari info lokasi, tanggal, dan harga. Ia tidak peduli dengan sponsor.
 
-!--IMAGE--! 1.1: Lebih baik, dapat dibaca cepat.
+<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/800/1*yY1-ZMTCtUFz-8oI5gJ1Lw.png" alt="Typeface Memiliki Perasaan" title="Typeface Memiliki Perasaan"><small class="site-article__caption"><span class="oldstyle">1.1:</span> Lebih baik, mudah untuk dibaca cepat.</small>
 
 Begitulah bagaimana seseorang membaca, dan hal itu terjadi dengan cepat. Jika mereka tidak dapat menemukan apa yang mereka cari dengan cepat dan mudah, mereka akan pergi. Memahami bagaimana seseorang membaca akan membantu kita menyusun tipografi yang baik.
 
