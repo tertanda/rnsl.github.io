@@ -36,7 +36,7 @@ Selain itu, tipografi juga menyampaikan perasaan, Anda tidak mungkin menulis uca
 
 Tipografi harus menyampaikan perasaan yang tepat. Anda harus membaca isi tulisan dan memahami ekspresinya sebelum melakukan yang lain—meskipun memilih <em>typeface</em> memang menyenangkan.
 
-<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/800/1*IjvsZ6fZZ4EPy1mQQZ16IA.png" alt="Typeface Memiliki Perasaan" title="Typeface Memiliki Perasaan"><small class="site-article__caption"><span class="oldstyle">1.0:</span> <em>Typeface</em> memiliki perasaan.</small>
+<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/800/1*BGY_L6UJQFqvqEGMYaAfDw.png" alt="Typeface Memiliki Perasaan" title="Typeface Memiliki Perasaan"><small class="site-article__caption"><span class="oldstyle">1.0:</span> <em>Typeface</em> memiliki perasaan.</small>
 
 <em>Typeface</em> memiliki perasaan, jika merah adalah hati-hati, maka <a href="http://thequestaproject.com/" title="Questa" target="_blank">Questa</a> adalah elegan. <em>Font</em> yang digunakan harus mewakili perasaan tulisan. Tipografi menambah makna ke dalam tulisan, tidak mungkin Anda menggunakan Futura untuk berbelasungkawa.
 
