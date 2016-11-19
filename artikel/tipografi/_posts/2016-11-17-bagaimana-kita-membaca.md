@@ -7,19 +7,19 @@ permalink: artikel/tipografi/:title
 banner   : "https://cdn-images-1.medium.com/max/800/1*WcETyH3_GG53TLVCIebvQg.png"
 icon     : "https://cdn-images-1.medium.com/max/800/1*oxB-Gh9iEVk3ohm9f166gQ.png"
 intro    : Kita tidak membaca kata demi kata, kita membaca cepat untuk menentukan kualitas tulisan dan menghemat waktu.
-meta     : Sebuah tulisan dengan tipografi yang baik dapat dibaca dengan cepat, karena seseorang tidak membaca kata demi kata.
+meta     : Sebuah tulisan dengan tipografi yang baik dapat dibaca cepat, karena seseorang tidak membaca kata demi kata.
 ---
 
-Sebuah tulisan dengan tipografi yang baik dapat dibaca dengan cepat. Perhatian pembaca adalah hal yang berharga, dan pekerjaan kita adalah untuk mendapatkannya. Seseorang tidak membaca kata demi kata<sup><a href="#fn:1" title="Catatan Nr.1">1</a></sup>, mereka membaca cepat untuk mencari sesuatu yang menarik dan sesuai dengan apa yang mereka cari.
+Sebuah tulisan dengan tipografi yang baik dapat dibaca cepat. Perhatian pembaca adalah hal yang berharga, dan pekerjaan kita adalah untuk mendapatkannya. Seseorang tidak membaca kata demi kata<sup><a href="#fn:1" title="Catatan Nr.1">1</a></sup>, mereka membaca cepat untuk mencari sesuatu yang menarik dan sesuai dengan apa yang mereka cari.
 
 <blockquote>
     <p>Mengapa sesuatu yang kita cari selalu berada di tempat terakhir? Karena kita berhenti mencari ketika kita menemukannya.</p>
     <p class="smallcaps">Teka-Teki Anak</p>
 </blockquote>
 
-Meskipun jika Anda menulis untuk pembaca yang mengutamakan kualitas, mereka akan tetap membaca dengan cepat. Mereka akan memulai dari sesuatu yang mencolok, seperti judul, gambar, dsb. Paragraf adalah tujuan terakhir, karena terlalu banyak tulisan yang perlu dibaca.
+Meskipun jika Anda menulis untuk pembaca yang mengutamakan kualitas, mereka akan tetap membaca cepat. Mereka akan memulai dari sesuatu yang mencolok, seperti judul, gambar, dsb. Paragraf adalah tujuan terakhir, karena terlalu banyak tulisan yang perlu dibaca.
 
-Pembaca membaca cepat untuk menentukan kualitas tulisan dan menghemat waktu. Jika tulisan Anda tidak dapat dibaca dengan cepat, mereka akan mengabaikannya.
+Pembaca membaca cepat untuk menentukan kualitas tulisan dan menghemat waktu. Jika tulisan Anda tidak dapat dibaca cepat, mereka akan mengabaikannya.
 
 Kecuali, jika Anda adalah seseorang yang berpengaruh, seperti Manajer, maka Anda dapat menulis dengan acak-acakan. Ya, karyawan Anda mungkin akan membacanya dengan berkata, "Sialan!"
 
@@ -33,7 +33,7 @@ Tom tidak membaca setiap kata, ia mencari hal terpenting; siapa yang akan bermai
 
 Begitulah bagaimana seseorang membaca, dan hal itu terjadi dengan cepat. Jika mereka tidak dapat menemukan apa yang mereka cari dengan cepat dan mudah, mereka akan pergi. Memahami bagaimana seseorang membaca akan membantu kita menyusun tipografi yang baik.
 
-Lalu, apa yang harus kita lakukan? Kita memulai dengan <em><a href="http://tertanda.com/artikel/desain/bagaimana-memulai-desain" title="Mendesain dengan Informasi" target="_blank">Information Architecture</a></em>, kita mengumpulkan apa yang penting. Dalam kasus poster musik di atas, hanya ada <span class="oldstyle">4</span> hal penting: pemain, lokasi, tanggal, dan harga. Jadi, hal itu harus menjadi prioritas.
+Lalu, apa yang harus kita lakukan? Kita memulai dengan <em><a href="http://tertanda.com/artikel/desain/bagaimana-memulai-desain" title="Mendesain dengan Informasi" target="_blank">Information Architecture</a></em>, kita mengumpulkan apa yang penting. Dalam kasus poster musik di atas, hanya ada <span class="oldstyle">4</span> hal penting: pemain, lokasi, dan tanggal. Jadi, hal itu harus menjadi prioritas.
 
 Dalam buku <em><a href="https://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758" title="Don't Make Me Think" target="_blank">Don't Make Me Think</a></em>, Steve Krug mengatakannya dengan lebih sederhana, "Buang setengah kata-kata pada setiap halaman, kemudian potong lagi setengahnya." Apa yang harus kita lakukan adalah membuatnya sederhana, dan prioritaskan apa yang penting.
 
