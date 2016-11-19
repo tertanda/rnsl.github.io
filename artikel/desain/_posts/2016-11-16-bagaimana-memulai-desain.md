@@ -25,7 +25,7 @@ Kita memulai dengan <em><a href="http://www.iainstitute.org/what-is-ia" title="I
 
 Ketika Anda sedang menata buku misalnya, Anda dapat menatanya berdasarkan warna <em>cover</em>, nama penulis, judul buku, dsb. Tetapi Anda harus bertanya, “Jika saya menatanya berdasarkan warna, apakah orang mencari buku berdasarkan warna <em>cover</em>?”
 
-Menata buku berdasarkan warna cover bukanlah cara yang baik, kita perlu mencari cara yang lebih baik. Hal ini disebut Information Architecture (<span class="smallcaps">IA</span>), proses mengumpulkan, menyusun, dan menyeleksi informasi. Dari sinilah kita memulai desain.
+Menata buku berdasarkan warna cover bukanlah cara yang baik, kita perlu mencari cara yang lebih baik. Hal ini disebut <em>Information Architecture</em> (<span class="smallcaps">IA</span>), proses mengumpulkan, menyusun, dan menyeleksi informasi. Dari sinilah kita memulai desain.
 
 <span class="smallcaps">IA</span> adalah proses penting, kita bisa melakukannya dengan pensil dan kertas. Jika kita membuat poster misalnya, pertama-tama kita perlu tahu informasi tentang poster tersebut, untuk siapa, dsb. Bukannya <em>fonts</em>, warna, atau <em>layout</em> apa yang akan digunakan.
 
