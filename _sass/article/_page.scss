@@ -3,12 +3,11 @@
     padding-bottom: 4.75rem;
     
     &::after {
-        color: #767676;
-        content: "\2698";
+        background-color: #cacaca;
+        content: " ";
         display: block;
-        font-size: 1.25rem;
-        margin-top: 3.5rem;
-        text-align: center;
+        height: 1px;
+        width: 100px;
     }
     
     a {
@@ -29,12 +28,11 @@
         text-align: center;
 
         &::after {
-            color: #767676;
-            content: "\2698";
+            background-color: #cacaca;
+            content: " ";
             display: block;
-            font-size: 1.25rem;
-            margin-top: 3.5rem;
-            text-align: center;
+            height: 1px;
+            width: 100px;
         }
     }
     
