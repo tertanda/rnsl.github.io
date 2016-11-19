@@ -1,5 +1,1 @@
-{% if page.url == '/artikel/desain/' %}
-<script>function downloadJSAtOnload(){var a=document.createElement("script");a.src="{{ site.baseurl }}/assets/javascript/script.js",a.async="true",document.body.appendChild(a)}window.addEventListener?window.addEventListener("load",downloadJSAtOnload,!1):window.attachEvent?window.attachEvent("onload",downloadJSAtOnload):window.onload=downloadJSAtOnload;</script>
-{% else %}
-<script>function downloadJSAtOnload(){var a=document.createElement("script");a.src="{{ site.baseurl }}/assets/javascript/main.js",a.async="true",document.body.appendChild(a)}window.addEventListener?window.addEventListener("load",downloadJSAtOnload,!1):window.attachEvent?window.attachEvent("onload",downloadJSAtOnload):window.onload=downloadJSAtOnload;</script>
-{% endif %}
+<script>function downloadJSAtOnload(){var a=document.createElement("script");a.src="{{site.baseurl}}/assets/javascript/main.js",a.async="true",document.body.appendChild(a)}window.addEventListener?window.addEventListener("load",downloadJSAtOnload,!1):window.attachEvent?window.attachEvent("onload",downloadJSAtOnload):window.onload=downloadJSAtOnload;</script>
