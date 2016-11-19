@@ -15,7 +15,7 @@ Ada kesalahpahaman tentang desain. Beberapa orang berpikir jika desain adalah te
 
 Visual adalah ekspresi.
 
-Visual adalah alasan mengapa kita memilih <em>typefaces</em> Sentinel daripada Roboto—karena kita ingin mengekspresikan sesuatu. Namun sebelum itu, kita perlu mengetahui apa yang akan kita ekspresikan. Inilah mengapa kita tidak memulai dengan visual.
+Visual adalah alasan mengapa kita memilih <em>typeface</em> Sentinel daripada Roboto—karena kita ingin mengekspresikan sesuatu. Namun sebelum itu, kita perlu mengetahui apa yang akan kita ekspresikan. Inilah mengapa kita tidak memulai dengan visual.
 
 Kita memulai dengan <em><a href="http://www.iainstitute.org/what-is-ia" title="Information Architecture" target="_blank">Information Architecture</a></em>.
 
@@ -28,7 +28,7 @@ Ketika Anda sedang menata buku misalnya, Anda dapat menatanya berdasarkan warna 
 
 Menata buku berdasarkan warna cover bukanlah cara yang baik, kita perlu mencari cara yang lebih baik. Hal ini disebut <em>Information Architecture</em> (<span class="smallcaps">IA</span>), proses mengumpulkan, menyusun, dan menyeleksi informasi. Dari sinilah kita memulai desain.
 
-<span class="smallcaps">IA</span> adalah proses penting, kita bisa melakukannya dengan pensil dan kertas. Jika kita membuat poster misalnya, pertama-tama kita perlu tahu informasi tentang poster tersebut, untuk siapa, dsb. Bukannya <em>fonts</em>, warna, atau <em>layout</em> apa yang akan digunakan.
+<span class="smallcaps">IA</span> adalah proses penting, kita bisa melakukannya dengan pensil dan kertas. Jika kita membuat poster misalnya, pertama-tama kita perlu tahu informasi tentang poster tersebut, untuk siapa, dsb., bukannya <em>fonts</em>, warna, atau <em>layout</em> apa yang akan digunakan.
 
 Dalam proses <span class="smallcaps">IA</span>, semakin banyak informasi yang kita kumpulkan, semakin baik keputusan yang kita buat. Semakin banyak informasi yang kita kumpulkan, semakin banyak hal yang harus kita buang. Kita tidak dapat memasukkan semuanya, pilihlah apa yang diperlukan.
 
