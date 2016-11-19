@@ -7,6 +7,7 @@ tag      : poptipografi
 permalink: artikel/tipografi/:title
 banner   : "https://cdn-images-1.medium.com/max/800/1*Jb4TdrxoU4B2gQJ4rZh8oA.png"
 icon     : "https://cdn-images-1.medium.com/max/800/1*9UW7PWgUx4dgn6h0XSabkA.png"
+bantitle : Memahami Tipografi
 intro    : Tipografi bukan hanya menyampaikan makna tulisan, tipografi menambah makna ke dalam tulisan.
 meta     : Lebih dari 95% konten buku dan web adalah tipografi. Semakin baik kita memahami tipografi, semakin baik kita menyampaikan makna tulisan.
 ---
