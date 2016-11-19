@@ -7,6 +7,7 @@ tag      : [popular, popdesain]
 permalink: artikel/desain/:title
 banner   : "https://cdn-images-1.medium.com/max/800/1*x4CWacKLkspzzN8uFMCL1A.png"
 icon     : "https://cdn-images-1.medium.com/max/800/1*AxcwMiHPp0Rpzr9b05WeIw.png"
+bantitle : Memahami Desain
 intro    : Awalnya, semua hal yang ada di sekitar kita bermasalah, lalu kita memperbaikinya dengan inovasi dan desain.
 meta     : Memahami desain adalah memahami orang lain. Desain memiliki pengertian sebagai kegiatan memecahkan masalah dengan sesederhana mungkin.
 ---
