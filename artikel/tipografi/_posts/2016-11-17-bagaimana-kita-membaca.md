@@ -6,6 +6,7 @@ category : tipografi
 permalink: artikel/tipografi/:title
 banner   : "https://cdn-images-1.medium.com/max/800/1*WcETyH3_GG53TLVCIebvQg.png"
 icon     : "https://cdn-images-1.medium.com/max/800/1*oxB-Gh9iEVk3ohm9f166gQ.png"
+bantitle : Bagaimana Kita Membaca 
 intro    : Kita tidak membaca kata demi kata, kita membaca cepat untuk menentukan kualitas tulisan dan menghemat waktu.
 meta     : Sebuah tulisan dengan tipografi yang baik dapat dibaca cepat, karena seseorang tidak membaca kata demi kata.
 ---
