@@ -15,7 +15,9 @@ Ada banyak detail dalam tipografi. Ketika kita membaca, kita tidak membaca huruf
 
 <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/800/1*wJg1g-A7jDb5PyN8Tr_WCA.png" alt="Lebih mudah membaca bagian atas." title="Lebih mudah membaca bagian atas."><small class="site-article__caption"><span class="oldstyle">1.0:</span> Lebih mudah membaca bagian atas.</small>
 
-Itulah alasan mengapa terkadang *typo* baru terlihat ketika kita membaca untuk kedua kalinya. Bahkan, ketika Anda membaca, Anda tidak membaca huruf secara utuh, Anda membaca bagian atas huruf. Anda dapat membaca bagian atas, tetapi tidak bagian bawah. Semakin jelas perbedaan bentuk antar huruf, semakin baik. Tulisan diatas adalah kutipan dari <a href="https://en.wikipedia.org/wiki/Matthew_Carter" title="Matthew Carter" target="_blank">Matthew Carter</a>, *"Type is a beautiful group of letters, not a group of beautiful letters."*
+Itulah alasan mengapa terkadang *typo* baru terlihat ketika kita membaca untuk kedua kalinya. Bahkan, ketika Anda membaca, Anda tidak membaca huruf secara utuh, Anda membaca bagian atas huruf. Anda dapat membaca bagian atas, tetapi tidak bagian bawah.
+
+Semakin jelas perbedaan bentuk antar huruf, semakin baik. Tulisan diatas adalah kutipan dari <a href="https://en.wikipedia.org/wiki/Matthew_Carter" title="Matthew Carter" target="_blank">Matthew Carter</a>, *"Type is a beautiful group of letters, not a group of beautiful letters."*
 
 Jika kita memperhatikan, dalam tipografi yang baik ada banyak detail yang tidak terlihat. Alasan mengapa kita tidak melihatnya karena desain yang baik tidak membuat kita berpikir. Seperti gunting misalnya, gunting adalah desain yang baik, ia memiliki satu tujuan: memotong sesuatu. Apakah gunting pernah membuat Anda berpikir; "bagaimana menggunakan gunting?" Tidak.
 
