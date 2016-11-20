@@ -37,4 +37,4 @@ Selain detail, kita juga harus memperhatikan ilusi. Jika Anda memperhatikan, hur
 
 Berbicara tentang ilusi, beberapa desainer seperti <a href="https://en.wikipedia.org/wiki/Tobias_Frere-Jones" title="Tobias Frere-Jones" target="_blank">Tobias Frere-Jones</a>, memiliki prinsip sederhana untuk mengatasinya, "Dalam desain, kita sebaiknya mempercayai apa yang kita lihat, bukan apa yang ukuran katakan. Jika sesuatu terlihat salah, meskipun ukurannya benar, kita perlu memperbaikinya."
 
-Desain adalah pilihan, jika kita memilih menggunakan Sentinel Bold untuk judul, kita tidak dapat menggunakan Helvetica Bold untuk judul, karena itu akan membuat bingung orang lain. Semakin baik kita memahami bagaimana seseorang membaca dan bagaimana tipografi bekerja, kita akan menyusun tipografi yang lebih baik.
+Desain adalah pilihan, jika kita memilih menggunakan Sentinel Bold untuk judul, kita tidak dapat menggunakan Helvetica Bold untuk judul, karena itu akan membuat bingung orang lain. Jika kita memahami bagaimana seseorang membaca dan bagaimana tipografi bekerja, kita akan menyusun tipografi yang lebih baik.
