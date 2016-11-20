@@ -12,7 +12,7 @@ intro    : Awalnya, semua hal yang ada di sekitar kita bermasalah, lalu kita mem
 meta     : Memahami desain adalah memahami orang lain. Desain memiliki pengertian sebagai kegiatan memecahkan masalah dengan sesederhana mungkin.
 ---
 
-Seperti agama dan politik, desain kini menjadi pengetahuan yang membuat seseorang berpikir kalau mereka memahaminya padahal sebenarnya tidak.
+Seperti agama dan politik, desain kini menjadi pengetahuan yang membuat seseorang berpikir kalau mereka memahaminya meskipun sebenarnya tidak.
 
 Jika kita membicarakan hal yang terlihat mudah seperti agama dan politik, maka akan ada banyak orang yang ikut berbicara, meskipun mereka tidak memahami apa yang mereka bicarakan. Mereka hanya berpikir kalau mereka paham.
 
