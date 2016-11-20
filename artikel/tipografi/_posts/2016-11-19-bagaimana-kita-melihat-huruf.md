@@ -27,7 +27,7 @@ Lain kali, ketika Anda mengunjungi *web* atau membaca buku dengan tipografi yang
 
 Ditambah, alasan kita tidak melihat detail seperti ini karena ketika memilih *typeface*, kita hanya melihatnya secara sekilas, asalkan terlihat cantik, kita memilihnya, "Helvetica terlihat cantik, mari kita pakai!"
 
-Hal terpenting yang perlu Anda ingat ketika memilih *typeface* adalah pastikan Anda mengamati seluruh *glyphs* (bentuk karakter) satu per satu. Ya, Anda harus melakukannya. Itu tidak membutuhkan waktu lama.
+Hal yang perlu Anda ingat ketika memilih *typeface* adalah pastikan Anda mengamati seluruh *glyphs* (bentuk karakter) satu per satu. Ya, Anda harus melakukannya. Itu tidak membutuhkan waktu lama.
 
 Mulailah dengan melihat huruf kecil l dan huruf besar I, jika terlihat sama, sebaiknya ganti yang lain. Jika tidak, teruskan amati tiap-tiap *glyphs*, huruf besar B terkadang terlihat mirip dengan angka 8. Semakin banyak *typeface* yang Anda amati, semakin baik pilihan yang Anda miliki. Anda hanya perlu memastikan jika setiap huruf dapat dibedakan dengan mudah (*legible*). 
 
