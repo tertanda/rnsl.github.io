@@ -4,8 +4,8 @@ title    : Bagaimana Kita Melihat Huruf
 author   : El Nino H. Maulana
 category : tipografi
 permalink: artikel/tipografi/:title
-banner   : "https://cdn-images-1.medium.com/max/800/1*H6K4D2UG5IUr2GZxTxq--A.png"
-icon     : "https://cdn-images-1.medium.com/max/800/1*GJcqorPP6OkznxWHb-qa3g.png"
+banner   : "https://cdn-images-1.medium.com/max/800/1*V4_A-Bmnfc9howaBUY_uhQ.png"
+icon     : "https://cdn-images-1.medium.com/max/800/1*RXOy-4aQR06Zg4smEZWkRw.png"
 bantitle : Bagaimana Kita Melihat Huruf 
 intro    : Ada banyak detail dalam tipografi, alasan mengapa kita tidak melihatnya karena desain yang baik tidak membuat kita berpikir.
 meta     : Semakin baik kita memahami bagaimana seseorang membaca dan bagaimana tipografi bekerja, kita akan menyusun tipografi yang lebih baik.
@@ -19,7 +19,7 @@ Itulah alasan mengapa terkadang *typo* baru terlihat ketika kita membaca untuk k
 
 Semakin jelas perbedaan bentuk antar huruf, semakin baik. Tulisan diatas adalah kutipan dari <a href="https://en.wikipedia.org/wiki/Matthew_Carter" title="Matthew Carter" target="_blank">Matthew Carter</a>, *"Type is a beautiful group of letters, not a group of beautiful letters."*
 
-Jika kita memperhatikan, dalam tipografi yang baik ada banyak detail yang tidak terlihat. Alasan mengapa kita tidak melihatnya karena desain yang baik tidak membuat kita berpikir. Seperti gunting misalnya, gunting adalah desain yang baik, ia memiliki satu tujuan: memotong sesuatu. Apakah gunting pernah membuat Anda berpikir; "bagaimana menggunakan gunting?" Tidak.
+Jika kita memperhatikan, dalam tipografi yang baik ada banyak detail yang tidak terlihat. Alasan mengapa kita tidak melihatnya karena desain yang baik tidak membuat kita berpikir. Seperti gunting misalnya, gunting adalah desain yang baik, ia memiliki satu tujuan: memotong sesuatu. Apakah gunting pernah membuat Anda berpikir; "Bagaimana menggunakan gunting?" Tidak.
 
 Lain kali, ketika Anda mengunjungi *web* atau membaca buku dengan tipografi yang baik, luangkan waktu untuk mengamati bagaimana *typographer* menyusunnya. Anda akan belajar banyak hanya dengan mengobservasi tipografi yang baik.
 
@@ -29,7 +29,7 @@ Ditambah, alasan kita tidak melihat detail seperti ini karena ketika memilih *ty
 
 Hal yang perlu Anda ingat ketika memilih *typeface* adalah pastikan Anda mengamati seluruh *glyphs* (bentuk karakter) satu per satu. Ya, Anda harus melakukannya. Itu tidak membutuhkan waktu lama.
 
-Mulailah dengan melihat huruf kecil l dan huruf besar I, jika terlihat sama, sebaiknya ganti yang lain. Jika tidak, teruskan amati tiap-tiap *glyphs*, huruf besar B terkadang terlihat mirip dengan angka 8. Semakin banyak *typeface* yang Anda amati, semakin baik pilihan yang Anda miliki. Anda hanya perlu memastikan jika setiap huruf dapat dibedakan dengan mudah (*legible*). 
+Mulailah dengan melihat huruf kecil l dan huruf besar I, jika terlihat sama, sebaiknya ganti yang lain. Jika tidak, teruskan amati tiap-tiap *glyphs*, huruf besar B terkadang terlihat mirip dengan angka 8. Semakin banyak *typeface* yang Anda amati, semakin baik pilihan yang Anda miliki. Anda hanya perlu memastikan jika setiap karakter dapat dibedakan dengan mudah (*legible*). 
 
 <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/800/1*rC0cMHaLk0Agk8ax55C3-g.png" alt="Ilusi visual." title="Ilusi visual."><small class="site-article__caption"><span class="oldstyle">1.2:</span> Ilusi visual.</small>
 
@@ -37,4 +37,4 @@ Selain detail, kita juga harus memperhatikan ilusi. Jika Anda memperhatikan, hur
 
 Berbicara tentang ilusi, beberapa desainer seperti <a href="https://en.wikipedia.org/wiki/Tobias_Frere-Jones" title="Tobias Frere-Jones" target="_blank">Tobias Frere-Jones</a>, memiliki prinsip sederhana untuk mengatasinya, "Dalam desain, kita sebaiknya mempercayai apa yang kita lihat, bukan apa yang ukuran katakan. Jika sesuatu terlihat salah, meskipun ukurannya benar, kita perlu memperbaikinya."
 
-Desain adalah pilihan, jika kita memilih menggunakan Sentinel Bold untuk judul, kita tidak dapat menggunakan Helvetica Bold untuk judul, karena itu akan membuat bingung orang lain. Jika kita memahami bagaimana seseorang membaca dan bagaimana tipografi bekerja, kita akan menyusun tipografi yang lebih baik.
+Desain adalah pilihan, jika kita memilih menggunakan Sentinel Bold untuk judul, kita tidak dapat menggunakan Helvetica Bold untuk judul, karena itu akan membuat orang lain bingung. Jika kita memahami bagaimana seseorang membaca dan bagaimana tipografi bekerja, kita akan menyusun tipografi yang lebih baik.
