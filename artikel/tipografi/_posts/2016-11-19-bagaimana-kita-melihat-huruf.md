@@ -23,7 +23,7 @@ Jika kita memperhatikan, dalam tipografi yang baik ada banyak detail yang tidak 
 
 Lain kali, ketika Anda mengunjungi *web* atau membaca buku dengan tipografi yang baik, luangkan waktu untuk mengamati bagaimana *typographer* menyusunnya. Anda akan belajar banyak hanya dengan mengobservasi tipografi yang baik.
 
-<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/800/1*mSypSsGHU58aL8742ous-w.png" alt="Huruf 'l' dan 'I' memiliki bentuk yang berbeda." title="Huruf 'l' dan 'I' memiliki bentuk yang berbeda."><small class="site-article__caption"><span class="oldstyle">1.1:</span> Huruf l dan I memiliki bentuk yang berbeda.</small>
+<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/800/1*mSypSsGHU58aL8742ous-w.png" alt="Huruf 'l' dan 'I' memiliki bentuk yang berbeda." title="Huruf 'l' dan 'I' memiliki bentuk yang berbeda."><small class="site-article__caption"><span class="oldstyle">1.1:</span> Huruf l dan I memiliki bentuk berbeda.</small>
 
 Ditambah, alasan kita tidak melihat detail seperti ini karena ketika memilih *typeface*, kita hanya melihatnya secara sekilas, asalkan terlihat cantik, kita memilihnya, "Helvetica terlihat cantik, mari kita pakai!"
 
