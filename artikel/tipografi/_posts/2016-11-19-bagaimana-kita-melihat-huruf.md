@@ -23,13 +23,13 @@ Jika kita memperhatikan, dalam tipografi yang baik ada banyak detail yang tidak 
 
 Lain kali, ketika Anda mengunjungi *web* atau membaca buku dengan tipografi yang baik, luangkan waktu untuk mengamati bagaimana *typographer* menyusunnya. Anda akan belajar banyak hanya dengan mengobservasi tipografi yang baik.
 
-<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/800/1*mSypSsGHU58aL8742ous-w.png" alt="Huruf 'l' dan 'I' memiliki bentuk yang berbeda." title="Huruf 'l' dan 'I' memiliki bentuk yang berbeda."><small class="site-article__caption"><span class="oldstyle">1.1:</span> Huruf l dan I memiliki bentuk berbeda.</small>
+<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/800/1*mSypSsGHU58aL8742ous-w.png" alt="Huruf l dan I memiliki bentuk yang berbeda." title="Huruf l dan I memiliki bentuk yang berbeda."><small class="site-article__caption"><span class="oldstyle">1.1:</span> Huruf l dan I memiliki bentuk berbeda.</small>
 
 Ditambah, alasan kita tidak melihat detail seperti ini karena ketika memilih *typeface*, kita hanya melihatnya secara sekilas, asalkan terlihat cantik, kita memilihnya, "Helvetica terlihat cantik, mari kita pakai!"
 
 Hal yang perlu Anda ingat ketika memilih *typeface* adalah pastikan Anda mengamati seluruh *glyphs* (bentuk karakter) satu per satu. Ya, Anda harus melakukannya. Itu tidak membutuhkan waktu lama.
 
-Mulailah dengan melihat huruf kecil l dan huruf besar I, jika terlihat sama, sebaiknya ganti yang lain. Jika tidak, teruskan amati tiap-tiap *glyphs*, huruf besar B terkadang terlihat mirip dengan angka 8. Semakin banyak *typeface* yang Anda amati, semakin baik pilihan yang Anda miliki. Anda hanya perlu memastikan jika setiap karakter dapat dibedakan dengan mudah (*legible*). 
+Mulailah dengan melihat huruf kecil l dan huruf besar i, jika terlihat sama, sebaiknya ganti yang lain. Jika tidak, teruskan amati tiap-tiap *glyphs*, huruf besar b terkadang terlihat mirip dengan angka 8. Semakin banyak *typeface* yang Anda amati, semakin baik pilihan yang Anda miliki. Anda hanya perlu memastikan jika setiap karakter dapat dibedakan dengan mudah (*legible*). 
 
 <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/800/1*rC0cMHaLk0Agk8ax55C3-g.png" alt="Ilusi visual." title="Ilusi visual."><small class="site-article__caption"><span class="oldstyle">1.2:</span> Ilusi visual.</small>
 
