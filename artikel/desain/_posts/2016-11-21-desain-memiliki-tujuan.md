@@ -11,13 +11,13 @@ intro    : Sesuatu yang didesain dengan tujuan yang jelas membantu kita memahami
 meta     : Sesuatu yang didesain dengan baik memiliki tujuan yang jelas. Meskipun jika kita hanya melihatnya, kita dapat memahami bagaimana menggunakannya dan apa fungsinya.
 ---
 
-Sesuatu yang didesain dengan baik memiliki tujuan yang jelas. Meskipun jika kita hanya melihatnya, kita dapat memahami bagaimana menggunakannya dan apa fungsinya. Misalnya gunting, ia memiliki tujuan yang jelas: memotong sesuatu yang ringan. Tanpa mencoba, Anda dapat mengetahui jika gunting tidak dapat digunakan untuk memotong besi.
+Sesuatu yang didesain dengan baik memiliki tujuan yang jelas. Meskipun jika kita hanya melihatnya, kita dapat memahami apa fungsinya dan bagaimana menggunakannya. Misalnya gunting, ia memiliki tujuan yang jelas: memotong sesuatu yang ringan. Tanpa mencoba, Anda dapat mengetahui jika gunting tidak dapat digunakan untuk memotong besi.
 
 <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/800/1*K_t08vE0-YhoPdi_o7eJ5Q.png" alt="Fiskars Scissor" title="Fiskars Scissor"><small class="site-article__caption"><span class="oldstyle">1.0:</span> Fiskars Scissor</small>
 
-Di sisi lain, desain yang buruk membuat kita bertanya bagaimana menggunakannya dan apa fungsinya. Ditambah, kita perlu meluangkan banyak waktu hanya untuk melakukan hal yang seharusnya dilakukan dengan cepat. Seperti Microsoft Word misalnya, Anda perlu menghabiskan setidaknya beberapa menit untuk mempelajari bagaimana membuat dan menulis dokumen di sana.
+Di sisi lain, desain yang buruk membuat kita bertanya apa fungsinya dan bagaimana menggunakannya. Ditambah, kita perlu meluangkan banyak waktu hanya untuk melakukan hal yang seharusnya dilakukan dengan cepat. Seperti Microsoft Word misalnya, Anda perlu menghabiskan setidaknya beberapa menit untuk mempelajari bagaimana membuat dan menulis dokumen di sana.
 
-Tujuan Anda menggunakan Microsoft Word memang untuk membuat dokumen, jadi yang perlu Anda lakukan seharusnya hanyalah mengetik, menyimpan dan selesai. Tetapi, Microsft Word membuat Anda melakukan lebih dari 3 hal tersebut. Microsoft Word adalah desain yang buruk. Apakah Anda tahu apa tujuan Microsoft Word? Membuat dokumen? Tidak juga, Anda dapat membuat gambar, tabel, dan bahkan halaman *web*.
+Tujuan Anda menggunakan Microsoft Word memang untuk membuat dokumen, jadi yang perlu Anda lakukan seharusnya hanyalah mengetik, menyimpan dan selesai. Tetapi, Microsft Word membuat Anda melakukan lebih dari tiga hal tersebut. Microsoft Word adalah desain yang buruk. Apakah Anda tahu apa tujuan Microsoft Word? Membuat dokumen? Tidak juga, Anda dapat membuat gambar, tabel, dan bahkan halaman *web*.
 
 <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/800/1*PjpTckkRJWvyNnCz6QKYLw.png" alt="Seluruh fitur Microsoft Word." title="Seluruh fitur Microsoft Word."><small class="site-article__caption"><span class="oldstyle">1.1:</span> Seluruh fitur Microsoft Word.</small>
 
