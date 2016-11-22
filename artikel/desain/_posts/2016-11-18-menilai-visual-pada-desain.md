@@ -17,7 +17,7 @@ Dalam desain, kejelasan adalah hal yang lebih penting daripada visual yang canti
 
 Tulisan dengan warna abu-abu di atas *background* putih memang terlihat lebih cantik dan elegan daripada tulisan dengan warna hitam. Tetapi, apakah Anda dapat membacanya dengan mudah? Bagaimana perasaan orang buta warna ketika membacanya? <a href="http://www.mediaaccess.org.au/latest_news/online-media/disney-being-sued-over-lack-of-accessibility" title="Media Access" target="_blank">Walt Disney pernah dituntut</a> karena hal seperti ini.
 
-Ketika masih di sekolah, kita mungkin dapat membuat sesuatu dengan mengabaikan kejelasan dan mengutamakan kecantikan visual, karena guru adalah satu-satunya orang yang akan melihat dan menilai. Tetapi kenyataanya, ketika kita selesai dari sekolah, kita tidak dapat mengontrol siapa yang akan melihat pekerjaan kita, dan kita tidak tahu bagaimana keadaan orang tersebut.
+Ketika masih di sekolah, kita mungkin dapat membuat sesuatu dengan mengabaikan kejelasan dan mengutamakan kecantikan visual, karena guru adalah satu-satunya orang yang akan melihat dan menilai. Tetapi kenyataannya, ketika kita selesai dari sekolah, kita tidak dapat mengontrol siapa yang akan melihat pekerjaan kita, dan kita tidak tahu bagaimana keadaan orang tersebut.
 
 Namun, ini bukan berarti jika kita tidak perlu memikirkan kecantikan visual, kita hanya tidak mengutamakannya.
 
