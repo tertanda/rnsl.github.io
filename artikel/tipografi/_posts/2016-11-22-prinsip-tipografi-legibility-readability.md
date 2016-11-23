@@ -30,10 +30,10 @@ Tugas kita bukan mendekorasi.
 ### Mempraktekkan Legibility
 Cara terbaik untuk membuat tulisan *legible* adalah mengamati karakter satu per satu. Ketika memilih *typeface*, jangan melihatnya dengan sekilas, perhatikan semua bentuk karakter. Memang terdengar membingungkan, tetapi sebenarnya tidak. Jika Anda tidak yakin memulai dari mana, berikut panduan daftar dan ilustrasi:
 
-1. Bandingkan karakter a dan o.
-2. Bandingkan huruf besar b dan angka 8.
-3. Bandingkan huruf besar o dan angka 0.
-4. Bandingkan huruf kecil l dan huruf besar I.
+1. Lihat karakter a dan o.
+2. Lihat huruf besar b dan angka 8.
+3. Lihat huruf besar o dan angka 0.
+4. Lihat huruf kecil l dan huruf besar I.
 5. Tulis 'rn', lalu bandingkan dengan huruf m.
 
 <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/800/1*qrfb1IoLdyfCfNY6sVfdSA.png" alt="Prinsip Tipografi: Legibility" title="Prinsip Tipografi: Legibility"><small class="site-article__caption"><span class="oldstyle">1.0:</span> <em>Legibility</em>.</small>
