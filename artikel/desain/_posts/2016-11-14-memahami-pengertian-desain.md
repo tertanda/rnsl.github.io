@@ -69,4 +69,4 @@ Selain mudah digunakan, desain juga harus menyenangkan untuk digunakan. Mengantr
 
 Sebagai desainer, kita harus memiliki tujuan dan memahami alasan mengapa kita melakukan sesuatu. Kita harus memikirkan masalah dan orang lain terlebih dahulu, lalu memperbaikinya dengan sederhana agar mudah dan menyenangkan untuk digunakan.
 
-Memahami desain adalah memahami orang lain.
+Memahami desain adalah memahami orang lain, teknologi, sosial, dan bisnis.
