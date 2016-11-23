@@ -44,7 +44,7 @@ Jika bentuk karakter (*glyphs*) pada *typeface* yang Anda amati susah dibedakan,
 Tipografi ada untuk menghormati konten. Pastikan siapa pun, meskipun jika orang tersebut buta warna, mereka dapat membacanya dengan mudah. Untuk memudahkan Anda, berikut panduan daftar sederhana dan ilustrasi:
 
 1. Gunakan kontras yang baik.
-2. Gunakan ukuran yang besar.
+2. Gunakan ukuran yang sesuai.
 3. Berikan jarak antar elemen.
 
 <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/800/1*JK6FFQpT58ck6QOlEQDaCg.png" alt="Prinsip Tipografi: Readability" title="Prinsip Tipografi: Readability"><small class="site-article__caption"><span class="oldstyle">1.1:</span> <em>Readability</em>.</small>
