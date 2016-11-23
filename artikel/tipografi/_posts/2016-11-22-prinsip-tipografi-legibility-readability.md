@@ -11,7 +11,7 @@ intro    : Tipografi ada untuk menghormati konten. Pastikan siapa pun, meskipun 
 meta     : Legibility dan readability adalah prinsip dasar tipografi, keduanya membantu tipografi menyampaikan makna tulisan.
 ---
 
-Tujuan tipografi adalah menyampaikan makna tulisan<sup><a href="#fn:1" title="Catatan Nr.1">1</a></sup>. Untuk itu, kita perlu memahami prinsip tipografi, seperti *legibility* dan *readability*. Kedua prinsip ini adalah dasar tipografi, jika tulisan tidak mudah dibaca (*unreadable*) mau pun *ilegible*, maka tipografi tidak dapat melakukan tugasnya.
+Tujuan tipografi adalah menyampaikan makna tulisan<sup><a href="#fn:1" title="Catatan Nr.1">1</a></sup>. Untuk itu, kita perlu memahami prinsip tipografi, seperti *legibility* dan *readability*. Kedua prinsip ini adalah dasar tipografi, jika tulisan tidak mudah dibaca (*unreadable*) mau pun tidak mudah dibedakan karakternya (*ilegible*), maka tipografi tidak dapat melakukan tugasnya.
 
 <blockquote>
     <p>Tipografi ada untuk menghormati konten.</p>
