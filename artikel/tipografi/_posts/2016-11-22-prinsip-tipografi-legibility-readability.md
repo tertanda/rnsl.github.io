@@ -36,9 +36,9 @@ Cara terbaik untuk membuat tulisan *legible* adalah mengamati karakter satu per 
 4. Lihat huruf kecil l dan huruf besar I.
 5. Tulis 'rn', lalu bandingkan dengan huruf m.
 
-<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/800/1*qrfb1IoLdyfCfNY6sVfdSA.png" alt="Prinsip Tipografi: Legibility" title="Prinsip Tipografi: Legibility"><small class="site-article__caption"><span class="oldstyle">1.0:</span> <em>Legibility</em>.</small>
+<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/800/1*3S7BOvWjf4MWKt-6QuKCog.png" alt="Prinsip Tipografi: Legibility" title="Prinsip Tipografi: Legibility"><small class="site-article__caption"><span class="oldstyle">1.0:</span> <em>Legibility</em>.</small>
 
-Jika bentuk karakter (*glhyps*) pada *typeface* yang Anda amati susah dibedakan, sebaiknya gunakan yang lain. Ada puluhan *typeface* yang lebih baik, Sentinel, Univers, Fira Sans, dan Source Sans Pro adalah beberapa contoh *typefaces* yang memiliki karakter *legible*.
+Jika bentuk karakter (*glyphs*) pada *typeface* yang Anda amati susah dibedakan, sebaiknya gunakan yang lain. Ada puluhan *typeface* yang lebih baik, Sentinel, Univers, Fira Sans, dan Source Sans Pro adalah beberapa contoh *typefaces* yang memiliki karakter *legible*.
 
 ### Mempraktekkan Readability
 Tipografi ada untuk menghormati konten. Pastikan siapa pun, meskipun jika orang tersebut buta warna, mereka dapat membacanya dengan mudah. Untuk memudahkan Anda, berikut panduan daftar sederhana dan ilustrasi:
