@@ -33,7 +33,7 @@ Cara terbaik untuk membuat tulisan *legible* adalah mengamati karakter satu per 
 * Lihat karakter a dan o.
 * Lihat huruf besar b dan angka 8.
 * Lihat huruf besar o dan angka 0.
-* Lihat huruf kecil l dan huruf besar I.
+* Lihat huruf kecil l dan huruf besar i.
 * Tulis 'rn', lalu bandingkan dengan huruf m.
 
 <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/800/1*3S7BOvWjf4MWKt-6QuKCog.png" alt="Prinsip Tipografi: Legibility" title="Prinsip Tipografi: Legibility"><small class="site-article__caption"><span class="oldstyle">1.0:</span> <em>Legibility</em>.</small>
