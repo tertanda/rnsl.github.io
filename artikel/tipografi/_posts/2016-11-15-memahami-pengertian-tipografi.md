@@ -39,7 +39,7 @@ Tipografi harus menyampaikan perasaan yang tepat. Anda harus membaca isi tulisan
 
 <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/800/1*BGY_L6UJQFqvqEGMYaAfDw.png" alt="Typeface Memiliki Perasaan" title="Typeface Memiliki Perasaan"><small class="site-article__caption"><span class="oldstyle">1.0:</span> <em>Typeface</em> memiliki perasaan.</small>
 
-<em>Typeface</em> memiliki perasaan, jika merah adalah hati-hati, maka <a href="http://thequestaproject.com/" title="Questa" target="_blank">Questa</a> adalah elegan. <em>Font</em> yang digunakan harus mewakili perasaan tulisan. Tipografi menambah makna ke dalam tulisan, tidak mungkin Anda menggunakan Futura untuk berbelasungkawa.
+<em>Typeface</em> memiliki perasaan, jika merah adalah bahaya, maka <a href="http://thequestaproject.com/" title="Questa" target="_blank">Questa</a> adalah elegan. <em>Font</em> yang digunakan harus mewakili perasaan tulisan. Tipografi menambah makna ke dalam tulisan, tidak mungkin Anda menggunakan Futura untuk berbelasungkawa.
 
 Untuk seseorang yang hanya memiliki palu, semua hal terlihat seperti paku. Sebuah <em>typeface</em> tidak dirancang untuk digunakan dalam segala hal. Anda tidak dapat menggunakan Helvetica Regular untuk semuanya; judul, <em>caption</em>, paragraf, dsb.
 
