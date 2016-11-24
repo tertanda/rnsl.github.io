@@ -34,7 +34,7 @@ Cara terbaik untuk membuat tulisan *legible* adalah mengamati karakter satu per 
 * Lihat huruf besar b dan angka 8.
 * Lihat huruf besar o dan angka 0.
 * Lihat huruf kecil l dan huruf besar i.
-* Tulis 'rn', lalu bandingkan dengan huruf m.
+* Tulis "rn", lalu bandingkan dengan huruf m.
 
 <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/800/1*3S7BOvWjf4MWKt-6QuKCog.png" alt="Prinsip Tipografi: Legibility" title="Prinsip Tipografi: Legibility"><small class="site-article__caption"><span class="oldstyle">1.0:</span> <em>Legibility</em>.</small>
 
@@ -47,7 +47,7 @@ Tipografi ada untuk menghormati konten. Pastikan siapa pun, meskipun jika orang 
 * Gunakan ukuran yang sesuai.
 * Berikan jarak antar elemen.
 
-<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/800/1*JK6FFQpT58ck6QOlEQDaCg.png" alt="Prinsip Tipografi: Readability" title="Prinsip Tipografi: Readability"><small class="site-article__caption"><span class="oldstyle">1.1:</span> <em>Readability</em>.</small>
+<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/800/1*ox7_1tjZ1dgkf3sKufp5cQ.png" alt="Prinsip Tipografi: Readability" title="Prinsip Tipografi: Readability"><small class="site-article__caption"><span class="oldstyle">1.1:</span> <em>Readability</em>.</small>
 
 Ada beberapa hal lain yang perlu dipertimbangkan<sup><a href="#fn:2" title="Catatan Nr.2">2</a></sup>, tetapi pada dasarnya daftar sederhana ini telah meliputi hal penting dalam *readability*. Asalkan tulisan mudah dan nyaman untuk dibaca, maka Anda melakukan tugas dengan baik.
 
