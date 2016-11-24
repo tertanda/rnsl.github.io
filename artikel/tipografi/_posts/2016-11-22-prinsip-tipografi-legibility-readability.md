@@ -30,22 +30,22 @@ Tugas kita bukan mendekorasi.
 ### Mempraktekkan Legibility
 Cara terbaik untuk membuat tulisan *legible* adalah mengamati karakter satu per satu. Ketika memilih *typeface*, jangan melihatnya dengan sekilas, perhatikan semua bentuk karakter. Memang terdengar membingungkan, tetapi sebenarnya tidak. Jika Anda tidak yakin memulai dari mana, berikut panduan daftar dan ilustrasi:
 
-1. Lihat karakter a dan o.
-2. Lihat huruf besar b dan angka 8.
-3. Lihat huruf besar o dan angka 0.
-4. Lihat huruf kecil l dan huruf besar I.
-5. Tulis 'rn', lalu bandingkan dengan huruf m.
+* Lihat karakter a dan o.
+* Lihat huruf besar b dan angka 8.
+* Lihat huruf besar o dan angka 0.
+* Lihat huruf kecil l dan huruf besar I.
+* Tulis 'rn', lalu bandingkan dengan huruf m.
 
 <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/800/1*3S7BOvWjf4MWKt-6QuKCog.png" alt="Prinsip Tipografi: Legibility" title="Prinsip Tipografi: Legibility"><small class="site-article__caption"><span class="oldstyle">1.0:</span> <em>Legibility</em>.</small>
 
-Jika bentuk karakter (*glyphs*) pada *typeface* yang Anda amati susah dibedakan, sebaiknya gunakan yang lain. Ada puluhan *typeface* yang lebih baik, Sentinel, Univers, Fira Sans, dan Source Sans Pro adalah beberapa contoh *typefaces* yang memiliki karakter *legible*.
+Jika bentuk karakter (*glyphs*) pada *typeface* yang Anda amati susah dibedakan, sebaiknya gunakan yang lain. Ada puluhan *typefaces* yang lebih baik; Sentinel, Univers, Fira Sans, dan Source Sans Pro adalah beberapa contoh *typefaces* yang memiliki karakter *legible*.
 
 ### Mempraktekkan Readability
 Tipografi ada untuk menghormati konten. Pastikan siapa pun, meskipun jika orang tersebut buta warna, mereka dapat membacanya dengan mudah. Untuk memudahkan Anda, berikut panduan daftar sederhana dan ilustrasi:
 
-1. Gunakan kontras yang baik.
-2. Gunakan ukuran yang sesuai.
-3. Berikan jarak antar elemen.
+* Gunakan kontras yang baik.
+* Gunakan ukuran yang sesuai.
+* Berikan jarak antar elemen.
 
 <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/800/1*JK6FFQpT58ck6QOlEQDaCg.png" alt="Prinsip Tipografi: Readability" title="Prinsip Tipografi: Readability"><small class="site-article__caption"><span class="oldstyle">1.1:</span> <em>Readability</em>.</small>
 
