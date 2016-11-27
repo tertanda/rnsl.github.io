@@ -25,11 +25,11 @@ Lalu, mengapa saya melakukan ini?
 
 Saat itu April 2014, saya berumur 16 tahun, bodoh dan tidak suka membaca.<sup><a href="#fn:4" title="Catatan Nr.4">4</a></sup> Saya menemukan sebuah buku berjudul Don't Make Me Think, ditulis oleh Steve Krug pada tahun 2000. Buku tersebut berisi tentang Human-Computer Interaction dan Web Usability, ketika membacanya, saya berpikir, "Wow! Saya menyukai ini!"
 
-Ketika selesai membacanya, saya mencari informasi lebih lanjut, namun, saya tidak dapat menemukannya dalam bahasa Indonesia. Untungnya, dengan bantuan Google, saya menemukan apa yang saya butuhkan dalam bahasa Inggris, dan itu mengagumkan!<sup><a href="#fn:5" title="Catatan Nr.5">5</a></sup>
+Ketika selesai membacanya, saya mencari informasi lebih lanjut, namun, saya tidak dapat menemukannya dalam bahasa Indonesia. Melalui Google, saya menemukan apa yang saya butuhkan dalam bahasa Inggris, dan itu mengagumkan!
 
 Saat ini, dua tahun kemudian, saya masih belum dapat menemukannya dalam bahasa Indonesia, jadi saya berpikir, "Saya akan membantu orang lain. Jika saya menyukainya, pasti setidaknya ada satu orang lain yang juga menyukainya."
 
-Singkatnya, saya hanya ingin memperbaiki sesuatu, seperti yang dilakukan oleh orang-orang yang saya hargai. Jika surga ada, saya ingin bertemu dan berbincang dengan mereka di sana.^5
+Singkatnya, saya hanya ingin memperbaiki sesuatu, seperti yang dilakukan oleh orang-orang yang saya hargai. Jika surga ada, saya ingin bertemu dan berbincang dengan mereka di sana.<sup><a href="#fn:5" title="Catatan Nr.5">5</a></sup>
 
 Kedua, saya ingin memperbaiki pemahaman orang tentang desain dan desainer. Saat ini, dengan berkembangnya teknologi, Anda dapat menemukan banyak sekali orang yang berkata jika mereka adalah desainer. Ya, itu adalah masalah!
 
@@ -37,7 +37,10 @@ Orang-orang seperti William Caslon, Baskerville, dll., mereka merintis pekerjaan
 
 <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/800/1*4Px7N7nchxwrrSaakDlyfA.jpeg" title="William Caslon"><small class="site-article__caption"><span class="oldstyle">1.0:</span> <em>William Caslon</em>.</small>
 
-"Seseorang saat ini sedang berteduh di bawah sebuah pohon yang rindang, karena orang lain menanam pohon tersebut di masa lalu." - Warren Buffett
+<blockquote>
+    <p>Seseorang saat ini sedang berteduh di bawah sebuah pohon yang rindang, karena orang lain menanam pohon tersebut di masa lalu.</p>
+    <p class="smallcaps">Warren Buffett</p>
+</blockquote>
 
 Kesalahpahaman terbesar tentang desain dan desainer adalah jika seseorang dapat membuat sesuatu yang cantik seperti aplikasi, web, poster, dsb., dengan menggunakan *software* seperti Adobe PhotoShop, Sketch, atau apa pun itu, maka mereka adalah desainer. Itu konyol, saya yakin Caslon sedang bersedih saat ini.
 
