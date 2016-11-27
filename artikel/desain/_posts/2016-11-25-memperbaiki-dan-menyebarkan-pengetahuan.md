@@ -35,12 +35,12 @@ Kedua, saya ingin memperbaiki pemahaman orang tentang desain dan desainer. Saat 
 
 Orang-orang seperti William Caslon, Baskerville, dll., mereka merintis pekerjaan sebagai desainer sejak tahun 1700an agar generasi penerus mereka mendapat tempat yang lebih baik. Saya tidak akan membiarkan usaha mereka sia-sia.
 
-<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/800/1*4Px7N7nchxwrrSaakDlyfA.jpeg" title="William Caslon"><small class="site-article__caption"><span class="oldstyle">1.0:</span> William Caslon.</small>
-
 <blockquote>
-    <p>Seseorang saat ini sedang berteduh di bawah sebuah pohon yang rindang, karena orang lain menanam pohon tersebut di masa lalu.</p>
+    <p>Seseorang saat ini sedang berteduh di bawah sebuah pohon yang rindang karena orang lain menanam pohon tersebut di masa lalu.</p>
     <p class="smallcaps">Warren Buffett</p>
 </blockquote>
+
+<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/800/1*4Px7N7nchxwrrSaakDlyfA.jpeg" title="William Caslon"><small class="site-article__caption"><span class="oldstyle">1.0:</span> William Caslon.</small>
 
 Kesalahpahaman terbesar tentang desain dan desainer adalah jika seseorang dapat membuat sesuatu yang cantik seperti aplikasi, web, poster, dsb., dengan menggunakan *software* seperti Adobe PhotoShop, Sketch, atau apa pun itu, maka mereka adalah desainer. Itu konyol, saya yakin Caslon sedang bersedih saat ini.
 
