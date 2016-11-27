@@ -29,7 +29,7 @@ Untuk membuat desain visual yang baik, Anda harus memahami apa yang dibutuhkan o
 
 <ol class="oldstyle">
     <li id="fn:1">
-        Saya menyebutnya tampilan, bukan desain, karena tujuan utama desain bukanlah memberikan kenikmatan visual, tetapi memudahkan kehidupan. Saya setuju dengan Don Norman ketika ia berkata, "Desain adalah kumpulan pemahaman tentang manusia, teknologi, sosial, dan bisnis."
+        Saya menyebutnya tampilan, bukan desain, karena tujuan utama desain bukanlah memberikan kenikmatan visual, tetapi memudahkan kehidupan. Saya setuju dengan Don Norman ketika ia berkata, &ldquo;Desain adalah kumpulan pemahaman tentang manusia, teknologi, sosial, dan bisnis.&rdquo;
     </li>
     <li id="fn:2">
         Desain tidak harus memiliki tampilan visual yang cantik, tetapi harus memiliki tampilan visual yang baik untuk membantu orang lain memahaminya dengan mudah. Jika sebuah elemen adalah link, ia harus terlihat layaknya link, bukan tombol.
