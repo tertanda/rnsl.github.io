@@ -23,7 +23,7 @@ Graham benar, saya memiliki cara yang lebih mudah untuk menghasilkan uang daripa
 
 Lalu, mengapa saya melakukan ini?
 
-Saat itu April 2014, saya berumur 16 tahun, bodoh dan tidak suka membaca.<sup><a href="#fn:4" title="Catatan Nr.4">4</a></sup> Saya menemukan sebuah buku berjudul Don't Make Me Think, ditulis oleh Steve Krug pada tahun 2000. Buku tersebut berisi tentang Human-Computer Interaction dan Web Usability, ketika membacanya, saya berpikir, "Wow! Saya menyukai ini!"
+Saat itu April 2014, saya berumur 16 tahun, bodoh dan tidak suka membaca.<sup><a href="#fn:4" title="Catatan Nr.4">4</a></sup> Saya menemukan sebuah buku berjudul <em><a href="https://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758" title="Don't Make Me Think" target="_blank">Don’t Make Me Think</a></em>, ditulis oleh Steve Krug pada tahun 2000. Buku tersebut berisi tentang *Human-Computer Interaction* dan *Web Usability*, ketika membacanya, saya berpikir, "Wow! Saya menyukai ini!"
 
 Ketika selesai membacanya, saya mencari informasi lebih lanjut, namun, saya tidak dapat menemukannya dalam bahasa Indonesia. Melalui Google, saya menemukan apa yang saya butuhkan dalam bahasa Inggris, dan itu mengagumkan!
 
