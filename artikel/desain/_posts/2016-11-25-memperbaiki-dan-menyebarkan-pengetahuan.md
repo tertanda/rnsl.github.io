@@ -19,7 +19,9 @@ Meskipun konten "bagaimana cara" memang banyak diminati dan memberikan banyak pe
 
 Di sisi lain, saya memahami, jika Anda tidak membuat apa yang orang lain inginkan, Anda tidak akan mendapat banyak penghasilan. Tetapi, jangan khawatir, Anda tidak harus mendapat penghasilan karena melakukan apa yang Anda sukai. Saya setuju dengan apa yang dikatakan Paul Graham, "Melakukan apa yang Anda sukai dan bermanfaat untuk orang lain dan menghasilkan uang adalah hal yang susah dilakukan."
 
-Graham benar, saya memiliki cara yang lebih mudah untuk menghasilkan uang daripada mencoba menghasilkan uang dengan menulis di sini. Jadi, saya tidak melakukannya untuk uang, jika saya mendapat uang, maka itu bonus. Masalah selesai. Saya selalu menyukai Charlie Munger, ia adalah orang favorit setelah kakek saya. Munger mengajarkan prinsip-prinsip kehidupan, saya belajar banyak darinya. Karena ialah saya tidak berharap menghasilkan uang dari apa yang saya lakukan di sini.
+Graham benar, saya memiliki cara yang lebih mudah untuk menghasilkan uang daripada mencoba menghasilkan uang dengan menulis di sini. Jadi, saya tidak melakukannya untuk uang, jika saya mendapat uang, maka itu bonus. Masalah selesai.
+
+Saya selalu menyukai Charlie Munger, ia adalah orang favorit setelah kakek saya. Munger mengajarkan prinsip-prinsip kehidupan, saya belajar banyak darinya. Karena ialah saya tidak berharap menghasilkan uang dari apa yang saya lakukan di sini.
 
 Lalu, mengapa saya melakukan ini?
 
