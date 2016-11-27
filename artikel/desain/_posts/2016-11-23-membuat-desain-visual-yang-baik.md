@@ -17,7 +17,7 @@ Ketika mengunjungi *website* seperti <a href="https://www.dribbble.com" title="D
 
 Kecantikan visual pada desain memang membuat sesuatu lebih menyenangkan untuk dilihat, tetapi bukan berarti membuatnya lebih menyenangkan untuk digunakan. Sedangkan, desain yang baik harus mudah digunakan dan dipahami. Lalu, apa yang harus kita lakukan? Kita harus memahami bagaimana membuat desain dengan visual yang baik.<sup><a href="#fn:2" title="Catatan Nr.2">2</a></sup>
 
-<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/800/1*MV21iSQZytC9e0akec7h-g.jpeg" alt="Bing dan Google" title="Bing dan Google"><small class="site-article__caption"><span class="oldstyle">1.0:</span> <em>Bing atau Google?</em>.</small>
+<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/800/1*MV21iSQZytC9e0akec7h-g.jpeg" alt="Bing dan Google" title="Bing dan Google"><small class="site-article__caption"><span class="oldstyle">1.0:</span> Bing atau Google?</small>
 
 Mengapa mesin pencari Google mengagumkan? Selain karena memberikan hasil yang baik, mereka memahami bagaimana membuat visual yang baik. Google melakukan banyak hal untuk membuat halaman mereka dapat dimuat dengan cepat—meskipun koneksi internet Anda buruk—dan mudah digunakan. Untuk itu, mereka harus menghilangkan hal-hal yang tidak berguna.
 
