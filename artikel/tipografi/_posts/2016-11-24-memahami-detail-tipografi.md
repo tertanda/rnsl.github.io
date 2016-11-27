@@ -21,6 +21,8 @@ Untuk itulah kami peduli dengan detail. *Typographer* menghabiskan waktu mempela
 
 <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/800/1*N3xZwuQMuH10jh8XmMtK7Q.png" alt="Detail Tipografi" title="Detail Tipografi"><small class="site-article__caption"><span class="oldstyle">1.1:</span> Detail tipografi.</small>
 
-Anda mungkin tetap dapat membaca kedua tulisan pada gambar 1.1. Tetapi, mengapa yang satu lebih baik? Itu adalah detail. Anda mungkin tidak merasakannya, meskipun ada perbedaan besar di sana. *Typographer* memahami bagaimana Anda membaca, bagaimana Anda membaca cepat untuk mencari informasi, dsb. Dengan detail, kami memastikan jika Anda dapat melakukan pekerjaan dengan mudah.
+Anda mungkin tetap dapat membaca kedua tulisan pada gambar 1.1. Tetapi, mengapa yang satu lebih baik? Itu adalah detail. Anda mungkin tidak merasakannya, meskipun ada perbedaan besar di sana.
+
+*Typographer* memahami bagaimana Anda membaca, bagaimana Anda membaca cepat untuk mencari informasi, dsb. Dengan detail, kami memastikan jika Anda dapat melakukan pekerjaan dengan mudah.
 
 Dalam seri ini, kita akan membicarakan bagaimana *typographer* bekerja. Anda dapat membacanya setiap hari Kamis pada <a href="http://tertanda.com/artikel/tipografi/" title="Kolom Tipografi" target="_blank">Kolom Tipografi</a>. Kita akan membahas detail-detail tipografi dan bagaimana membuat tipografi yang baik.
