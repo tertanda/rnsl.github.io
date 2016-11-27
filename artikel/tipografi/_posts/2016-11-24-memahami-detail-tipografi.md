@@ -11,7 +11,7 @@ intro    : Sebuah tulisan yang baik, layak mendapat tipografi yang baik. Kita ak
 meta     : Ada banyak detail yang bisa kita pelajari dalam tipografi. Typographer menghabiskan waktu mempelajari detail tersebut untuk membuat tipografi yang baik.
 ---
 
-*Typographer* mungkin terlihat seperti orang perfeksionis. Terkadang, mereka mengeluhkan tentang betapa menyakitkannya melihat kerning yang tidak diatur, dan membuat Anda bertanya, "Apanya yang salah?" Bahkan, mereka dapat membedakan antara *hyphen*, *hyphen-minus*, dan *non-breaking hyphen* dalam sekilas.
+*Typographer* mungkin terlihat seperti orang perfeksionis. Terkadang, mereka mengeluhkan tentang betapa menyakitkannya melihat kerning yang tidak diatur, dan membuat Anda bertanya, "Apanya yang salah?" Bahkan, mereka dapat membedakan antara *hyphen*, *hyphen-minus*, dan *non-breaking hyphen*.
 
 <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/800/1*bpXy5yWNpJb7MefKmotqrg.png" alt="Kerning" title="Kerning"><small class="site-article__caption"><span class="oldstyle">1.0:</span> Kerning.</small>
 
