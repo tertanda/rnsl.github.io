@@ -55,7 +55,7 @@ Mengapa? Karena itu seperti ketika calon mertua bertanya apa pekerjaan Anda, dan
         Tidak, saya tidak mencoba untuk mengubah pemikiran Anda tentang desain, itu tidak akan berhasil dan hanya akan membuang waktu saya. Saya hanya ingin memperbaiki sesuatu. Jika Anda tidak menganggapnya penting, saya tidak peduli. Jika Anda ingin mendebat, saya menghargainya, tetapi saya juga tidak punya waktu untuk itu. Waktu kita terbatas, jadi, lebih baik Anda melakukan apa yang Anda percayai, dan saya melakukan apa yang saya percayai.
     </li>
     <li id="fn:2">
-        Saya menggunakan kata &ldquo;we&rdquo; karena saya tidak akan melakukannya sendirian. Jika Anda menyukai apa yang Anda temukan di sini, Anda dapat membantu saya dengan menyebarkan website ini ke teman-teman Anda.
+    Saya menggunakan kata <em>&ldquo;we&rdquo;</em> karena saya tidak akan melakukannya sendirian. Jika Anda menyukai apa yang Anda temukan di sini, Anda dapat membantu saya dengan menyebarkan website ini ke teman-teman Anda.
     </li>
     <li id="fn:3">
         Saat ini, saya sedikit bodoh dan suka membaca. Jika Anda berpikir saya pintar, Anda salah memahami apa yang saya tulis. Saya mencoba untuk, seperti kata Munger, &ldquo;Be less stupid and non-idiotic.&rdquo;
