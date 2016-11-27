@@ -35,7 +35,7 @@ Kedua, saya ingin memperbaiki pemahaman orang tentang desain dan desainer. Saat 
 
 <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/800/1*4Px7N7nchxwrrSaakDlyfA.jpeg" title="William Caslon"><small class="site-article__caption"><span class="oldstyle">1.0:</span> William Caslon.</small>
 
-Orang-orang seperti William Caslon, Baskerville, dll., mereka merintis pekerjaan sebagai desainer sejak tahun 1700an agar generasi penerus mereka mendapat tempat yang lebih baik. Saya tidak akan membiarkan usaha mereka sia-sia.
+Orang-orang seperti William Caslon, Baskerville, dll., mereka merintis pekerjaan sebagai desainer sejak abad 18 agar generasi penerus mereka mendapat tempat yang lebih baik. Saya tidak akan membiarkan usaha mereka sia-sia.
 
 <blockquote>
     <p>Seseorang saat ini sedang berteduh di bawah sebuah pohon yang rindang karena orang lain menanam pohon tersebut di masa lalu.</p>
