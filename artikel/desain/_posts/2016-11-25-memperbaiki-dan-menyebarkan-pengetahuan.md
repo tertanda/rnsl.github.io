@@ -58,10 +58,10 @@ Mengapa? Karena itu seperti ketika calon mertua bertanya apa pekerjaan Anda, dan
         Saya menggunakan kata &rdquo;we&ldquo; karena saya tidak akan melakukannya sendirian. Jika Anda menyukai apa yang Anda temukan di sini, Anda dapat membantu saya dengan menyebarkan website ini ke teman-teman Anda.
     </li>
     <li id="fn:3">
-        Saat ini, saya sedikit bodoh dan suka membaca. Jika Anda berpikir saya pintar, Anda salah memahami apa yang saya tulis. Saya mencoba untuk, seperti kata Munger, "Be less stupid and non-idiotic."
+        Saat ini, saya sedikit bodoh dan suka membaca. Jika Anda berpikir saya pintar, Anda salah memahami apa yang saya tulis. Saya mencoba untuk, seperti kata Munger, &rdquo;Be less stupid and non-idiotic.&ldquo;
     </li>
     <li id="fn:4">
-        Jika Anda menulis tentang "Bagaimana Cara Membuat Desain", maka orang-orang seperti Don Norman, Jared M. Spool, Steve Krug, Dieter Rams, Jakob Nielsen, dsb., akan melihat mata Anda dan berkata, "Serius?"
+        Jika Anda menulis tentang &rdquo;Bagaimana Cara Membuat Desain&ldquo;, maka orang-orang seperti Don Norman, Jared M. Spool, Steve Krug, Dieter Rams, Jakob Nielsen, dsb., akan melihat mata Anda dan berkata, &rdquo;Serius?&ldquo;
     </li>
     <li id="fn:5">
         Ada banyak orang yang saya hargai, beberapa dari mereka hidup jauh sebelum saya lahir, sedangkan mereka yang masih hidup sudah berumur 80 tahun lebih saat ini. Saya benar-benar terlambat.
