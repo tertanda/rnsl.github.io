@@ -19,7 +19,7 @@ Kecantikan visual pada desain memang membuat sesuatu lebih menyenangkan untuk di
 
 <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/800/1*MV21iSQZytC9e0akec7h-g.jpeg" alt="Bing dan Google" title="Bing dan Google"><small class="site-article__caption"><span class="oldstyle">1.0:</span> Bing atau Google?</small>
 
-Mengapa mesin pencari Google mengagumkan? Selain karena memberikan hasil yang baik, mereka memahami bagaimana membuat visual yang baik. Google melakukan banyak hal untuk membuat halaman mereka dapat dimuat dengan cepat—meskipun koneksi internet Anda buruk—dan mudah digunakan. Untuk itu, mereka harus menghilangkan hal-hal yang tidak berguna.
+Mengapa mesin pencari Google paling banyak digunakan? Selain karena memberikan hasil yang baik, mereka memahami bagaimana membuat visual yang baik. Google melakukan banyak hal untuk membuat halaman mereka dapat dimuat dengan cepat—meskipun koneksi internet Anda buruk—dan mudah digunakan. Untuk itu, mereka harus menghilangkan hal-hal yang tidak berguna.
 
 Berbeda jika Anda menggunakan mesin pencari Bing, Anda akan melihat kecantikan visual yang mengagumkan. Bing memiliki tampilan visual dengan *background* pemandangan yang memenuhi layar, berat dimuat, dan tidak berguna. Sepertinya Bing lupa jika kita menggunakan mesin pencari hanya untuk mencari informasi, bukan melihat gambar pemandangan.
 
