@@ -13,7 +13,7 @@ meta     : Memperbaiki sesuatu untuk diri sendiri dan orang lain. Jangan membuat
 
 Sebelum Anda membaca terlalu jauh, artikel ini bukan tentang desain, tetapi tentang mengapa saya melakukan apa yang saya lakukan di sini. Karena terkadang, saya mendapat saran untuk membuat konten seperti, "Bagaimana Cara Membuat [ketik sesuatu] dengan [ketik produk Adobe]." Saya menghargai itu. Tetapi, untuk menghemat waktu Anda, saya akan menjelaskan apa yang sedang saya lakukan.<sup><a href="#fn:1" title="Catatan Nr.1">1</a></sup>
 
-Pertama, ketika memulai Tertanda, saya memiliki prinsip yang menjadi pedoman ketika saya melakukan sesuatu, *"We don't ship junk!"* Saya mendengarnya dari Steve Jobs ketika ia ditanya mengapa Apple tidak membuat produk murahan.<sup><a href="#fn:2" title="Catatan Nr.2">2</a></sup> Wow! Saya pikir itu jawaban mengagumkan!
+Pertama, ketika memulai Tertanda, saya memiliki prinsip yang menjadi pedoman ketika saya melakukan sesuatu, *"We don't ship junk!"* Saya mendengarnya dari Steve Jobs ketika ia ditanya mengapa Apple tidak membuat produk murahan.<sup><a href="#fn:2" title="Catatan Nr.2">2</a></sup> Wow! Itu jawaban mengagumkan!
 
 Meskipun konten "bagaimana cara" memang banyak diminati dan memberikan banyak pembaca, saya tidak akan membuatnya. Tertanda tidak membuat sampah.<sup><a href="#fn:3" title="Catatan Nr.3">3</a></sup> Jika Anda mencarinya, ini bukan tempatnya. Saya ingin memperbaiki sesuatu, jika Anda ingin membantu, saya akan senang dan berterima kasih.
 
