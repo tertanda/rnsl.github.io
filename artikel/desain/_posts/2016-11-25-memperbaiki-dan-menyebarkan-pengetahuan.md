@@ -46,7 +46,7 @@ Kesalahpahaman terbesar tentang desain dan desainer adalah jika seseorang dapat 
 
 Mengapa? Karena itu seperti ketika calon mertua bertanya apa pekerjaan Anda, dan Anda berkata, "Saya adalah dokter," hanya karena Anda dapat menyembuhkan penyakit panas dengan mengkompres dahi. Jika Anda dapat menyembuhkan penyakit panas, bukan berarti itu artinya Anda menjadi dokter.
 
-<p class="hanging-quote">"Desain adalah kombinasi antara memahami manusia, teknologi, sosial, dan bisnis," ucap Don Norman. Saya ingin menyebarkannya, sedikit demi sedikit. Saya tidak tahu apakah ini akan bekerja, tetapi saya akan mencobanya.</p>
+<p class="hanging-quote">&ldquo;Desain adalah kombinasi antara memahami manusia, teknologi, sosial, dan bisnis,&rdquo; ucap Don Norman. Saya ingin menyebarkannya, sedikit demi sedikit. Saya tidak tahu apakah ini akan bekerja, tetapi saya akan mencobanya.</p>
 
 ##### Catatan
 
