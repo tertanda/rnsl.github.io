@@ -58,7 +58,7 @@ Mengapa? Karena itu seperti ketika calon mertua bertanya apa pekerjaan Anda, dan
     Saya menggunakan kata <em>&ldquo;we&rdquo;</em> karena saya tidak akan melakukannya sendirian. Jika Anda menyukai apa yang Anda temukan di sini, Anda dapat membantu saya dengan menyebarkan website ini ke teman-teman Anda.
     </li>
     <li id="fn:3">
-        Saat ini, saya sedikit bodoh dan suka membaca. Jika Anda berpikir saya pintar, Anda salah memahami apa yang saya tulis. Saya mencoba untuk, seperti kata Munger, &ldquo;Be less stupid and non-idiotic.&rdquo;
+        Saat ini, saya sedikit bodoh dan suka membaca. Jika Anda berpikir saya pintar, Anda salah memahami apa yang saya tulis. Saya mencoba untuk, seperti kata Munger, <em>&ldquo;Be less stupid and non-idiotic.&rdquo;</em>
     </li>
     <li id="fn:4">
         Jika Anda menulis tentang &ldquo;Bagaimana Cara Membuat Desain&rdquo;, maka orang-orang seperti Don Norman, Jared M. Spool, Steve Krug, Dieter Rams, Jakob Nielsen, dsb., akan melihat mata Anda dan berkata, &ldquo;Serius?&rdquo;
