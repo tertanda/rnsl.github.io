@@ -55,13 +55,13 @@ Mengapa? Karena itu seperti ketika calon mertua bertanya apa pekerjaan Anda, dan
         Tidak, saya tidak mencoba untuk mengubah pemikiran Anda tentang desain, itu tidak akan berhasil dan hanya akan membuang waktu saya. Saya hanya ingin memperbaiki sesuatu. Jika Anda tidak menganggapnya penting, saya tidak peduli. Jika Anda ingin mendebat, saya menghargainya, tetapi saya juga tidak punya waktu untuk itu. Waktu kita terbatas, jadi, lebih baik Anda melakukan apa yang Anda percayai, dan saya melakukan apa yang saya percayai.
     </li>
     <li id="fn:2">
-        Saya menggunakan kata &rdquo;we&ldquo; karena saya tidak akan melakukannya sendirian. Jika Anda menyukai apa yang Anda temukan di sini, Anda dapat membantu saya dengan menyebarkan website ini ke teman-teman Anda.
+        Saya menggunakan kata &ldquo;we&rdquo; karena saya tidak akan melakukannya sendirian. Jika Anda menyukai apa yang Anda temukan di sini, Anda dapat membantu saya dengan menyebarkan website ini ke teman-teman Anda.
     </li>
     <li id="fn:3">
-        Saat ini, saya sedikit bodoh dan suka membaca. Jika Anda berpikir saya pintar, Anda salah memahami apa yang saya tulis. Saya mencoba untuk, seperti kata Munger, &rdquo;Be less stupid and non-idiotic.&ldquo;
+        Saat ini, saya sedikit bodoh dan suka membaca. Jika Anda berpikir saya pintar, Anda salah memahami apa yang saya tulis. Saya mencoba untuk, seperti kata Munger, &ldquo;Be less stupid and non-idiotic.&rdquo;
     </li>
     <li id="fn:4">
-        Jika Anda menulis tentang &rdquo;Bagaimana Cara Membuat Desain&ldquo;, maka orang-orang seperti Don Norman, Jared M. Spool, Steve Krug, Dieter Rams, Jakob Nielsen, dsb., akan melihat mata Anda dan berkata, &rdquo;Serius?&ldquo;
+        Jika Anda menulis tentang &ldquo;Bagaimana Cara Membuat Desain&rdquo;, maka orang-orang seperti Don Norman, Jared M. Spool, Steve Krug, Dieter Rams, Jakob Nielsen, dsb., akan melihat mata Anda dan berkata, &ldquo;Serius?&rdquo;
     </li>
     <li id="fn:5">
         Ada banyak orang yang saya hargai, beberapa dari mereka hidup jauh sebelum saya lahir, sedangkan mereka yang masih hidup sudah berumur 80 tahun lebih saat ini. Saya benar-benar terlambat.
