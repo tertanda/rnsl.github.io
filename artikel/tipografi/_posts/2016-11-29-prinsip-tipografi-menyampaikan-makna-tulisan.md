@@ -18,7 +18,7 @@ Tipografi yang baik menyampaikan makna tulisan. Salah satu hal yang sering diaba
     <p class="smallcaps">Thomas Phinney</p>
 </blockquote>
 
-<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/800/1*9mdGlGZdYwEfsD6zsGQ0Nw.png" alt="Tipografi yang buruk." title="Tipografi yang buruk."><small class="site-article__caption">Tipografi yang buruk.</small>
+<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/800/1*9mdGlGZdYwEfsD6zsGQ0Nw.png" alt="Tipografi yang buruk." title="Tipografi yang buruk."><small class="site-article__caption">1.0: Tipografi yang buruk.</small>
 
 Jika Anda melihat gambar 1.0, akan ada satu kemungkinan; Anda tidak dapat membacanya dengan cepat, karena Anda tidak mungkin mengemudikan mobil dengan kecepatan 20km/h. Meskipun tulisan tersebut hanya terdiri dari dua kata, namun ada banyak kesalahan:
 
@@ -26,7 +26,7 @@ Jika Anda melihat gambar 1.0, akan ada satu kemungkinan; Anda tidak dapat membac
 2. Tentu tulisan tersebut terlihat indah, tetapi apakah mudah dibaca? Ingat, prinsip pertama tipografi yang baik adalah <a href="https://tertanda.com/artikel/tipografi/prinsip-tipografi-legibility-readability" title="Legibility dan Readability." target="_blank"><em>legible</em> dan <em>readable</em></a>.
 3. Bayangkan berapa banyak kecelakaan yang terjadi jika penunjuk jalan dibuat menggunakan *fonts* seperti itu. Inilah alasan mengapa kita perlu mempelajari tipografi.
 
-<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/800/1*9mdGlGZdYwEfsD6zsGQ0Nw.png" alt="Tipografi menyampaikan perasaan." title="Tipografi menyampaikan perasaan."><small class="site-article__caption">Tipografi menyampaikan perasaan.</small>
+<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/800/1*koIquYUhbeovtorgb-y4EQ.png" alt="Tipografi menyampaikan perasaan." title="Tipografi menyampaikan perasaan."><small class="site-article__caption">1.1: Tipografi menyampaikan perasaan.</small>
 
 Salah satu cara terbaik untuk mempelajari tipografi adalah dengan sering membaca dan mengamati. Untuk membuat belajar lebih sederhana, Anda dapat memulai dengan memahami perasaan *typefaces*:
 
