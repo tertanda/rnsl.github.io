@@ -11,7 +11,7 @@ intro    : 'Saya terkadang merasa bingung ketika seseorang bertanya "Bagaimana b
 meta     : Cara terbaik untuk belajar desain adalah dengan sering membaca. Desainer yang baik memahami manusia, teknologi, sosial dan bisnis.
 ---
 
-Ketika seseorang bertanya "Bagaimana belajar desain?", saya menjadi teringat nasihat; "Jangan bertanya sesuatu yang tidak ingin Anda dengar jawabannya." Saya terkadang merasa bingung karena mereka menginginkan jawaban seperti, "Saran saya, belajarlah teori warna dan *gestalt principles*."
+Ketika seseorang bertanya "Punya saran untuk belajar desain yang baik?", saya menjadi teringat nasihat; "Jangan bertanya sesuatu yang tidak ingin Anda dengar jawabannya." Saya terkadang merasa bingung karena mereka menginginkan jawaban seperti, "Saran saya, belajarlah teori warna dan *gestalt principles*."
 
 Tetapi, saya tidak memberi jawaban seperti itu, karena itu bukan jawaban yang baik. Saya akan diam sejenak untuk mencari jawaban yang lebih baik, lalu saya berkata, "Sering-sering membaca," dan mereka akan berkata, "Oh."
 
