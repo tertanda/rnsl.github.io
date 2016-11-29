@@ -8,7 +8,7 @@ banner   : "https://cdn-images-1.medium.com/max/800/1*h75MB0MJHIRz56ZSmJAXKQ.png
 icon     : "https://cdn-images-1.medium.com/max/800/1*AxcwMiHPp0Rpzr9b05WeIw.png"
 bantitle : "Prinsip Tipografi: Menyampaikan Makna Tulisan"
 meta     : Tipografi yang baik menyampaikan makna tulisan. Salah satu cara terbaik untuk mempelajari tipografi adalah dengan sering membaca dan mengamati.
-intro    : Tipografi yang baik bukan hanya menyampaikan makna tulisan, tetapi menambah makna ke dalam tulisan.
+intro    : Tipografi yang baik menambah makna ke dalam tulisan. Sebuah tulisan yang baik layak mendapat tipografi yang baik.
 ---
 
 Tipografi yang baik menyampaikan makna tulisan. Salah satu hal yang sering diabaikan oleh pemula adalah ketika memilih *typeface*, mereka hanya mencari dan melihatnya dengan sekilas, asalkan tampilannya cantik. Tetapi itu salah, memilih *typeface* adalah langkah akhir. Pertama, kita perlu membaca tulisan yang akan kita susun.
