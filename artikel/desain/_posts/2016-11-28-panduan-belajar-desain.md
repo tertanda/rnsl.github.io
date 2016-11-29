@@ -11,9 +11,11 @@ intro    : 'Saya terkadang merasa bingung ketika seseorang bertanya "Bagaimana b
 meta     : Cara terbaik untuk belajar desain adalah dengan sering membaca. Desainer yang baik memahami manusia, teknologi, sosial dan bisnis.
 ---
 
-Ketika seseorang bertanya "Bagaimana belajar desain?", saya menjadi teringat nasihat; "Jangan bertanya sesuatu yang tidak ingin Anda dengar jawabannya." Saya terkadang merasa bingung karena mereka menginginkan jawaban seperti, "Saran saya, belajarlah teori warna dan *gestalt principles*." Namun, saya tidak memberi jawaban seperti itu, karena itu bukan jawaban yang baik.
+Ketika seseorang bertanya "Bagaimana belajar desain?", saya menjadi teringat nasihat; "Jangan bertanya sesuatu yang tidak ingin Anda dengar jawabannya." Saya terkadang merasa bingung karena mereka menginginkan jawaban seperti, "Saran saya, belajarlah teori warna dan *gestalt principles*."
 
-Saya akan diam sejenak untuk mencari jawaban yang lebih baik, lalu saya berkata, "Sering-sering membaca," dan mereka akan berkata, "Oh." Saya suka nasihat Charlie Munger tentang bagaimana cara menjadi pintar, "Cara terbaik untuk menjadi pintar adalah dengan tidak menjadi bodoh." Nasihat yang jelas, bukan? Terdengar konyol? Apakah itu nasihat yang salah? Tidak, itu nasihat terbaik.
+Tetapi, saya tidak memberi jawaban seperti itu, karena itu bukan jawaban yang baik. Saya akan diam sejenak untuk mencari jawaban yang lebih baik, lalu saya berkata, "Sering-sering membaca," dan mereka akan berkata, "Oh."
+
+Saya suka nasihat Charlie Munger tentang bagaimana cara menjadi pintar, "Cara terbaik untuk menjadi pintar adalah dengan tidak menjadi bodoh." Nasihat yang jelas, bukan? Terdengar konyol? Apakah itu nasihat yang salah? Tidak, itu nasihat terbaik.
 
 Namun, apakah Anda ingin mendengar jawaban seperti itu ketika Anda bertanya, "Bagaimana cara menjadi pintar?" Tidak, Anda ingin mendengar jawaban yang Anda inginkan, seperti, "Belajarlah di pagi hari dan terus belajar saat teman-teman Anda tidur." Sesuatu yang terlihat komplek sebenarnya memiliki jawaban yang jelas, alasan mengapa kita tidak melihatnya karena kita tidak menginginkan jawaban tersebut.
 
