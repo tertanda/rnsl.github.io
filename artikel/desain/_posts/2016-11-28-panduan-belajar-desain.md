@@ -37,7 +37,7 @@ Ya, di sini Anda tidak menemukan *link* untuk membaca tulisan mereka, karena jik
 
 Saya yakin ini adalah cara yang baik untuk belajar.
 
-Ingatlah, terkadang pertanyaan yang terdengar komplek memiliki jawaban yang sederhana dan jelas. Dalam pengetahuan apa pun itu. Seperti finansial misalnya, Anda mungkin sering menemukan buku tentang bagaimana cara menjadi kaya, meskipun jawabannya sederhana dan jelas, "Cara terbaik untuk menjadi kaya adalah dengan tidak menjadi miskin."
+Ingatlah, terkadang pertanyaan yang terdengar komplek memiliki jawaban yang sederhana dan jelas. Dalam pengetahuan apa pun itu. Seperti finansial misalnya, "Cara terbaik untuk menjadi kaya adalah dengan tidak menjadi miskin." Lalu, yang perlu Anda lakukan hanyalah tidak melakukan apa yang akan membuat Anda miskin.
 
 Terakhir, ini akan membutuhkan waktu, dan terkadang Anda akan terjebak dengan membaca tulisan yang tidak masuk akal.<sup><a href="#fn:1" title="Catatan Nr.1">1</a></sup> Tetapi semakin Anda sering membaca, Anda akan dapat menilai kualitas konten, apakah emas atau sampah. 
 
