@@ -14,7 +14,7 @@ meta     : Tipografi yang baik menyampaikan makna tulisan. Salah satu cara terba
 Tipografi yang baik menyampaikan makna tulisan. Salah satu hal yang sering diabaikan oleh pemula adalah ketika memilih *typeface*, mereka hanya mencari dan melihatnya dengan sekilas, asalkan tampilannya cantik. Tetapi itu salah, memilih *typeface* adalah langkah akhir. Pertama, kita perlu membaca tulisan yang akan kita susun.
 
 <blockquote>
-    <p>Tipografi bukan hanya menyampaikan makna tulisan, tetapi menambah maka ke dalam tulisan.</p>
+    <p>Tipografi bukan hanya menyampaikan makna tulisan, tetapi menambah makna ke dalam tulisan.</p>
     <p class="smallcaps">Thomas Phinney</p>
 </blockquote>
 
