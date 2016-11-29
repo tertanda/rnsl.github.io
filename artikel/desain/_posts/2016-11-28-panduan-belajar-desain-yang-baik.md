@@ -31,7 +31,7 @@ Jika Anda menerima jawaban yang terlihat sederhana dan jelas tersebut, Anda akan
 
 Begitu pun dengan desain, jika Anda bertanya, "Bagaimana cara belajar desain?" Saya tidak memiliki jawaban yang lebih baik daripada, "Sering-sering membaca." Dan jika Anda bertanya lagi, "Apa yang harus saya baca?" Saya tidak tahu, apakah saya terlihat seperti Tuhan? Baca saja apa pun itu yang berhubungan dengan desain.
 
-Tetapi, untuk menghemat waktu Anda, saya tidak menyarankan untuk mempelajari bagaimana menggunakan *software* X, Y, dan Z. Saya menyarankan untuk memulai dengan mempelajari psikologi, bisnis, teknologi, dan pemasaran. Atau Anda dapat memulai dari membaca tulisan Don Norman, Jakob Nielsen, Jared M. Spool, dsb.
+Tetapi, untuk menghemat waktu Anda, saya tidak menyarankan untuk memulai dengan mempelajari bagaimana menggunakan *software* X, Y, dan Z. Saya menyarankan untuk memulai dengan mempelajari psikologi, bisnis, teknologi, dan pemasaran. Atau Anda dapat memulai dari membaca tulisan Don Norman, Jakob Nielsen, Jared M. Spool, dsb.
 
 Ya, di sini Anda tidak menemukan *link* untuk membaca tulisan mereka, karena jika Anda benar-benar membutuhkannya, Anda akan mencarinya. Jangan mengeluh jika mereka menulis dalam bahasa Inggris, kita memiliki Google Translate, saya menyalin tiap-tiap paragraf ke Google Translate ketika memulai belajar, memang terdengar menyedihkan, tetapi saya menyukainya.
 
