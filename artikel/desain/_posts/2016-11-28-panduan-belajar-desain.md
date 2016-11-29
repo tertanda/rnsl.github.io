@@ -19,7 +19,7 @@ Saya suka nasihat Charlie Munger tentang bagaimana cara menjadi pintar, "Cara te
 
 Namun, apakah Anda ingin mendengar jawaban seperti itu ketika Anda bertanya, "Bagaimana cara menjadi pintar?" Tidak, karena Anda ingin jawaban yang ingin Anda dengar, seperti, "Belajarlah di pagi hari dan terus belajar saat teman-teman Anda tidur."
 
-Sesuatu yang terlihat komplek sebenarnya memiliki jawaban yang jelas, alasan mengapa kita tidak melihatnya karena kita tidak menginginkan jawaban tersebut.
+Sesuatu yang terlihat komplek terkadang memiliki jawaban yang jelas dan sederhana, alasan mengapa kita tidak melihatnya karena kita tidak menginginkan jawaban tersebut.
 
 Masalahnya, ketika Anda mendapat jawaban, "Belajarlah di pagi hari dan terus belajar saat teman-teman Anda tidur," Anda sekarang memiliki masalah yang lebih besar, "Apa yang harus saya pelajari? Apakah belajar dengan giat akan membuat saya pintar?" Lalu Anda menanyakannya lagi, dan ingin mendengar jawaban, "Pelajarilah apa yang membuat Anda senang." meskipun jawaban yang benar adalah, "Nak, saya tidak tahu, apakah saya terlihat seperti Tuhan? Lakukan saja!"
 
