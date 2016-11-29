@@ -25,7 +25,7 @@ Lalu Anda menanyakannya lagi, dan Anda hanya ingin mendengar jawaban, "Pelajaril
 
 Di akhir hari, Anda masih akan bertanya, "Apa ya yang membuat saya senang? Apakah saya bisa menghasilkan uang dari itu? Tetapi bagaimana?" Hingga akhirnya, Anda menyerah dan menginginkan sebuah resep rahasia tentang bagaimana mempelajari sesuatu. Inilah alasan mengapa Anda melihat banyak sekali sampah di toko buku dengan judul, "Kaya Cepat, Tanpa Risiko".
 
-Itu tidak masuk akal, meskipun jawabannya sederhana dan jelas, "Cara terbaik untuk menjadi pintar adalah dengan tidak menjadi bodoh." Sesuatu yang terlihat komplek terkadang memiliki jawaban yang jelas dan sederhana, alasan mengapa kita tidak melihatnya karena kita tidak menginginkan jawaban tersebut.
+Itu tidak masuk akal, meskipun jawaban dari pertanyaan Anda adalah sederhana dan jelas, "Cara terbaik untuk menjadi pintar adalah dengan tidak menjadi bodoh." Sesuatu yang terlihat komplek terkadang memiliki jawaban yang jelas dan sederhana, alasan mengapa kita tidak melihatnya karena kita tidak menginginkan jawaban tersebut.
 
 Sayangnya, Anda tidak ingin jawaban itu.
 
