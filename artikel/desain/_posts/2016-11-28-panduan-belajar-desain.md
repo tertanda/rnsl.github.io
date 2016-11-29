@@ -27,8 +27,6 @@ Di akhir hari, Anda masih akan bertanya, "Apa ya yang membuat saya senang? Apaka
 
 Itu tidak masuk akal, meskipun jawaban dari pertanyaan Anda adalah sederhana dan jelas, "Cara terbaik untuk menjadi pintar adalah dengan tidak menjadi bodoh." Sesuatu yang terlihat komplek terkadang memiliki jawaban yang jelas dan sederhana, alasan mengapa kita tidak melihatnya karena kita tidak menginginkan jawaban tersebut.
 
-Sayangnya, Anda tidak ingin jawaban itu.
-
 Jika Anda menerima jawaban yang terlihat sederhana dan jelas tersebut, Anda akan mulai melakukan sesuatu yang berguna lebih awal. Alasannya, saya berani bertaruh jika Anda tahu bagaimana cara menjadi bodoh, jadi, yang perlu Anda lakukan hanyalah tidak melakukan hal-hal bodoh tersebut. Sesederhana itu.
 
 Begitu pun dengan desain, jika Anda bertanya, "Bagaimana cara belajar desain?" Saya tidak memiliki jawaban yang lebih baik daripada, "Sering-sering membaca." Dan jika Anda bertanya lagi, "Apa yang harus saya baca?" Saya tidak tahu, apakah saya terlihat seperti Tuhan? Baca saja apa pun itu yang berhubungan dengan desain.
