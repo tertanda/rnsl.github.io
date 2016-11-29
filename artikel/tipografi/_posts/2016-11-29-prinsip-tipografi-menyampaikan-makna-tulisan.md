@@ -7,7 +7,7 @@ permalink: artikel/tipografi/:title
 banner   : "https://cdn-images-1.medium.com/max/800/1*h75MB0MJHIRz56ZSmJAXKQ.png"
 icon     : "https://cdn-images-1.medium.com/max/800/1*AxcwMiHPp0Rpzr9b05WeIw.png"
 bantitle : "Prinsip Tipografi: Menyampaikan Makna Tulisan"
-intro    : "Tipografi yang baik menambah makna ke dalam tulisan. Sebuah tulisan yang baik layak mendapat tipografi yang baik."
+intro    : Tipografi yang baik menambah makna ke dalam tulisan. Sebuah tulisan yang baik layak mendapat tipografi yang baik.
 meta     : Tipografi yang baik menyampaikan makna tulisan. Salah satu cara terbaik untuk mempelajari tipografi adalah dengan sering membaca dan mengamati.
 ---
 
