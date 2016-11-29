@@ -1,6 +1,6 @@
 ---
 layout   : article
-title    : "Belajar Desain dan Segalanya"
+title    : "Belajar Desain"
 author   : El Nino H. Maulana
 category : desain
 permalink: artikel/desain/:title
