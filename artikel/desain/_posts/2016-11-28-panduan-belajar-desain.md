@@ -35,11 +35,11 @@ Tetapi, untuk menghemat waktu Anda, saya tidak menyarankan untuk mempelajari bag
 
 Ya, di sini Anda tidak menemukan *link* untuk membaca tulisan mereka, karena jika Anda benar-benar membutuhkannya, Anda akan mencarinya. Jangan mengeluh jika mereka menulis dalam bahasa Inggris, kita memiliki Google Translate, saya menyalin tiap-tiap paragraf ke Google Translate ketika memulai belajar, memang terdengar menyedihkan, tetapi saya menyukainya.
 
-Saya yakin ini adalah cara terbaik untuk belajar.
+Saya yakin ini adalah cara yang baik untuk belajar.
 
 Ingatlah, terkadang pertanyaan yang terdengar komplek memiliki jawaban yang sederhana dan jelas. Dalam pengetahuan apa pun itu. Seperti finansial misalnya, Anda mungkin sering menemukan buku tentang bagaimana cara menjadi kaya, meskipun jawabannya sederhana dan jelas, "Cara terbaik untuk menjadi kaya adalah dengan tidak menjadi miskin."
 
-Terakhir, ini akan membutuhkan waktu, dan terkadang Anda akan terjebak dengan membaca tulisan yang tidak masuk akal.<sup><a href="#fn:1" title="Catatan Nr.1">1</a></sup> Tetapi semakin Anda sering melakukannya, Anda dapat menilai kualitas konten, apakah emas atau sampah. Sering-seringlah membaca, itu mengagumkan!
+Terakhir, ini akan membutuhkan waktu, dan terkadang Anda akan terjebak dengan membaca tulisan yang tidak masuk akal.<sup><a href="#fn:1" title="Catatan Nr.1">1</a></sup> Tetapi semakin Anda sering membaca, Anda akan dapat menilai kualitas konten, apakah emas atau sampah. Sering-seringlah membaca, itu mengagumkan!
 
 ##### Catatan
 
