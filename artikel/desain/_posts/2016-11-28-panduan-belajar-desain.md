@@ -43,6 +43,6 @@ Terakhir, ini akan membutuhkan waktu, dan terkadang Anda akan terjebak dengan me
 
 <ol>
     <li id="fn:1">
-        Alasan mengapa di sini Anda tidak menemukan kontent seperti &ldquo;Bagaimana Cara Membuat [ketik sesuatu] dengan [ketik produk Adobe]&rdquo;, karena Anda tidak akan mempelajari desain dengan membaca artikel seperti itu. Saya ingin <a href="http://tertanda.com/artikel/desain/memperbaiki-dan-menyebarkan-pengetahuan" title="Menyebarkan pengetahuan desain." target="_blank">menyebarkan pengetahuan desain</a>, sebagaimana Don Norman, Jared M. Spool, dan orang-orang yang saya hargai membagi pengetahuan mereka dengan saya.
+        Alasan mengapa di sini Anda tidak menemukan kontent seperti &ldquo;Bagaimana Cara Membuat [ketik sesuatu] dengan [ketik produk Adobe]&rdquo;, karena Anda tidak akan mempelajari desain dengan membaca artikel seperti itu. Saya ingin <a href="http://tertanda.com/artikel/desain/memperbaiki-dan-menyebarkan-pengetahuan" title="Menyebarkan pengetahuan." target="_blank">menyebarkan pengetahuan</a> desain, sebagaimana Don Norman, Jared M. Spool, dan orang-orang yang saya hargai membagi pengetahuan mereka dengan saya.
     </li>
 </ol>
