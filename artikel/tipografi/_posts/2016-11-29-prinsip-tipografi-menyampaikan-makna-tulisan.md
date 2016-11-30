@@ -34,7 +34,7 @@ Salah satu cara terbaik untuk mempelajari tipografi adalah dengan sering membaca
 2. Sans-Serif: Serius dan tenang.
 3. Script: Romantis dan elegan.
 4. Monospace: Canggih atau kuno.
-5. Slab: Serius dan kuat.
+5. Slab Serif: Serius dan kuat.
 
 Salah satu yang sering membuat bingung adalah monospace, karena ia memiliki perasaan yang kurang jelas. Monospace memiliki kesan kuno karena digunakan pada *typewriter*, teks proklamasi ditulis meggunakan monospace. Di sisi lain, monospace juga terkesan canggih karena *programmer* menulis kode dengan monospace.
 
