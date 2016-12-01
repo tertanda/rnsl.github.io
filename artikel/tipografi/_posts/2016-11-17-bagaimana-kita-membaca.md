@@ -4,7 +4,7 @@ title    : Bagaimana Kita Membaca
 author   : El Nino H. Maulana
 category : tipografi
 permalink: artikel/tipografi/:title
-banner   : "https://cdn-images-1.medium.com/max/800/1*Or7HbXQrDR-pSAAaFLvseQ.png"
+banner   : "https://cdn-images-1.medium.com/max/800/1*WC5P9amLpuia02ZTQ-6u1Q.png"
 icon     : "https://cdn-images-1.medium.com/max/800/1*oxB-Gh9iEVk3ohm9f166gQ.png"
 bantitle : Bagaimana Kita Membaca 
 intro    : Kita tidak membaca kata demi kata, kita membaca cepat untuk menentukan kualitas tulisan dan menghemat waktu.
