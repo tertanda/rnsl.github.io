@@ -4,7 +4,7 @@ title    : Bagaimana Kita Melihat Huruf
 author   : El Nino H. Maulana
 category : tipografi
 permalink: artikel/tipografi/:title
-banner   : "https://cdn-images-1.medium.com/max/800/1*V4_A-Bmnfc9howaBUY_uhQ.png"
+banner   : "https://cdn-images-1.medium.com/max/800/1*jDv8XmwiVukVjxsxlU3p2A.png"
 icon     : "https://cdn-images-1.medium.com/max/800/1*RXOy-4aQR06Zg4smEZWkRw.png"
 bantitle : Bagaimana Kita Melihat Huruf 
 intro    : Ada banyak detail dalam tipografi, alasan mengapa kita tidak melihatnya karena desain yang baik tidak membuat kita berpikir.
