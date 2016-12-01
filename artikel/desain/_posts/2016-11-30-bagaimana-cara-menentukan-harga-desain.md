@@ -21,14 +21,14 @@ Menentukan harga yang tepat adalah sama pentingnya dengan melakukan pekerjaan de
 
 Kesalahan terbesar yang dilakukan oleh desainer ketika menentukan harga adalah dengan bertanya. Tidak peduli apa yang Anda lakukan, jangan pernah menanyakan harga kepada *client*, "Berapa Anda akan membayar ini? Bagaimana jika 2 juta?" Jangan pernah. Jika Anda melakukannya, akan ada dua kemungkinan:
 
-1. *Client* Anda menjadi ragu-ragu tentang apakah Anda benar-benar dapat melakukan pekerjaan. Bagaimana jika dokter Anda bertanya, "Jadi, Anda ingin operasi? Berapa Anda akan membayar saya? Bagaimana jika 5 juta?" Apakah Anda mau dokter tersebut melakukan operasi untuk Anda?
+1. *Client* Anda menjadi ragu-ragu tentang apakah Anda benar-benar dapat melakukan pekerjaan. Bagaimana jika dokter Anda bertanya, "Jadi, Anda ingin operasi? Berapa Anda akan membayar saya? Bagaimana jika 50 juta?" Apakah Anda mau dokter tersebut melakukan operasi untuk Anda?
 2. Jika *client* menyukai pekerjaan Anda, mereka akan berkata, "Sepertinya itu terlalu mahal, saya tidak terlalu cocok dengan hasilnya. Tetapi, untuk menghargai waktu Anda, saya hanya akan membayar 50%." Ingatlah satu hal, jika Anda mendengar kalimat seperti itu, apa yang sedang mereka lakukan adalah menurunkan harga dengan membuat Anda berpikir, "Terima saja daripada tidak sama sekali." Anda harus menolaknya.<sup><a href="#fn:1" title="Catatan Nr.1">1</a></sup>
 
 ## Tidak Ada Harga yang Sama
 
-Desainer pemula sering melakukan kesalahan dengan menerapkan harga yang sama. Jika *client* menginginkan logo, desainer akan berkata, "Biaya untuk membuat logo adalah 500 ribu." Jangan melakukannya. Ada perbedaan besar antara customer dan pelanggan.
+Desainer pemula sering melakukan kesalahan dengan menerapkan harga yang sama. Jika *client* menginginkan logo, desainer akan berkata, "Biaya untuk membuat logo adalah 500 ribu." Jangan melakukannya. Ada perbedaan besar antara *customer* dan pelanggan.
 
-Dalam industri desain, orang yang mempekerjakan Anda adalah customer, bukan pelanggan. Customer, seperti namanya, menginginkan sesuatu yang dibuat khusus. Anda juga harus menentukan harga yang sesuai.
+Dalam industri desain, orang yang mempekerjakan Anda adalah *customer*, bukan pelanggan. *Customer*, seperti namanya, menginginkan sesuatu yang dibuat khusus. Anda juga harus menentukan harga yang sesuai.
 
 Di sisi lain, *client* mungkin akan datang dan berkata, "Saya ke sini berdasarkan rekomendasi teman, ia berkata jika saya bisa mendapat logo dengan harga 500 ribu. Saya juga menginginkannya." Dalam hal ini, Anda juga harus berkata, "Harganya tergantung."
 
