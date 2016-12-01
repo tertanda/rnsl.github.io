@@ -4,7 +4,7 @@ title    : Panduan Belajar Desain yang Baik
 author   : El Nino H. Maulana
 category : desain
 permalink: artikel/desain/:title
-banner   : "https://cdn-images-1.medium.com/max/800/1*KoReGXa-UlRjoRJ4lFM6aQ.png"
+banner   : "https://cdn-images-1.medium.com/max/800/1*Or7HbXQrDR-pSAAaFLvseQ.png"
 icon     : "https://cdn-images-1.medium.com/max/800/1*oxB-Gh9iEVk3ohm9f166gQ.png"
 bantitle : Panduan Belajar Desain yang Baik
 intro    : 'Saya terkadang merasa bingung ketika seseorang bertanya "Bagaimana belajar desain?" Masalahnya, mereka tidak menginginkan jawaban yang sesungguhnya.'
