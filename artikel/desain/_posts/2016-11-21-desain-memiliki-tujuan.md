@@ -4,7 +4,7 @@ title    : Desain yang Baik Memiliki Tujuan
 author   : El Nino H. Maulana
 category : desain
 permalink: artikel/desain/:title
-banner   : "https://cdn-images-1.medium.com/max/800/1*Nu5gk1hVMdb3rXu8Lkeeqg.png"
+banner   : "https://cdn-images-1.medium.com/max/800/1*04XBdqYhloO5ROI2LW8Xqw.png"
 icon     : "https://cdn-images-1.medium.com/max/800/1*7rOwV2AtJ1s2qK5f3F4G_A.png"
 bantitle : Desain yang Baik Memiliki Tujuan
 intro    : Sesuatu yang didesain dengan tujuan yang jelas membantu kita memahami apa yang dapat dan tidak dapat kita lakukan dengannya.
