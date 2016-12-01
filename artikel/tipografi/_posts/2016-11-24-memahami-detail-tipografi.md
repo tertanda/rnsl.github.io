@@ -4,7 +4,7 @@ title    : Memahami Detail Tipografi
 author   : El Nino H. Maulana
 category : tipografi
 permalink: artikel/tipografi/:title
-banner   : "https://cdn-images-1.medium.com/max/800/1*gqaxfR8qDeCIzvZqZnb2_w.png"
+banner   : "https://cdn-images-1.medium.com/max/800/1*6-fBeREp-OfY4pilQn6qEQ.png"
 icon     : "https://cdn-images-1.medium.com/max/800/1*BMFkQEsuGBzWPxSxAD7-zw.png"
 bantitle : Memahami Detail Tipografi
 intro    : Sebuah tulisan yang baik, layak mendapat tipografi yang baik. Kita akan membicarakan bagaimana <em>typographer</em> memperhatikan detail.
