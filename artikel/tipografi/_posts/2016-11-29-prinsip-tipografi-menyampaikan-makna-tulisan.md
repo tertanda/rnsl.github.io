@@ -4,7 +4,7 @@ title    : "Prinsip Tipografi: Menyampaikan Makna Tulisan"
 author   : El Nino H. Maulana
 category : tipografi
 permalink: artikel/tipografi/:title
-banner   : "https://cdn-images-1.medium.com/max/800/1*h75MB0MJHIRz56ZSmJAXKQ.png"
+banner   : "https://cdn-images-1.medium.com/max/800/1*sMMgO_5GXnY_M3b8EgGVvw.png"
 icon     : "https://cdn-images-1.medium.com/max/800/1*AxcwMiHPp0Rpzr9b05WeIw.png"
 bantitle : "Prinsip Tipografi: Menyampaikan Makna Tulisan"
 intro    : Tipografi yang baik menambah makna ke dalam tulisan. Sebuah tulisan yang baik layak mendapat tipografi yang baik.
