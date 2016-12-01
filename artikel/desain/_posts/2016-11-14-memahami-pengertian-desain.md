@@ -5,7 +5,7 @@ author   : El Nino H. Maulana
 category : desain
 tag      : [popular, popdesain]
 permalink: artikel/desain/:title
-banner   : "https://cdn-images-1.medium.com/max/800/1*x4CWacKLkspzzN8uFMCL1A.png"
+banner   : "https://cdn-images-1.medium.com/max/800/1*sMMgO_5GXnY_M3b8EgGVvw.png"
 icon     : "https://cdn-images-1.medium.com/max/800/1*AxcwMiHPp0Rpzr9b05WeIw.png"
 bantitle : Memahami Desain
 intro    : Awalnya, semua hal yang ada di sekitar kita bermasalah, lalu kita memperbaikinya dengan inovasi dan desain.
