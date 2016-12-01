@@ -4,7 +4,7 @@ title    : Menilai Visual pada Desain
 author   : El Nino H. Maulana
 category : desain
 permalink: artikel/desain/:title
-banner   : "https://cdn-images-1.medium.com/max/800/1*imcCxHy99QI4vchDRYSYCw.png"
+banner   : "https://cdn-images-1.medium.com/max/800/1*kVwW3UBGs8t1nvr4yRXAtA.png"
 icon     : "https://cdn-images-1.medium.com/max/800/1*mqGf3U2X2tM3AeRG0OoHPw.png"
 bantitle : Menilai Visual pada Desain 
 intro    : Dalam desain, kejelasan adalah hal yang lebih penting daripada visual yang cantik. Karena sesuatu yang jelas memudahkan kehidupan.
