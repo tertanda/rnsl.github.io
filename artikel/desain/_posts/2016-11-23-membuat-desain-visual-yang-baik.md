@@ -4,7 +4,7 @@ title    : Desain Visual yang Baik
 author   : El Nino H. Maulana
 category : desain
 permalink: artikel/desain/:title
-banner   : "https://cdn-images-1.medium.com/max/800/1*gVjNypMAx72wLM-DrSTVWw.png"
+banner   : "https://cdn-images-1.medium.com/max/800/1*ldPBmTSCb9EFxpb4Bwy5uQ.png"
 icon     : "https://cdn-images-1.medium.com/max/800/1*6mAEnlSlwPoBd7a-XVvhtA.png"
 bantitle : Desain Visual yang Baik
 intro    : Untuk membuat desain visual yang baik, Anda harus memahami apa yang dibutuhkan orang lain. Desain yag baik harus mudah digunakan dan dipahami.
