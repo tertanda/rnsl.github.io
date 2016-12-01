@@ -5,7 +5,7 @@ author   : El Nino H. Maulana
 category : tipografi
 tag      : poptipografi
 permalink: artikel/tipografi/:title
-banner   : "https://cdn-images-1.medium.com/max/800/1*Jb4TdrxoU4B2gQJ4rZh8oA.png"
+banner   : "https://cdn-images-1.medium.com/max/800/1*LYzOWVRuymruZ9pRBgIxEg.png"
 icon     : "https://cdn-images-1.medium.com/max/800/1*9UW7PWgUx4dgn6h0XSabkA.png"
 bantitle : Memahami Tipografi
 intro    : Tipografi bukan hanya menyampaikan makna tulisan, tipografi menambah makna ke dalam tulisan.
