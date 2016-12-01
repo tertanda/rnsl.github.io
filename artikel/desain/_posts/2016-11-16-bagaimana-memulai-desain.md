@@ -4,7 +4,7 @@ title    : Mendesain dengan Informasi
 author   : El Nino H. Maulana
 category : desain
 permalink: artikel/desain/:title
-banner   : "https://cdn-images-1.medium.com/max/800/1*QPiJ2cKezQnHSgADqWvkAQ.png"
+banner   : "https://cdn-images-1.medium.com/max/800/1*RnZu7ZVvuqOFXoCy_nXvTw.png"
 icon     : "https://cdn-images-1.medium.com/max/800/1*N2OQjtjhm-XzWNkts2i06g.png"
 bantitle : Mendesain dengan Informasi
 intro    : Visual hanyalah cara desainer menyampaikan ekspresi, desainer memulai desain dengan Information Architecture.
