@@ -4,7 +4,7 @@ title    : Memperbaiki dan Menyebarkan Pengetahuan
 author   : El Nino H. Maulana
 category : desain
 permalink: artikel/desain/:title
-banner   : "https://cdn-images-1.medium.com/max/800/1*imcCxHy99QI4vchDRYSYCw.png"
+banner   : "https://cdn-images-1.medium.com/max/800/1*kVwW3UBGs8t1nvr4yRXAtA.png"
 icon     : "https://cdn-images-1.medium.com/max/800/1*mqGf3U2X2tM3AeRG0OoHPw.png"
 bantitle : Memperbaiki dan Menyebarkan Pengetahuan
 intro    : Mengapa saya menulis di sini? Karena saya hanya ingin memperbaiki sesuatu, seperti yang dilakukan oleh orang-orang yang saya hargai.
