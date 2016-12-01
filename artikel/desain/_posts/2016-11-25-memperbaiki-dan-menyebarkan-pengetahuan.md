@@ -15,7 +15,7 @@ Sebelum Anda membaca terlalu jauh, artikel ini bukan tentang desain, tetapi tent
 
 Pertama, ketika memulai Tertanda, saya memiliki prinsip yang menjadi pedoman ketika saya melakukan sesuatu, *"We don't ship junk!"* Saya mendengarnya dari Steve Jobs ketika ia ditanya mengapa Apple tidak membuat produk murahan.<sup><a href="#fn:2" title="Catatan Nr.2">2</a></sup> Wow! Itu jawaban mengagumkan!
 
-Meskipun konten "bagaimana cara" memang banyak diminati dan memberikan banyak pembaca, saya tidak akan membuatnya. Tertanda tidak membuat sampah.<sup><a href="#fn:3" title="Catatan Nr.3">3</a></sup> Jika Anda mencarinya, ini bukan tempatnya. Saya ingin memperbaiki sesuatu, jika Anda ingin membantu, saya akan senang dan berterima kasih.
+Meskipun konten "bagaimana cara membuat desain" memang banyak diminati dan memberikan banyak pembaca, saya tidak akan membuatnya. Tertanda tidak membuat sampah.<sup><a href="#fn:3" title="Catatan Nr.3">3</a></sup> Jika Anda mencarinya, ini bukan tempatnya. Saya ingin memperbaiki sesuatu, jika Anda ingin membantu, saya akan senang dan berterima kasih.
 
 Di sisi lain, saya memahami, jika Anda tidak membuat apa yang orang lain inginkan, Anda tidak akan mendapat banyak penghasilan. Tetapi, jangan khawatir, Anda tidak harus mendapat penghasilan karena melakukan apa yang Anda sukai. Saya setuju dengan apa yang dikatakan Paul Graham, "Melakukan apa yang Anda sukai dan bermanfaat untuk orang lain dan menghasilkan uang adalah hal yang susah dilakukan."
 
