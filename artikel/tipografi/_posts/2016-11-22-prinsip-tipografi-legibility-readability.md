@@ -4,7 +4,7 @@ title    : "Prinsip Tipografi: Legibility dan Readability"
 author   : El Nino H. Maulana
 category : tipografi
 permalink: artikel/tipografi/:title
-banner   : "https://cdn-images-1.medium.com/max/800/1*ELK0M2eHGk0pRZMDji_lDw.png"
+banner   : "https://cdn-images-1.medium.com/max/800/1*6-fBeREp-OfY4pilQn6qEQ.png"
 icon     : "https://cdn-images-1.medium.com/max/800/1*HCfApJ1rIZsBY-2mTp4zVQ.png"
 bantitle : Legibility dan Readability
 intro    : Tipografi ada untuk menghormati konten. Pastikan siapa pun, meskipun jika orang tersebut buta warna, mereka dapat membacanya dengan mudah.
