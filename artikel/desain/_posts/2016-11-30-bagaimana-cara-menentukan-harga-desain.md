@@ -42,6 +42,8 @@ Itu tidak masuk akal.
 
 Anda tidak dibayar berdasarkan berapa banyak waktu yang Anda perlukan untuk melakukan pekerjaan. Jika Anda dibayar berdasarkan waktu, cobalah besok untuk menghabiskan waktu menonton TV selama 8 jam dan lihat siapa yang akan membayar Anda. Tidak ada, karena Anda dibayar berdasarkan seberapa baik pekerjaan Anda.
 
+## Kesimpulan
+
 Prinsip-prinsip ini terdengar sederhana tetapi susah dilakukan. Alasannya, karena semuanya adalah penolakan. Jika Anda jarang menolak permintaan orang lain, Anda mungkin tidak dapat menerapkan prinsip-prinsip ini.
 
 Terakhir, ketika Anda menentukan harga desain, hitunglah dengan baik dan katakanlah dengan yakin. Ingat, orang senang membayar lebih untuk sesuatu yang baik. Lihat diri Anda, Anda senang membayar lebih untuk sesuatu yang baik. Jangan ragu-ragu, lakukanlah pekerjaan dengan baik.<sup><a href="#fn:1" title="Catatan Nr.2">2</a></sup>
