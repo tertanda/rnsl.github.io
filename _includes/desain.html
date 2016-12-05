@@ -1,5 +1,5 @@
 {%if page.url == "/artikel/"%}
-<h3 class="site-article__list-title"><a href="{%if page.url == '/artikel/'%}{{site.baseurl}}/artikel/desain/{%endif%}" class="site-article__list-title-link">Desain<span class="site-article__list-more">&rarr;</span></a></h3>
+<h3 class="site-article__list-title"><a href="{%if page.url == '/artikel/'%}{{site.baseurl}}/artikel/desain/{%endif%}" title="Artikel Desain" class="site-article__list-title-link">Desain<span class="site-article__list-more">&rarr;</span></a></h3>
 <ol class="site-article__list-list">
     {%for post in site.categories.desain limit: 3%}
     <li class="site-article__list-item">
