@@ -37,7 +37,7 @@ Ketika Anda menulis dalam bahasa Inggris, Anda akan menemukan tulisan seperti 19
 
 Untuk membuat tulisan terlihat lebih harmoni, jangan buat tanda kutip *italic*. Jika Anda menulis "*This is helpful!*", biarkan saja tanda kutip dalam keadaan normal. 
 
-Bagaimana dengan *bold*? Jika Anda menggunakan *bold* dan tanda kutip, kemungkinan Anda ingin menekankan sebuah kata. Solusi terbaik adalah Anda harus memilih salah satu, jika menggunakan *bold* jangan menggunakan tanda kutip, begitu pun sebaliknya. Kecuali pada judul, karena judul biasanya menggunakan *bold*.
+Bagaimana dengan *bold?* Jika Anda menggunakan *bold* dan tanda kutip, kemungkinan Anda ingin menekankan sebuah kata. Solusi terbaik adalah Anda harus memilih salah satu, jika menggunakan *bold* jangan menggunakan tanda kutip, begitu pun sebaliknya. Kecuali pada judul, karena judul biasanya menggunakan *bold*.
 
 ## Dimana Menggunakan Tanda Kutip
 
