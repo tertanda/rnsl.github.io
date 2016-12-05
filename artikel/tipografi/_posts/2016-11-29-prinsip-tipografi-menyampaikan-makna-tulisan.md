@@ -23,7 +23,7 @@ Tipografi yang baik menyampaikan makna tulisan. Salah satu hal yang sering diaba
 Jika Anda melihat gambar 1.0, akan ada satu kemungkinan; Anda tidak dapat membacanya dengan cepat, karena Anda tidak mungkin mengemudikan mobil dengan kecepatan 20km/h. Meskipun tulisan tersebut hanya terdiri dari dua kata, namun ada banyak kesalahan:
 
 1. *Font* yang digunakan tidak menyampaikan perasaan yang tepat, apakah "*Drive Safely*" memiliki kesan jatuh cinta? Tidak, tetapi serius dan waspada.
-2. Tentu tulisan tersebut terlihat indah, tetapi apakah mudah dibaca? Ingat, prinsip pertama tipografi yang baik adalah <a href="https://ransel.org/artikel/tipografi/prinsip-tipografi-legibility-readability" title="Legibility dan Readability." target="_blank"><em>legible</em> dan <em>readable</em></a>.
+2. Tentu tulisan tersebut terlihat indah, tetapi apakah mudah dibaca? Ingat, prinsip pertama tipografi yang baik adalah <a href="http://ransel.org/artikel/tipografi/prinsip-tipografi-legibility-readability" title="Legibility dan Readability." target="_blank"><em>legible</em> dan <em>readable</em></a>.
 3. Bayangkan berapa banyak kecelakaan yang terjadi jika penunjuk jalan dibuat menggunakan *fonts* seperti itu. Inilah alasan mengapa kita perlu mempelajari tipografi.
 
 <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/800/1*koIquYUhbeovtorgb-y4EQ.png" alt="Tipografi menyampaikan perasaan." title="Tipografi menyampaikan perasaan."><small class="site-article__caption">1.1: Tipografi menyampaikan perasaan.</small>
