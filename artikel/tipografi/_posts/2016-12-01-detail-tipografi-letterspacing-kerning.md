@@ -61,6 +61,6 @@ Tipografi adalah pengetahuan yang menarik. Kita belajar bagaimana menyampaikan m
 
 <ol>
     <li id="fn:1">
-        Kita akan membahas <em>small caps</em> dengan lebih detail pada seri Detail Tipografi minggu depan. Jika Anda memiliki saran atau pun komentar, silahkan kirim melalui <em>email</em>.
+        Kita akan membahas <em>small caps</em> dengan lebih detail pada seri Detail Tipografi minggu depan. Jika Anda memiliki saran atau pun komentar, silahkan kirim melalui <a href="mailto:halo@tertanda.com" title="Kirim Email">halo@tertanda.com</a>.
     </li>
 </ol>
