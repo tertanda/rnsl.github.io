@@ -3,6 +3,7 @@ layout   : article
 title    : Bagaimana Cara Menentukan Harga Desain
 author   : El Nino H. Maulana
 category : desain
+tag      : [popular, popdesain]
 permalink: artikel/desain/:title
 banner   : "https://cdn-images-1.medium.com/max/800/1*iG1KcMxWckD-ECtm_MaLlg.png"
 icon     : "https://cdn-images-1.medium.com/max/800/1*BnJJXPvjsVIfAcgvH2I-PQ.png"
