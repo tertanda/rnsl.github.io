@@ -8,7 +8,7 @@ permalink: artikel/desain/:title
 banner   : "https://cdn-images-1.medium.com/max/800/1*iG1KcMxWckD-ECtm_MaLlg.png"
 icon     : "https://cdn-images-1.medium.com/max/800/1*BnJJXPvjsVIfAcgvH2I-PQ.png"
 bantitle : Bagaimana Cara Menentukan Harga Desain
-intro    : 'Menentukan harga desain bisa menjadi hal yang merepotkan. Terkadang, itu membuat Anda berkata, "Bodoh! Saya menentukan harga terlalu murah."'
+intro    : Menentukan harga desain bisa menjadi hal yang merepotkan. Terkadang, itu membuat Anda berkata, &ldquo;Bodoh! Saya menentukan harga terlalu murah.&rdquo;
 meta     : Menentukan harga desain bisa menjadi hal yang merepotkan. Seperti halnya melakukan pekerjaan dengan baik, menentukan harga yang tepat juga menjadi hal yang penting. 
 ---
 
