@@ -13,8 +13,6 @@ meta     : Komposisi tipografi, tulisan yang baik layak mendapat tipografi yang 
 
 Ini adalah seri pertama di mana kita akan membicarakan komposisi karakter pada tipografi. Mungkin akan terlihat terlalu bertele-tele karena apa yang akan kita bicarakan adalah detail yang tidak terlihat. Meskipun pembaca tidak melihat detail tersebut, tetapi mereka tahu jika detail inilah yang membuat tulisan lebih nyaman dan mudah dibaca.
 
-*Typographer* yang baik memperhatikan detail, jadi, mari kita mempelajarinya.
-
 ## Dua Macam Tanda Kutip
 
 Tanda kutip adalah karakter yang sering digunakan dalam tulisan, tetapi apakah Anda menyadari jika tanda kutip dapat membuat kutipan Plato terkesan bodoh? Ya, jika Anda salah menggunakan tanda kutip, Anda akan mengacaukan kesan tulisan.
