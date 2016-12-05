@@ -11,7 +11,7 @@ intro    : Tidak ada yang salah dengan <em>minimalism</em>. Apa yang salah adala
 meta     : Minimalism saat ini sedang menjadi trend. Sayangnya, beberapa desainer salah memahaminya. Kita akan belajar memahami pengertian dan menerapkan minimalism dengan baik.
 ---
 
-*Minimalism* saat ini sedang menjadi *trend*. Jika Anda mengunjungi sebuah halaman *web*, Anda mungkin berkata, "Wow, *minimal*! Tetapi, ikon ini artinya apa, ya?" Tenang, itu bukan salah Anda karena *minimalism* memang "menyarankan" setiap "desainer" untuk membuat sesuatu yang cantik namun susah dipahami.
+*Minimalism* saat ini sedang menjadi *trend*. Jika Anda mengunjungi sebuah halaman *web*, Anda mungkin berkata, "Wow, *minimal!* Tetapi, ikon ini artinya apa, ya?" Tenang, itu bukan salah Anda karena *minimalism* memang "menyarankan" setiap "desainer" untuk membuat sesuatu yang cantik namun susah dipahami.
 
 Sehingga, jika Anda buta warna atau lanjut usia, maka Anda akan membenci mereka. Tetapi mereka tidak peduli asalkan mendapat komentar "*Well done!*" di Dribbble.
 
