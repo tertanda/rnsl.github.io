@@ -4,8 +4,8 @@ title    : Memahami dan Menerapkan Minimalism
 author   : El Nino H. Maulana
 category : desain
 permalink: artikel/desain/:title
-banner   : "https://cdn-images-1.medium.com/max/800/1*iG1KcMxWckD-ECtm_MaLlg.png"
-icon     : "https://cdn-images-1.medium.com/max/800/1*BnJJXPvjsVIfAcgvH2I-PQ.png"
+banner   : "https://cdn-images-1.medium.com/max/800/1*xy-AccvKKXmY2UZs1vKAuA.png"
+icon     : "https://cdn-images-1.medium.com/max/800/1*AxcwMiHPp0Rpzr9b05WeIw.png"
 bantitle : Memahami dan Menerapkan Minimalism
 intro    : Tidak ada yang salah dengan <em>minimalism</em>. Apa yang salah adalah ketika desainer menggunakan <em>minimalism</em> sebagai jawaban untuk segala masalah.
 meta     : Minimalism saat ini sedang menjadi trend. Sayangnya, beberapa desainer salah memahaminya. Kita akan belajar memahami pengertian dan menerapkan minimalism dengan baik.
