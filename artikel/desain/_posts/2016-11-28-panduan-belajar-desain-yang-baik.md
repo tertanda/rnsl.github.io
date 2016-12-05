@@ -47,6 +47,6 @@ Sering-seringlah membaca, itu mengagumkan!
 
 <ol>
     <li id="fn:1">
-        Alasan mengapa di sini Anda tidak menemukan konten seperti &ldquo;Bagaimana Cara Membuat [ketik sesuatu] dengan [ketik produk Adobe]&rdquo;, karena Anda tidak akan mempelajari desain dengan membaca artikel seperti itu. Saya ingin <a href="http://tertanda.com/artikel/desain/memperbaiki-dan-menyebarkan-pengetahuan" title="Menyebarkan pengetahuan." target="_blank">menyebarkan pengetahuan</a> desain, sebagaimana Don Norman, Jared M. Spool, dan orang-orang yang saya hargai membagi pengetahuan mereka dengan saya.
+        Alasan mengapa di sini Anda tidak menemukan konten seperti &ldquo;Bagaimana Cara Membuat [ketik sesuatu] dengan [ketik produk Adobe]&rdquo;, karena Anda tidak akan mempelajari desain dengan membaca artikel seperti itu. Saya ingin <a href="http://ransel.org/artikel/desain/memperbaiki-dan-menyebarkan-pengetahuan" title="Menyebarkan pengetahuan." target="_blank">menyebarkan pengetahuan</a> desain, sebagaimana Don Norman, Jared M. Spool, dan orang-orang yang saya hargai membagi pengetahuan mereka dengan saya.
     </li>
 </ol>
