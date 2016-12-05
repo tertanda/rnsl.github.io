@@ -7,7 +7,7 @@ permalink: artikel/desain/:title
 banner   : "https://cdn-images-1.medium.com/max/800/1*WC5P9amLpuia02ZTQ-6u1Q.png"
 icon     : "https://cdn-images-1.medium.com/max/800/1*oxB-Gh9iEVk3ohm9f166gQ.png"
 bantitle : Panduan Belajar Desain yang Baik
-intro    : 'Saya terkadang merasa bingung ketika seseorang bertanya "Bagaimana belajar desain?" Masalahnya, mereka tidak menginginkan jawaban yang sesungguhnya.'
+intro    : Saya terkadang merasa bingung ketika seseorang bertanya &ldquo;Bagaimana belajar desain?&rdquo; Masalahnya, mereka tidak menginginkan jawaban yang sesungguhnya.
 meta     : Cara terbaik untuk belajar desain adalah dengan sering membaca. Desainer yang baik memahami manusia, teknologi, sosial dan bisnis.
 ---
 
