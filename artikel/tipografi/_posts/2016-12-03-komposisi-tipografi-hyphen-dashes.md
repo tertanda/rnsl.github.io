@@ -27,7 +27,7 @@ Pada Mac dan PC, Anda dapat mengakses *hyphen* dengan mudah, simbol di sebelah k
 
 <p>Sedangkan, jika Anda ingin mengungkapkan jarak misalnya, New York&ndash;Nebraska, dan 08:00&ndash;16:00, gunakan <em>en dash</em> tanpa spasi.</p>
 
-<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/720/1*9IEHUnOcBkR5giHONe7yjg.png" alt="Panduan menggunakan en dash dan em dash." title="Panduan menggunakan en dash dan em dash."><small class="site-article__caption">1.0: Panduan menggunakan <em>en dash</em> dan <em>em dash</em>.</small>
+<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/720/1*-ebioLNyk0OsyH5BEAAdZg.png" alt="Panduan menggunakan en dash dan em dash." title="Panduan menggunakan en dash dan em dash."><small class="site-article__caption">1.0: Panduan menggunakan <em>en dash</em> dan <em>em dash</em>.</small>
 
 <p>Selain untuk menandakan jarak, <em>en dash</em> jika dengan spasi dapat digunakan untuk menyisipkan pikiran &ndash; karena mengapa tidak. Beberapa <em>typographer</em> seperti Erik Spiekermann dan Robert Bringhurst ketika menyisipkan pikiran memilih menggunakan <em>en dash</em> dengan spasi daripada <em>em dash</em> tanpa spasi.</p>
 
