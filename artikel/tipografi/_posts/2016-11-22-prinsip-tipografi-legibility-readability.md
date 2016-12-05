@@ -58,6 +58,6 @@ Ada beberapa hal lain yang perlu dipertimbangkan<sup><a href="#fn:2" title="Cata
         Ini adalah seri pertama di mana kita akan membahas prinsip dan pedoman tipografi yang baik. Artikel ini ditulis tanpa istilah-istilah desain yang rumit, supaya siapa pun selain desainer dan <em>typographer</em> dapat memahaminya.
     </li>
     <li id="fn:2">
-        Daftar dibuat sederhana untuk memudahkan kita memulai belajar. Kita akan terus membicarakannya lebih lengkap pada <a href="http://tertanda.com/artikel/tipografi/" title="Artikel Tipografi Tertanda" target="_blank">kolom tipografi</a>, jika menyukainya, Anda sebaiknya sering membacanya.
+        Daftar dibuat sederhana untuk memudahkan kita memulai belajar. Kita akan terus membicarakannya lebih lengkap pada <a href="http://ransel.org/artikel/tipografi/" title="Artikel Tipografi" target="_blank">Kolom Tipografi</a>, jika menyukainya, Anda sebaiknya sering membacanya.
     </li>
 </ol>
