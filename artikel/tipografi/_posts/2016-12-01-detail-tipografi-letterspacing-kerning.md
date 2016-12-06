@@ -19,7 +19,7 @@ Jika Anda memiliki teman *typographer*, kemungkinan ia akan sering mengeluh keti
 
 <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/720/1*k2VSxrTHYmzzitmnRe32zA.png" alt="Kerning." title="Kerning."><small class="site-article__caption">1.0: <em>Kerning</em>.</small>
 
-Lalu, bagaimana mengetahui jika *kerning* tidak diatur? Sederhana, Anda dapat melihatnya dengan sekilas. Perhatikan gambar 1.0, tulisan "*Typografi*" dengan *kerning* yang tidak diatur memiliki jarak yang tidak seimbang antara satu dengan yang lain, terutama pada sepasang karakter "Ty".
+Lalu, bagaimana mengetahui jika *kerning* tidak diatur? Sederhana, Anda dapat melihatnya dengan sekilas. Perhatikan gambar 1.0, tulisan "*Typography*" dengan *kerning* yang tidak diatur memiliki jarak yang tidak seimbang antara satu dengan yang lain, terutama pada sepasang karakter "Ty".
 
 <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/720/1*axkhIcc5YUZo-6PDLiK2fQ.png" alt="Mengatur kerning pada Adobe Illustrator." title="Mengatur kerning pada Adobe Illustrator."><small class="site-article__caption">1.1: Mengatur <em>kerning</em> pada Adobe Illustrator.</small>
 
