@@ -15,7 +15,7 @@ Ini adalah seri pertama di mana kita akan membicarakan komposisi karakter pada t
 
 ## Dua Macam Tanda Kutip
 
-Tanda kutip adalah karakter yang sering digunakan, tetapi apakah Anda menyadari jika tanda kutip dapat membuat kutipan Plato terkesan bodoh? Ya, jika Anda salah menggunakan tanda kutip, Anda akan mengacaukan kesan tulisan.
+Tanda kutip adalah karakter yang sering digunakan, tetapi apakah Anda tahu jika tanda kutip dapat membuat kutipan Plato terkesan bodoh? Ya, jika Anda salah menggunakan tanda kutip, Anda akan mengacaukan kesan tulisan.
 
 <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/720/1*Kt4MQkshJDjv0gkRfYJhUQ.png" alt="Curly dan straight quotation mark." title="Curly dan straight quotation mark."><small class="site-article__caption">1.0: <em>Curly</em> dan <em>straight quotation mark</em>.</small>
 
