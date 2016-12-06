@@ -11,7 +11,7 @@ intro    : Hyphen dan dashes adalah dua tanda yang jarang diperhatikan dalam tip
 meta     : Komposisi tipografi, tulisan yang baik layak mendapat tipografi yang baik. Dalam artikel ini, kita akan membicarakan bagaimana dan kapan menggunakan hyphen dan dashes.
 ---
 
-Catatan: jika Anda membaca seri Komposisi Tipografi hanya untuk membuat tulisan Anda menjadi lebih mudah dan nyaman dibaca, Anda dapat langsung membaca kesimpulan di bagian bawah artikel. Namun, jika Anda menyukai tipografi, maka Anda perlu membaca dari awal untuk memahami alasan mengapa *typographer* melakukan ini dan itu.
+Sebelum membaca terlalu jauh, jika Anda membaca seri Komposisi Tipografi hanya untuk membuat tulisan Anda menjadi lebih mudah dan nyaman dibaca, Anda dapat langsung membaca kesimpulan di bagian bawah artikel. Namun, jika Anda menyukai tipografi, maka Anda perlu membaca dari awal untuk memahami alasan mengapa *typographer* melakukan ini dan itu.
 
 Dalam artikel Komposisi Tipografi sebelumnya, kita membahas tentang <a href="http://ransel.org/artikel/tipografi/komposisi-tipografi-tanda-kutip" title="Komposisi Tipografi: Tanda Kutip" target="_blank">tanda kutip</a>. Beberapa orang berkomentar, "Itu hanya tanda kutip, kenapa membuatnya rumit?" Saya tidak memiliki jawaban yang lebih baik selain, "Bukan rumit, tetapi detail. *Typographer* belajar bagaimana menyusun detail tersebut untuk memudahkan pekerjaan pembaca."
 
