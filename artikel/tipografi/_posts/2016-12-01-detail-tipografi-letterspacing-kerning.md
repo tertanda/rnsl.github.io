@@ -41,7 +41,7 @@ Aturan ini tidak diterapkan untuk tulisan yang mengandung huruf kecil, seperti p
 
 ### 2. Small Caps
 
-*Small caps* adalah huruf besar yang berukuran sama dengan huruf kecil. *Small caps* biasanya digunakan untuk menulis singkatan karena terlihat lebih baik daripada *all caps* (huruf besar) ketika dibaca. Jika tulisan terdapat *small caps*, pastikan Anda menambah *letterspacing*.<sup><a href="#fn:1" title="Catatan Nr.1">1</a></sup>
+*Small caps* adalah huruf besar yang berukuran sama dengan huruf kecil. *Small caps* biasanya digunakan untuk menulis singkatan karena terlihat lebih baik daripada *all caps* (huruf besar) ketika dibaca. Jika tulisan terdapat *small caps*, pastikan Anda menambah *letterspacing* pada *small caps*.<sup><a href="#fn:1" title="Catatan Nr.1">1</a></sup>
 
 <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/720/1*za75ZDA2qAS_5l6zikRPsw.png" alt="Letterspacing pada small caps." title="Letterspacing pada small caps."><small class="site-article__caption">1.3: <em>Letterspacing</em> pada <em>small caps</em>.</small>
 
