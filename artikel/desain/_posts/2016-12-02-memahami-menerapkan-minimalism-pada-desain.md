@@ -13,7 +13,7 @@ meta     : Minimalism saat ini sedang menjadi trend. Sayangnya, beberapa desaine
 
 *Minimalism* saat ini sedang menjadi *trend*. Jika Anda mengunjungi sebuah halaman *web*, Anda mungkin berkata, "Wow, *minimal!* Tetapi, ikon ini artinya apa, ya?" Tenang, itu bukan salah Anda karena *minimalism* memang "menyarankan" setiap "desainer" untuk membuat sesuatu yang cantik namun susah dipahami.
 
-Sehingga, jika Anda buta warna atau lanjut usia, maka Anda akan membenci mereka. Tetapi mereka tidak peduli asalkan mendapat komentar "*Well done!*" di Dribbble.
+Sehingga, jika Anda buta warna atau lanjut usia, maka Anda akan membenci hasil pekerjaan mereka. Tetapi mereka tidak peduli asalkan mendapat komentar "*Well done!*" di Dribbble.
 
 Tidak ada yang salah dengan *minimalism*. Apa yang salah adalah ketika desainer menggunakan *minimalism* sebagai jawaban untuk segala masalah. Ketika ia ditanya, "Mengapa ini terlihat seperti ini, bukan seperti itu?" ia akan menjawab, "Supaya terlihat lebih *clean*, *minimal*, dan *modern*." Dan yang lebih parah adalah ketika ia menggunakan Apple sebagai jawaban, "Lihat Apple, ini yang mereka lakukan."
 
