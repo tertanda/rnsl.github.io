@@ -17,7 +17,7 @@ Dalam artikel Komposisi Tipografi sebelumnya, kita membahas tentang <a href="htt
 
 ## Hyphen dan Dashes
 
-<p>Ada tiga cara menghubungkan dan memisahkan kata, menggunakan: <em>hyphen</em>(-), <em>en dash</em>(&ndash;) dan <em>em dash</em>(&mdash;).</p>
+<p>Ada tiga cara menghubungkan dan memisahkan kata: <em>hyphen</em>(-), <em>en dash</em>(&ndash;) dan <em>em dash</em>(&mdash;).</p>
 
 Pada Mac dan PC, Anda dapat mengakses *hyphen* dengan mudah, simbol di sebelah kanan angka 9 itu adalah *hyphen*, bukan *minus*.<sup><a href="#fn:1" title="Catatan Nr.1">1</a></sup> *Hyphen* memiliki 3 fungsi:
 
@@ -25,7 +25,7 @@ Pada Mac dan PC, Anda dapat mengakses *hyphen* dengan mudah, simbol di sebelah k
 2. Untuk menandakan hubungan kata. Seperti beberapa kata di Indonesia: jalan-jalan dan berkeliling-keliling.
 3. Untuk menghubungkan kata-kata. Seperti pria-dua-puluh-lima-tahun.
 
-<p>Sedangkan, jika Anda ingin mengungkapkan jarak misalnya, New York&ndash;Nebraska, dan 08:00&ndash;16:00, gunakan <em>en dash</em> tanpa spasi.</p>
+<p>Sedangkan, jika Anda ingin mengungkapkan jarak, misalnya New York&ndash;Nebraska dan 08:00&ndash;16:00, gunakan <em>en dash</em> tanpa spasi.</p>
 
 <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/720/1*-ebioLNyk0OsyH5BEAAdZg.png" alt="Panduan menggunakan en dash dan em dash." title="Panduan menggunakan en dash dan em dash."><small class="site-article__caption">1.0: Panduan menggunakan <em>en dash</em> dan <em>em dash</em>.</small>
 
