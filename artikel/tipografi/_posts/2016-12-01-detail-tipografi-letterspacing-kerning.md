@@ -11,7 +11,7 @@ intro    : Kita akan membicarakan alasan mengapa Anda harus memperhatikan pasang
 meta     : Detail tipografi mempengaruhi penampilan tulisan dan kemudahan seseorang untuk membacanya. Dalam artikel ini, kita akan membicarakan letterspacing dan kerning.
 ---
 
-Jika Anda memiliki teman *typographer*, kemungkinan ia akan sering mengeluh ketika melihat *billboard* di pinggir jalan, "Sial! Orang yang membuatnya tidak mengatur *kerning* dengan baik." Artikel ini untuk orang-orang yang tidak memahami betapa menyakitkannya melihat *kerning* dan *letterspacing* yang buruk dan bagaimana memperbaikinya.
+Jika Anda memiliki teman *typographer*, kemungkinan ia akan sering mengeluh ketika melihat *billboard* di pinggir jalan, "Sial! Orang yang membuatnya tidak mengatur *kerning* dengan baik." Artikel ini untuk orang-orang yang tidak memahami betapa menyakitkannya melihat *kerning* dan *letterspacing* yang buruk.
 
 ## Pengertian Kerning
 
