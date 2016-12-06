@@ -4,8 +4,8 @@ title    : "Detail Tipografi: Letterspacing dan Kerning"
 author   : El Nino H. Maulana
 category : tipografi
 permalink: artikel/tipografi/:title
-banner   : "https://cdn-images-1.medium.com/max/800/1*iG1KcMxWckD-ECtm_MaLlg.png"
-icon     : "https://cdn-images-1.medium.com/max/800/1*BnJJXPvjsVIfAcgvH2I-PQ.png"
+banner   : "https://cdn-images-1.medium.com/max/800/1*TipWCJjhcMld9RwxUirFoA.png"
+icon     : "https://cdn-images-1.medium.com/max/800/1*227-97q_wI2nAGXnF71h1g.png"
 bantitle : "Detail Tipografi: Letterspacing dan Kerning"
 intro    : Kita akan membicarakan alasan mengapa Anda harus memperhatikan pasangan karakter spesial, seperti &ldquo;Ty&rdquo;, &ldquo;To&rdquo;, dsb.
 meta     : Detail tipografi mempengaruhi penampilan tulisan dan kemudahan seseorang untuk membacanya. Dalam artikel ini, kita akan membicarakan letterspacing dan kerning.
