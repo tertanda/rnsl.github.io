@@ -4,8 +4,8 @@ title    : "Komposisi Tipografi: Hyphen dan Dashes"
 author   : El Nino H. Maulana
 category : tipografi
 permalink: artikel/tipografi/:title
-banner   : "https://cdn-images-1.medium.com/max/800/1*iG1KcMxWckD-ECtm_MaLlg.png"
-icon     : "https://cdn-images-1.medium.com/max/800/1*BnJJXPvjsVIfAcgvH2I-PQ.png"
+banner   : "https://cdn-images-1.medium.com/max/800/1*tsfc8lCII4gIJVvf4kReOg.png"
+icon     : "https://cdn-images-1.medium.com/max/800/1*M3nGbrKSxaFRYIYHBxni8A.png"
 bantitle : "Komposisi Tipografi: Hyphen dan Dashes"
 intro    : Hyphen dan dashes adalah dua tanda yang jarang diperhatikan dalam tipografi.  Mereka berguna untuk menandakan jarak, memisahkan kata, dsb.
 meta     : Komposisi tipografi, tulisan yang baik layak mendapat tipografi yang baik. Dalam artikel ini, kita akan membicarakan bagaimana dan kapan menggunakan hyphen dan dashes.
@@ -15,7 +15,7 @@ Catatan: jika Anda membaca seri Komposisi Tipografi hanya untuk membuat tulisan 
 
 Dalam artikel Komposisi Tipografi sebelumnya, kita membahas tentang <a href="http://ransel.org/artikel/tipografi/komposisi-tipografi-tanda-kutip" title="Komposisi Tipografi: Tanda Kutip" target="_blank">tanda kutip</a>. Beberapa orang berkomentar, "Itu hanya tanda kutip, kenapa membuatnya rumit?" Saya tidak memiliki jawaban yang lebih baik selain, "Bukan rumit, tetapi detail. *Typographer* belajar bagaimana menyusun detail tersebut untuk memudahkan pekerjaan pembaca."
 
-# Hyphen dan Dashes
+## Hyphen dan Dashes
 
 <p>Ada tiga cara menghubungkan dan memisahkan kata, menggunakan: <em>hyphen</em>(-), <em>en dash</em>(&ndash;) dan <em>em dash</em>(&mdash;).</p>
 
