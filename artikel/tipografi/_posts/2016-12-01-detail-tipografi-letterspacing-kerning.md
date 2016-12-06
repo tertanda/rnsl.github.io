@@ -35,9 +35,9 @@ Tidak hanya terlihat buruk, *kerning* yang tidak diatur membuat tulisan menjadi 
 
 Ketika Anda menggunakan *bold*, kurangi jarak *letterspacing*. Ketika Anda menggunakan *light*, tambah jarak *letterspacing*. Sedangkan jika Anda menggunakan normal, biarkan saja *letterspacing* normal.
 
-Aturan ini tidak diterapkan untuk tulisan yang mengandung huruf kecil, karena jika salah mengaturnya, akan membuat tulisan kacau. Sehingga, biarkan saja *letterspacing* pada paragraf – karena mengandung huruf kecil – tetap normal. Tetapi pada judul misalnya, meskipun mengandung huruf kecil, aturan ini dapat digunakan, seperti pada gambar 1.2.
-
 <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/720/1*fi9wTD3EUyD3PFzki6BPYw.png" alt="Mengatur letterspacing." title="Mengatur letterspacing."><small class="site-article__caption">1.2: <em>Light</em>, <em>regular</em> dan <em>bold</em></small>
+
+Aturan ini tidak diterapkan untuk tulisan yang mengandung huruf kecil, seperti paragraf, karena jika salah mengaturnya, akan membuat tulisan kacau. Sehingga, biarkan saja *letterspacing* pada paragraf tetap normal. Tetapi pada judul misalnya, meskipun mengandung huruf kecil, aturan ini dapat digunakan.
 
 ### 2. Small Caps
 
