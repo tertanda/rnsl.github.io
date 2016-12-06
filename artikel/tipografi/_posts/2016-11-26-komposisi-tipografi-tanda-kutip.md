@@ -19,7 +19,7 @@ Tanda kutip adalah karakter yang sering digunakan, tetapi apakah Anda tahu jika 
 
 <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/720/1*Kt4MQkshJDjv0gkRfYJhUQ.png" alt="Curly dan straight quotation mark." title="Curly dan straight quotation mark."><small class="site-article__caption">1.0: <em>Curly</em> dan <em>straight quotation mark</em>.</small>
 
-<p>Ada dua macam tanda kutip: <em>curly</em> dan <em>straight</em>. <em>Straight quotation mark</em> juga disebut <em>dumb quotation mark</em>, inilah alasan mengapa Anda tidak ingin menggunakannya untuk mengutip ucapan Plato. Selalu gunakan <em>curly quotation mark</em> &ndash; disebut juga *smart quotation mark* -, karena lebih <a href="http://ransel.org/artikel/tipografi/prinsip-tipografi-legibility-readability" title="Legibility dan Readability." target="_blank"><em>legible</em> dan <em>readable</em></a>.</p>
+<p>Ada dua macam tanda kutip: <em>curly</em> dan <em>straight</em>. <em>Straight quotation mark</em> juga disebut <em>dumb quotation mark</em>, inilah alasan mengapa Anda tidak ingin menggunakannya untuk mengutip ucapan Plato. Selalu gunakan <em>curly quotation mark</em> &ndash; disebut juga <em>smart quotation mark</em> -, karena lebih <a href="http://ransel.org/artikel/tipografi/prinsip-tipografi-legibility-readability" title="Legibility dan Readability." target="_blank"><em>legible</em> dan <em>readable</em></a>.</p>
 
 <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/720/1*nWkDSPmLHTLuBHnWNj2VFA.png" alt="Kapan menggunakan curly dan straight quotation mark." title="Kapan menggunakan curly dan straight quotation mark."><small class="site-article__caption">1.1: Kapan menggunakan <em>curly</em> dan <em>straight quotation mark</em>.</small>
 
@@ -31,7 +31,7 @@ Ketika Anda menulis dalam bahasa Inggris, Anda akan menemukan tulisan seperti 19
 
 <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/720/1*VZTAwz8-VxZEmVcQVpcPCQ.png" alt="Menggunakan tanda kutip dengan benar." title="Menggunakan tanda kutip dengan benar."><small class="site-article__caption">1.2: Menggunakan tanda kutip dengan benar.</small>
 
-<p>Singkatnya, hilangkan tanda kutip di antara angka dan huruf, dan gunakan <em>right single quotation mark</em> untuk menandakan bahwa di depannya ada sesuatu, seperti <em>do not</em> menjadi <em>don't</em>, 1990s menjadi &rsquo;90s, dsb.</p>
+<p>Singkatnya, hilangkan tanda kutip di antara angka dan huruf, dan gunakan <em>right single quotation mark</em> untuk menandakan bahwa di depannya ada sesuatu, seperti <em>do not</em> menjadi <em>don&rsquo;t</em>, 1990s menjadi &rsquo;90s, dsb.</p>
 
 ## Italic dan Tanda Kutip
 
