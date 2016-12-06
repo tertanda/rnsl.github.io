@@ -23,9 +23,7 @@ Lalu, bagaimana mengetahui jika kerning tidak diatur? Sederhana, Anda dapat meli
 
 <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/720/1*axkhIcc5YUZo-6PDLiK2fQ.png" alt="Mengatur kerning pada Adobe Illustrator." title="Mengatur kerning pada Adobe Illustrator."><small class="site-article__caption">1.1: Mengatur <em>kerning</em> pada Adobe Illustrator.</small>
 
-*Typeface* yang dirancang dengan baik memiliki *kerning* yang baik. *Type designer* (orang yang merancang *typeface*) yang baik memudahkan pekerjaan *typographer*, salah satunya ketika mengatur *kerning*.
-
-Tidak hanya terlihat buruk, *kerning* yang tidak diatur membuat tulisan menjadi susah dibaca. Pastikan untuk mengatur kerning semua elemen dengan baik; paragraf, judul, *caption*, dsb. Namun jika Anda tidak yakin apakah Anda dapat mengatur *kerning* dengan baik atau tidak, biarkan saja.
+Tidak hanya terlihat buruk, *kerning* yang tidak diatur membuat tulisan menjadi susah dibaca. Pastikan untuk mengatur *kerning* semua elemen dengan baik; paragraf, judul, *caption*, dsb. Namun jika Anda tidak yakin apakah Anda dapat mengatur *kerning* dengan baik atau tidak, biarkan saja.
 
 ## Pengertian Letterspacing
 
