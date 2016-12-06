@@ -27,7 +27,7 @@ Tidak hanya terlihat buruk, *kerning* yang tidak diatur membuat tulisan menjadi 
 
 ## Pengertian Letterspacing
 
-*Letterspacing* adalah jarak karakter dalam satu kata. Jika *kerning* adalah jarak antara "T", "y", "p", dan "e", maka *letterspacing* adalah jarak antara "Type". Untuk mengatur *letterspacing* yang baik membutuhkan waktu yang lebih lama, berikut prinsip mengatur *letterspacing*.
+*Letterspacing* adalah jarak karakter dalam satu kata. Jika *kerning* adalah jarak antara "T", "y", "p", dan "e", maka *letterspacing* adalah jarak antara "*Type*". Untuk mengatur *letterspacing* yang baik membutuhkan waktu yang lebih lama, berikut prinsip mengatur *letterspacing*.
 
 ### 1. Font Weight
 
@@ -35,7 +35,7 @@ Ketika Anda menggunakan *bold*, kurangi jarak *letterspacing*. Ketika Anda mengg
 
 <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/720/1*fi9wTD3EUyD3PFzki6BPYw.png" alt="Mengatur letterspacing." title="Mengatur letterspacing."><small class="site-article__caption">1.2: <em>Light</em>, <em>regular</em> dan <em>bold</em></small>
 
-Aturan ini tidak diterapkan untuk tulisan yang mengandung huruf kecil, seperti paragraf, karena jika salah mengaturnya, akan membuat tulisan kacau. Sehingga, biarkan saja *letterspacing* pada paragraf tetap normal. Tetapi pada judul misalnya, meskipun mengandung huruf kecil, aturan ini dapat digunakan.
+Aturan ini tidak diterapkan untuk tulisan yang mengandung huruf kecil, seperti paragraf, karena jika salah mengaturnya akan membuat tulisan kacau. Sehingga, biarkan saja *letterspacing* pada paragraf tetap normal. Tetapi pada judul misalnya, meskipun mengandung huruf kecil, aturan ini dapat digunakan.
 
 ### 2. Small Caps
 
@@ -45,7 +45,7 @@ Aturan ini tidak diterapkan untuk tulisan yang mengandung huruf kecil, seperti p
 
 ### 3. Warna
 
-*Letterspacing* pada paragraf sebaiknya diatur normal, tidak ditambah atau pun dikurang. Namun, aturan itu tidak berlaku jika warna tulisan berwarna terang di atas gelap. Karena warna dapat membuat ilusi.
+*Letterspacing* pada paragraf sebaiknya diatur normal, tidak ditambah atau pun dikurang. Namun, aturan itu tidak berlaku jika tulisan berwarna terang di atas gelap. Karena warna dapat membuat ilusi.
 
 Sebuah tulisan yang sama akan tampil berbeda jika yang satu berwarna hitam di atas putih dan yang satu berwarna putih di atas hitam. Dalam kasus tulisan berwarana terang di atas gelap, Anda sebaiknya menambah *letterspacing* untuk membuatnya lebih mudah dibaca.
 
