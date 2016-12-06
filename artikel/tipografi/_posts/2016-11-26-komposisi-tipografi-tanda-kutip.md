@@ -4,8 +4,8 @@ title    : "Komposisi Tipografi: Tanda Kutip"
 author   : El Nino H. Maulana
 category : tipografi
 permalink: artikel/tipografi/:title
-banner   : "https://cdn-images-1.medium.com/max/800/1*iG1KcMxWckD-ECtm_MaLlg.png"
-icon     : "https://cdn-images-1.medium.com/max/800/1*BnJJXPvjsVIfAcgvH2I-PQ.png"
+banner   : "https://cdn-images-1.medium.com/max/800/1*R11R6hU4stv_Cs3oO7q_Cg.png"
+icon     : "https://cdn-images-1.medium.com/max/800/1*yBLUuYjsmlqzOxGUVtONZg.png"
 bantitle : "Komposisi Tipografi: Tanda Kutip"
 intro    : Tanda kutip adalah karakter yang sering digunakan dalam tulisan. Jika Anda salah menggunakannya, Anda akan mengacaukan kesan tulisan.
 meta     : Komposisi tipografi, tulisan yang baik layak mendapat tipografi yang baik. Dalam artikel ini, kita akan membicarakan bagaimana dan kapan menggunakan tanda kutip.
