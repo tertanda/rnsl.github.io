@@ -1,6 +1,6 @@
 ---
 layout   : article
-title    : "Prinsip Tipografi: Tipografi untuk Semua orang"
+title    : "Prinsip Tipografi: Tipografi untuk Semua Orang"
 author   : El Nino H. Maulana
 category : tipografi
 permalink: artikel/tipografi/:title
