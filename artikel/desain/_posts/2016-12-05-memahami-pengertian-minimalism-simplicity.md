@@ -35,7 +35,7 @@ Saya dan teman saya tahu jika VSCO adalah aplikasi untuk mengedit foto, tetapi k
 
 Ketika membicarakan *simplicity*, saya tidak membicarakan bagaimana sesuatu terlihat, tetapi bagaimana sesuatu bekerja. *Simple* itu jelas. *Simple* membuat Anda berkata, "Jika saya menekan tombol ini, maka saya akan mengirim pesan.", dsb.
 
-Jadi, jika lain kali Anda mendesain sesuatu, misalnya mengganti tulisan menu dengan ikon hamburger, pastikan Anda bertanya pada orang lain, "Lebih jelas mana tulisan antara 'Menu' dan ikon hamburger?" Ikon hamburger adalah *minimalism*, sedangkan tulisan menu adalah *simplicity*.
+Jadi, jika lain kali Anda mendesain sesuatu, misalnya mengganti tulisan menu dengan ikon hamburger, pastikan Anda bertanya pada orang lain, "Lebih jelas mana antara tulisan 'Menu' dan ikon hamburger?" Ikon hamburger adalah *minimalism*, sedangkan tulisan menu adalah *simplicity*.
 
 ##### Catatan
 
