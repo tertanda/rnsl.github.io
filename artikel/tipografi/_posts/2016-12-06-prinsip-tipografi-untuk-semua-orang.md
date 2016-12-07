@@ -25,7 +25,7 @@ Jika Anda tertarik dan memiliki waktu luang, saya menyarankan untuk membaca dua 
 
 ## Prinsip Kedua: Menyampaikan Makna Tulisan
 
-<p class="hanging-quote">"Tipografi bukan hanya menyampaikan makna tulisan, tetapi juga menambah makna ke dalam tulisan," ucap Thomas Phinney. Hal pertama yang perlu kita lakukan ketika akan menyusun tipografi adalah membaca tulisan dan memahami perasaannya. Anda tidak mungkin menggunakan Roboto Slab untuk berbelasungkawa.</p>
+<p class="hanging-quote">&ldquo;Tipografi bukan hanya menyampaikan makna tulisan, tetapi juga menambah makna ke dalam tulisan,&rdquo; ucap Thomas Phinney. Hal pertama yang perlu kita lakukan ketika akan menyusun tipografi adalah membaca tulisan dan memahami perasaannya. Anda tidak mungkin menggunakan Roboto Slab untuk berbelasungkawa.</p>
 
 <a href="https://ransel.org/artikel/tipografi/prinsip-tipografi-menyampaikan-makna-tulisan" title="Prinsip Tipografi: Menyampaikan Makna Tulisan" target="_blank">Prinsip Tipografi: Menyampaikan Makna Tulisan</a>
 
