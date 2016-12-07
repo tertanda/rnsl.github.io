@@ -41,6 +41,6 @@ Jadi, jika lain kali Anda mendesain sesuatu, misalnya mengganti tulisan menu den
 
 <ol>
     <li id="fn:1">
-        1. Saya tetap menggunakan kata <em>minimalism</em> dan <em>simplicity</em> untuk mempermudah Anda memahami apa yang saya tulis. Karena dalam bahasa Indonesia, keduanya memiliki terjemahan yang mirip.
+        Saya tetap menggunakan kata <em>minimalism</em> dan <em>simplicity</em> untuk mempermudah Anda memahami apa yang saya tulis. Karena dalam bahasa Indonesia, keduanya memiliki terjemahan yang mirip.
     </li>
 </ol>
