@@ -37,7 +37,7 @@ Tentu itu adalah hal yang susah dilakukan, tetapi Anda harus membantu mereka. Be
 
 1. Pastikan Anda telah melakukan kedua prinsip sebelumnya.
 2. Gunakan ukuran *font* yang mudah dibaca, karena semuanya tergantung ukuran media. Media di sini berarti kertas, layar, *billboard*, label pakaian, dsb. Pada layar *smartphone* dan laptop misalnya, rekomendasi ukuran *font minimal* adalah 16px.
-3. Gunakan warna dengan kontras yang baik. Jika Anda tidak yakin, gunakan Color Contrast Ratio untuk mengecek nilai kontras. Hitam di atas putih adalah kontras yang baik, sedangkan abu-abu terang di atas putih tidak.
+3. Gunakan warna dengan kontras yang baik. Jika Anda tidak yakin, gunakan <a href="http://leaverou.github.io/contrast-ratio/" title="Contrast Ratio" target="_blank">Contrast Ratio</a> untuk mengecek nilai kontras. Hitam di atas putih adalah kontras yang baik, sedangkan abu-abu terang di atas putih tidak.
 4. Berikan ruang kosong yang cukup, tidak terlalu longgar, tidak terlalu sempit. Jika Anda menulis satu paragraf yang terlalu panjang, sebaiknya pecah menjadi beberapa paragraf. Ruang kosong adalah teman Anda.
 
 <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/800/1*KRwi2ez-0qvdN7x8mP-uJA.png" alt="Tipografi yang baik." title="Tipografi yang baik."><small class="site-article__caption">Tipografi yang baik.</small>
