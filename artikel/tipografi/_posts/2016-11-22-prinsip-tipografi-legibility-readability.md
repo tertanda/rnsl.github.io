@@ -27,7 +27,7 @@ Tugas kita bukan mendekorasi.
 
 *Legibility* adalah kemudahan karakter untuk dibedakan. Jika huruf besar b dan angka 8 terlihat sama, itu akan berakibat buruk untuk orang lain, mereka akan berkata, "Oh, 128, saya pikir 12B." Dalam hal ini, *typeface* adalah yang paling berpengaruh, karena mereka lah yang menentukan bentuk karakter.
 
-*Readability* adalah kemudahan tulisan untuk dibaca. *legibility* akan mempengaruhi *readability*, jika karakter tidak mudah dibedakan (*ilegible*), tulisan menjadi tidak mudah dibaca (*unreadable*). Di sisi lain, *readability* juga dipengaruhi oleh banyak hal, seperti warna, ruang kosong, ukuran, dsb.
+*Readability* adalah kemudahan tulisan untuk dibaca. *Legibility* akan mempengaruhi *readability*, jika karakter tidak mudah dibedakan (*ilegible*), tulisan menjadi tidak mudah dibaca (*unreadable*). Di sisi lain, *readability* juga dipengaruhi oleh banyak hal, seperti warna, ruang kosong, ukuran, dsb.
 
 ### Mempraktekkan Legibility
 Cara terbaik untuk membuat tulisan *legible* adalah mengamati karakter satu per satu. Ketika memilih *typeface*, jangan melihatnya dengan sekilas, perhatikan semua bentuk karakter. Memang terdengar membingungkan, tetapi sebenarnya tidak. Jika Anda tidak yakin memulai dari mana, berikut panduan daftar dan ilustrasi:
