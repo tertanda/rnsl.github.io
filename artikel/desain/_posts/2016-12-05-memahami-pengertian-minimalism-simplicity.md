@@ -15,7 +15,7 @@ Kemarin, saya menulis <a href="http://ransel.org/artikel/desain/memahami-menerap
 
 ## Minimalism dan Simplicity
 
-*Minimalism* adalah bagaimana sesuatu terlihat. Jika Anda pernah menggunakan aplikasi VSCO — kecuali jika Anda adalah salah satu orang yang membuatnya — saya berani bertaruh jika Anda pernah berpikir, "Wow, *minimal!* Tetapi, ikon ini artinya apa, ya?"
+*Minimalism* adalah bagaimana sesuatu terlihat. Jika Anda pernah menggunakan aplikasi VSCO – kecuali jika Anda adalah salah satu orang yang membuatnya – saya berani bertaruh jika Anda pernah berpikir, "Wow, *minimal!* Tetapi, ikon ini artinya apa, ya?"
 
 Di sisi lain, *simplicity* adalah bagaimana sesuatu bekerja. *Simple* tidak harus tampil *minimal*. Simple itu jelas. Sesuatu yang *simple* membuat Anda berpikir, "Nah, ini adalah tombol untuk mencari dan itu adalah tombol untuk mengirim."
 
