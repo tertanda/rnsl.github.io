@@ -27,7 +27,7 @@ Jika Anda membuat mesin pencari, berikan kami privasi dan hasil pencarian yang l
 
 Hal yang mengganggu saya adalah sesuatu yang dibuat dengan mengandalkan kecantikan visual dan kelengkapan fitur. Orang-orang tidak peduli bagaimana tampilannya dan apa fiturnya, asalkan produk tersebut mudah digunakan, bekerja dengan baik, dan memberikan manfaat, mereka akan menyukainya. Lihat Instagram, awalnya mereka sangat sederhana, begitu pula Dropbox.
 
-<p class="hanging-quote">&ldquo;The first draft of anything is shit,&rdquo; ucap Hemingway. Sebutkan sebuah produk sukses yang berumur setidaknya 5 tahun; versi pertama Apple, Google, Facebook, dsb., terlihat buruk secara visual dan memiliki fitur terbatas. Tetapi mereka menyajikan apa yang kita inginkan dengan lebih baik, dan itu adalah yang terpenting.</p>
+<p class="hanging-quote">&ldquo;<em>The first draft of anything is shit</em>,&rdquo; ucap Hemingway. Sebutkan sebuah produk sukses yang berumur setidaknya 5 tahun; versi pertama Apple, Google, Facebook, dsb., terlihat buruk secara visual dan memiliki fitur terbatas. Tetapi mereka menyajikan apa yang kita inginkan dengan lebih baik, dan itu adalah yang terpenting.</p>
 
 ##### Catatan
 
