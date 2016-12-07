@@ -4,8 +4,8 @@ title    : Membuat Produk Sedikit Lebih Baik
 author   : El Nino H. Maulana
 category : desain
 permalink: artikel/desain/:title
-banner   : "https://cdn-images-1.medium.com/max/800/1*U35Ta7pEAilEc_nWGFWigg.png"
-icon     : "https://cdn-images-1.medium.com/max/800/1*ggpPGbumPLxhkAtkzZ43ew.png"
+banner   : "https://cdn-images-1.medium.com/max/800/1*nJjdPCkvvmPza5hvvyiiCw.png"
+icon     : "https://cdn-images-1.medium.com/max/800/1*LI-k589IZU8-qyLJfn9ccg.png"
 bantitle : Membuat Produk Sedikit Lebih Baik
 intro    : Semua produk yang saat ini sukses adalah produk yang setidaknya sedikit lebih baik daripada produk yang sudah ada. Seperti, Google adalah Yahoo! versi yang lebih baik.
 meta     : Untuk membuat produk yang baik, kita perlu memikirkan apa yang diperlukan orang lain. Mereka tidak peduli bagaimana tampilannya dan apa fiturnya, asalkan produk tersebut mudah digunakan, bekerja dengan baik, dan memberikan manfaat, mereka akan menyukainya.
