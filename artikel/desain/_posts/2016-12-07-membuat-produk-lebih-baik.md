@@ -21,7 +21,7 @@ Lihat Google, Facebook, Apple, dsb., mereka memiliki kesamaan: sedikit lebih bai
 
 Sebangsa melakukan kesalahan dengan membuat ulang Facebook Group tanpa membuatnya sedikit lebih baik dalam hal yang terpenting: konten. Ketika menggunakan Sebangsa, Anda akan melihat banyak sampah yang juga dapat Anda temukan di Facebook Group, jadi mengapa Anda perlu repot-repot mencarinya di tempat lain? Tetapi apakah sampah yang Anda inginkan? Tidak, tetapi konten berkualitas.
 
-Lihat Quora, Quora adalah Yahoo! Answer versi yang lebih baik. Jika Anda ingin sampah kunjungi Yahoo! Answer, jika Anda ingin pengetahuan kunjungi Quora. Quora memberikan konten yang lebih baik, dan itulah yang kita inginkan. Jika Anda tidak dapat membuat sesuatu yang lebih baik, lakukan saja yang lain.
+Lihat Quora, Quora adalah Yahoo! Answer versi yang lebih baik. Jika Anda ingin sampah kunjungi Yahoo! Answer, jika Anda ingin pengetahuan kunjungi Quora. Quora memberikan konten yang lebih baik, dan itulah yang kita inginkan.
 
 Hal yang mengganggu saya adalah sesuatu yang dibuat dengan mengandalkan kecantikan visual dan kelengkapan fitur. Orang-orang tidak peduli bagaimana tampilannya dan apa fiturnya, asalkan produk tersebut mudah digunakan, bekerja dengan baik, dan memberikan manfaat, mereka akan menyukainya. Lihat Instagram, awalnya mereka sangat sederhana, begitu pula Dropbox.
 
