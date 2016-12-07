@@ -21,11 +21,11 @@ Lihat Google, Facebook, Apple, dsb., mereka memiliki kesamaan: sedikit lebih bai
 
 Sebangsa melakukan kesalahan dengan membuat ulang Facebook Group tanpa membuatnya sedikit lebih baik dalam hal yang terpenting: konten. Ketika menggunakan Sebangsa, Anda akan melihat banyak sampah yang juga dapat Anda temukan di Facebook Group, jadi mengapa Anda perlu repot-repot mencarinya di tempat lain? Tetapi apakah sampah yang Anda inginkan? Tidak, tetapi konten berkualitas.
 
-Lihat Quora, Quora adalah Yahoo! Answer versi yang lebih baik. Jika Anda ingin sampah kunjungi Yahoo! Answer, jika Anda ingin pengetahuan kunjungi Quora. Quora memberikan konten yang lebih baik, dan itulah yang kita inginkan.
+Lihat Quora, Quora adalah Yahoo! Answer versi yang lebih baik. Jika Anda ingin sampah kunjungi Yahoo! Answer, jika Anda ingin pengetahuan kunjungi Quora. Quora memberikan konten yang lebih baik, dan itulah yang kita inginkan. Kita menginginkan sesuatu yang lebih baik.
+
+Jika Anda membuat mesin pencari, berikan kami privasi dan hasil pencarian yang lebih baik – lihat DuckDuckGo, mereka sedang membuatnya. Jika Anda membuat media sosial untuk tanya jawab, berikan kami konten yang lebih baik – lihat Quora, mereka sedang membuatnya.
 
 Hal yang mengganggu saya adalah sesuatu yang dibuat dengan mengandalkan kecantikan visual dan kelengkapan fitur. Orang-orang tidak peduli bagaimana tampilannya dan apa fiturnya, asalkan produk tersebut mudah digunakan, bekerja dengan baik, dan memberikan manfaat, mereka akan menyukainya. Lihat Instagram, awalnya mereka sangat sederhana, begitu pula Dropbox.
-
-Kita menginginkan sesuatu yang lebih baik. Jika Anda membuat mesin pencari, berikan kami privasi dan hasil pencarian yang lebih baik – lihat DuckDuckGo, mereka sedang membuatnya. Jika Anda membuat media sosial untuk tanya jawab, berikan kami konten yang lebih baik – lihat Quora, mereka sedang membuatnya.
 
 <p class="hanging-quote">&ldquo;The first draft of anything is shit,&rdquo; ucap Hemingway. Sebutkan sebuah produk sukses yang berumur setidaknya 5 tahun; versi pertama Apple, Google, Facebook, dsb., terlihat buruk secara visual dan memiliki fitur terbatas. Tetapi mereka menyajikan apa yang kita inginkan dengan lebih baik, dan itu adalah yang terpenting.</p>
 
