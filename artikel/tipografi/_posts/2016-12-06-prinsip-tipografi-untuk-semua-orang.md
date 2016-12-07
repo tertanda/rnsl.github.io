@@ -13,13 +13,13 @@ meta     : Prinsip tipografi. Tugas typographer adalah menyusun tipografi untuk 
 
 Ini adalah artikel ketiga dan terakhir dalam seri Prinsip Tipografi. Saya berusaha menuliskannya sesederhana mungkin agar mudah dipahami oleh siapa pun, bukan hanya desainer dan *typographer*.
 
-Jika Anda tertarik dan memiliki waktu luang, saya menyarankan untuk membaca dua prinsip tipografi yang lain: *Legible* dan *Readable*, dan Tipografi Menyampaikan Makna Tulisan. Mari kita melihat apa yang sudah kita pelajari sejauh ini.
+Jika Anda tertarik dan memiliki waktu luang, saya menyarankan untuk membaca dua prinsip tipografi yang lain: <a href="https://ransel.org/artikel/tipografi/prinsip-tipografi-legibility-readability" title="Prinsip Tipografi: Legibility dan Readability" target="_blank"><em>Legible</em> dan <em>Readable</em></a>, dan <a href="https://ransel.org/artikel/tipografi/prinsip-tipografi-menyampaikan-makna-tulisan" title="Prinsip Tipografi: Menyampaikan Makna Tulisan" target="_blank"> Menyampaikan Makna Tulisan</a>. Mari kita melihat apa yang sudah kita pelajari sejauh ini.
 
 ## Prinsip Pertama: Legible dan Readable
 
 *Legibility* adalah kemudahan karakter untuk dibedakan. Jika huruf besar B dan angka 8 terlihat sama, itu akan berakibat buruk untuk orang lain, mereka akan berkata, "Oh, 128, saya pikir 12B." Dalam hal ini, *typeface* adalah yang paling berpengaruh, karena mereka lah yang menentukan bentuk karakter.
 
-*Readability* adalah kemudahan tulisan untuk dibaca. *legibility* akan mempengaruhi *readability*, jika karakter tidak mudah dibedakan (*ilegible*), tulisan menjadi tidak mudah dibaca (*unreadable*). Di sisi lain, *readability* juga dipengaruhi oleh banyak hal, seperti warna, ruang kosong, ukuran, dsb.
+*Readability* adalah kemudahan tulisan untuk dibaca. *Legibility* akan mempengaruhi *readability*, jika karakter tidak mudah dibedakan (*ilegible*), tulisan menjadi tidak mudah dibaca (*unreadable*). Di sisi lain, *readability* juga dipengaruhi oleh banyak hal, seperti warna, ruang kosong, ukuran, dsb.
 
 <a href="https://ransel.org/artikel/tipografi/prinsip-tipografi-legibility-readability" title="Prinsip Tipografi: Legibility dan Readability" target="_blank">Prinsip Tipografi: <em>Legibility</em> dan <em>Readability</em></a>
 
