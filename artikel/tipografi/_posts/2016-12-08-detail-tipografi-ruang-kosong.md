@@ -39,7 +39,7 @@ Tidak ada aturan khusus untuk *margin*. Prinsipnya adalah pastikan tulisan dapat
 
 ## Line Length pada Tipografi
 
-*Line length* adalah panjang baris, dihitung dengan banyaknya karakter. Sebuah baris yang terlalu panjang, misalnya berisi lebih dari 80 karakter, akan terlihat membosankan dan terlalu banyak untuk dibaca. Aturannya adalah pada setiap baris setidaknya hanya terdapat 40–75 karakter.
+*Line length* adalah panjang baris, dihitung dengan banyaknya karakter. Sebuah baris yang terlalu panjang, misalnya berisi lebih dari 80 karakter, akan terlihat membosankan dan terlalu banyak untuk dibaca. Aturannya adalah pada setiap baris setidaknya hanya terdapat 40–70 karakter.
 
 <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/800/1*FrX6NCgUy3AsTxCimCQFMg.png" alt="Line length." title="Line length."><small class="site-article__caption"><em>Line length</em> yang buruk, terlalu panjang.</small>
 
