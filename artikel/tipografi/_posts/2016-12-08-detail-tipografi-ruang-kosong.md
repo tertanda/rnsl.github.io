@@ -19,9 +19,9 @@ Seperti halnya rumah, semakin banyak barang di dalamnya, semakin sedikit ruang k
 
 ## Gunakan Leading yang Sesuai
 
-*Leading* disebut juga *line height* adalah jarak vertikal antara baris satu dan dua, dua dan tiga, dst. Semakin sedikit jaraknya, semakin susah untuk dibaca, begitu pula jika semakin banyak jaraknya. Aturannya cukup sederhana, untuk paragraf, gunakan *leading* antara 1.15-1.45 dari ukuran *font*.
+*Leading* disebut juga *line height* adalah jarak vertikal antara baris satu dan dua, dua dan tiga, dst. Semakin sedikit jaraknya, semakin susah untuk dibaca, begitu pula jika semakin banyak jaraknya. Aturannya cukup sederhana, untuk paragraf, gunakan *leading* antara 1.15–1.45 dari ukuran *font*.
 
-Sedangkan untuk judul (*heading*), gunakan *leading* antara 1-1.25 dari ukuran *font*. Karena judul hanya memiliki sedikit kata, jika Anda mengatur *leading* pada judul terlalu longgar, hal itu akan membuat jarak yang aneh.
+Sedangkan untuk judul (*heading*), gunakan *leading* antara 1–1.25 dari ukuran *font*. Karena judul hanya memiliki sedikit kata, jika Anda mengatur *leading* pada judul terlalu longgar, hal itu akan membuat jarak yang aneh.
 
 <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/800/1*MowRX4ISk79jkI71s8OmsA.png" alt="Leading yang baik." title="Leading yang baik."><small class="site-article__caption"><em>Leading</em> yang baik.</small>
 
