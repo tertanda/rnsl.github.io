@@ -13,7 +13,7 @@ meta     : Detail Tipografi. Dalam tipografi, ruang kosong adalah hal yang memba
 
 Jika Anda mendengarkan musik yang baik, akan terdengar sebuah *interval* teratur. Ada saatnya terompet terdengar lebih keras dan ada juga saatnya *bass* terdengar lebih keras. Begitu pula dengan tipografi yang baik. Dalam musik, hal tersebut diatur oleh waktu, sedangkan dalam tipografi diatur oleh ruang kosong.
 
-Erik Spiekermann pernah berkata, "[Ketika] *type designer* merancang *typeface*, apa yang mereka rancang sebenarnya adalah ruang kosong." Ia benar. Jika melihat Helvetica atau Franklin Gothic, Anda akan melihat sedikit ruang kosong dan hal itu akan berakibat buruk untuk pembaca.
+Erik Spiekermann pernah berkata, "[Ketika] *type designer* merancang *typeface*, apa yang mereka rancang adalah ruang kosong." Ia benar. Jika melihat Helvetica atau Franklin Gothic, Anda akan melihat sedikit ruang kosong dan hal itu akan berakibat buruk untuk pembaca.
 
 Seperti halnya rumah, semakin banyak barang di dalamnya, semakin sedikit ruang kosongnya, dan hal itu tidak menyenangkan. Jadi, Anda perlu menyusun ruang kosong untuk membantu pembaca melakukan pekerjaan mereka. Tidak terlalu banyak, tidak terlalu sedikit.
 
