@@ -47,7 +47,7 @@ Aturan ini tidak diterapkan untuk tulisan yang mengandung huruf kecil, seperti p
 
 *Letterspacing* pada paragraf sebaiknya diatur normal, tidak ditambah atau pun dikurang. Namun, aturan itu tidak berlaku jika tulisan berwarna terang di atas gelap. Karena warna dapat membuat ilusi.
 
-Sebuah tulisan yang sama akan tampil berbeda jika yang satu berwarna hitam di atas putih dan yang satu berwarna putih di atas hitam. Dalam kasus tulisan berwarana terang di atas gelap, Anda sebaiknya menambah *letterspacing* untuk membuatnya lebih mudah dibaca.
+Sebuah tulisan yang sama akan tampil berbeda jika yang satu berwarna hitam di atas putih dan yang satu berwarna putih di atas hitam. Dalam kasus tulisan berwarna terang di atas gelap, Anda sebaiknya menambah *letterspacing* untuk membuatnya lebih mudah dibaca.
 
 <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/720/1*BWsflrc0K-jC7dEa94wX4w.png" alt="Ilusi warna." title="Ilusi warna."><small class="site-article__caption">1.4: Ilusi warna.</small>
 
@@ -59,6 +59,6 @@ Tipografi adalah pengetahuan yang menarik. Kita belajar bagaimana menyampaikan m
 
 <ol>
     <li id="fn:1">
-        Kita akan membahas <em>small caps</em> dengan lebih detail pada seri Detail Tipografi minggu depan. Jika Anda memiliki saran atau pun komentar, silahkan kirim melalui <a href="mailto:halo@tertanda.com" title="Kirim Email">halo@tertanda.com</a>.
+        Kita akan membahas <em>small caps</em> dengan lebih detail pada seri Komposisi Tipografi. Jika Anda memiliki saran atau pun komentar, silahkan kirim melalui <a href="mailto:halo@tertanda.com" title="Kirim Email">halo@tertanda.com</a>.
     </li>
 </ol>
