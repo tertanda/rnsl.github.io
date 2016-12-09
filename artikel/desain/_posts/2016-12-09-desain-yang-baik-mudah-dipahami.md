@@ -25,6 +25,6 @@ Tugas Anda bukanlah untuk tampil pintar, tetapi membantu orang lain memahami ker
 
 <ol>
     <li id="fn:1">
-        Tentu, beberapa kata dalam bahasa Inggris tidak memiliki terjemahan yang baik dalam bahasa Indonesia, seperti: *typeface* dan *ligature*. Namun, jika kata yang Anda ucapkan dapat disampaikan dalam bahasa Indonesia, gunakan bahasa Indonesia. Dalam menulis dan berbicara, jika Anda mengucapkan kalimat yang dapat disampaikan dalam satu bahasa, tetapi Anda malah mencampurnya dengan bahasa lain, misalnya, "Itu adalah *priority*," maka Anda akan terlihat bodoh.
+        Tentu, beberapa kata dalam bahasa Inggris tidak memiliki terjemahan yang baik dalam bahasa Indonesia, seperti: <em>typeface</em> dan <em>ligature</em>. Namun, jika kata yang Anda ucapkan dapat disampaikan dalam bahasa Indonesia, gunakan bahasa Indonesia. Dalam menulis dan berbicara, jika Anda mengucapkan kalimat yang dapat disampaikan dalam satu bahasa, tetapi Anda malah mencampurnya dengan bahasa lain, misalnya, "Itu adalah <em>priority</em>," maka Anda akan terlihat bodoh.
     </li>
 </ol>
