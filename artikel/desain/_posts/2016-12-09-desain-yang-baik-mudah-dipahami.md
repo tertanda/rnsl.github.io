@@ -15,7 +15,7 @@ Desain itu rumit. Seperti halnya lelucon, jika Anda perlu menjelaskan sebuah lel
 
 Ketika mendesain sesuatu, saya selalu memiliki pertanyaan, "Apakah itu mudah dipahami orang lain?" Saya tidak peduli bagaimana kecantikannya, pertama desain tersebut harus mudah dipahami. Memperbaiki tampilan adalah tahap akhir. Jika Anda membuatnya mudah dipahami, Anda melakukan pekerjaan dengan baik.
 
-Apakah Anda pernah bertemu seseorang yang berbicara bahasa Indonesia dan mencampurnya dengan bahasa Inggris, seperti, "Itu adalah *priority*."? Apakah Anda menyukainya? Tergantung, jika Anda memahami bahasa Inggris, itu bukan masalah, namun jika Anda tidak memahami bahasa Inggris, itu adalah masalah.^1
+Apakah Anda pernah bertemu seseorang yang berbicara bahasa Indonesia dan mencampurnya dengan bahasa Inggris, seperti, "Itu adalah *priority*."? Apakah Anda menyukainya? Tergantung, jika Anda memahami bahasa Inggris, itu bukan masalah, namun jika Anda tidak memahami bahasa Inggris, itu adalah masalah.<sup><a href="#fn:1" title="Catatan Nr.1">1</a></sup>
 
 Seperti halnya dengan desain, jangan mengganti label "Tentang" dengan "*About*". Jika Anda mendesain untuk orang Indonesia, gunakan bahasa Indonesia. Ditambah, gunakan kata atau kalimat yang familiar dan mudah dipahami, daripada menulis "Portofolio" gunakan "Hasil Pekerjaan".
 
@@ -23,4 +23,8 @@ Tugas Anda bukanlah untuk tampil pintar, tetapi membantu orang lain untuk memaha
 
 ##### Catatan
 
-1. Tentu, beberapa kata dalam bahasa Inggris tidak memiliki terjemahan yang baik dalam bahasa Indonesia, seperti: *typeface* dan *ligature*. Namun, jika kata yang Anda ucapkan dapat disampaikan dalam bahasa Indonesia, gunakan bahasa Indonesia. Dalam menulis dan berbicara, jika Anda mengucapkan kalimat yang dapat disampaikan dalam satu bahasa, tetapi Anda malah mencampurnya dengan bahasa lain, misalnya, "Itu adalah *priority*," maka Anda akan terlihat bodoh.
+<ol>
+    <li id="fn:1">
+        Tentu, beberapa kata dalam bahasa Inggris tidak memiliki terjemahan yang baik dalam bahasa Indonesia, seperti: *typeface* dan *ligature*. Namun, jika kata yang Anda ucapkan dapat disampaikan dalam bahasa Indonesia, gunakan bahasa Indonesia. Dalam menulis dan berbicara, jika Anda mengucapkan kalimat yang dapat disampaikan dalam satu bahasa, tetapi Anda malah mencampurnya dengan bahasa lain, misalnya, "Itu adalah *priority*," maka Anda akan terlihat bodoh.
+    </li>
+</ol>
