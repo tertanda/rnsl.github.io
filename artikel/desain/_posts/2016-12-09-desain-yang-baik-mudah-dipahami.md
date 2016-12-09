@@ -19,7 +19,7 @@ Apakah Anda pernah bertemu seseorang yang berbicara bahasa Indonesia dan mencamp
 
 Seperti halnya dengan desain, jangan mengganti label "Tentang" dengan "*About*". Jika Anda mendesain untuk orang Indonesia, gunakan bahasa Indonesia. Ditambah, gunakan kata atau kalimat yang familiar dan mudah dipahami, daripada menulis "Portofolio" gunakan "Hasil Pekerjaan".
 
-Tugas Anda bukanlah untuk tampil pintar, tetapi membantu orang lain untuk memahami kerumitan dengan lebih mudah. Seperti kata Don Norman, "Kita tidak dapat memecahkan masalah [yang rumit] ini dengan membuatnya sederhana."
+Tugas Anda bukanlah untuk tampil pintar, tetapi membantu orang lain memahami kerumitan dengan lebih mudah. Seperti kata Don Norman, "Kita tidak dapat memecahkan masalah [yang rumit] ini dengan membuatnya sederhana."
 
 ##### Catatan
 
