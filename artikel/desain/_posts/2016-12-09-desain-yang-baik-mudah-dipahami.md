@@ -11,7 +11,7 @@ intro    : Seperti halnya lelucon, jika Anda perlu menjelaskannya, berarti leluc
 meta     : Desain yang baik mudah dipahami orang lain. Jika Anda mendesain sesuatu yang mudah dipahami, Anda melakukan pekerjaan dengan baik.
 ---
 
-Desain itu rumit. Seperti halnya lelucon, jika Anda perlu menjelaskannya, berarti lelucon tersebut tidak begitu baik. Jika Anda perlu menjelaskan desain yang Anda kerjakan, berarti desain tersebut tidak baik. Itulah mengapa kita perlu memastikan bahwa segalanya mudah dipahami.
+Desain itu rumit. Seperti halnya lelucon, jika Anda perlu menjelaskan sebuah lelucon, berarti lelucon tersebut tidak begitu baik. Jika Anda perlu menjelaskan desain yang Anda kerjakan, berarti desain tersebut tidak baik. Itulah mengapa kita perlu memastikan bahwa segalanya mudah dipahami.
 
 Ketika mendesain sesuatu, saya selalu memiliki pertanyaan, "Apakah itu mudah dipahami orang lain?" Saya tidak peduli bagaimana kecantikannya, pertama desain tersebut harus mudah dipahami. Memperbaiki tampilan adalah tahap akhir. Jika Anda membuatnya mudah dipahami, Anda melakukan pekerjaan dengan baik.
 
