@@ -19,7 +19,7 @@ Kita sering menggunakan – dan sayangnya memalsukan – simbol matematika. Alas
 
 <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/800/1*KS9jQjUK5-MlbH1PxDqK2A.png" alt="Gunakan simbol yang benar." title="Gunakan simbol yang benar."><small class="site-article__caption">Gunakan simbol yang benar.</small>
 
-Jangan mengulangnya. Jika tidak tahu cara dan tidak mau repot menulis simbol matematika dengan benar, Anda dapat mencari di Wikipedia, mengkopinya dan menyalinya pada sebuah *file* – namun sisi buruknya, jika font yang Anda gunakan tidak mendukung simbol tersebut, maka akan menampilkan *tofu*.
+Jangan mengulangnya. Jika tidak tahu cara dan tidak mau repot menulis simbol matematika dengan benar, Anda dapat mencari di Wikipedia, mengkopinya dan menyalinya pada sebuah *file* – namun sisi buruknya, jika *font* yang Anda gunakan tidak mendukung simbol tersebut, maka akan menampilkan *tofu*.
 
 <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/800/1*pRIZmAwIZmbx205WlKXzng.png" alt="Tofu pada tipografi." title="Tofu pada tipografi."><small class="site-article__caption"><em>Tofu</em> pada tipografi.</small>
 
