@@ -31,7 +31,7 @@ Ada dua jenis bentuk nomor: *text figures* dan *titling figures*. Sebuah *typefa
 
 <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/800/1*KU-tIRUYZICNnY4H3Dscsg.png" alt="Titling figures dan text figures." title="Titling figures dan text figures."><small class="site-article__caption"><em>Titling</em> dan <em>text figures</em>.</small>
 
-Aturannya adalah gunakan *titling figures* jika Anda: menulis dalam huruf besar, menulis daftar, dan menulis tabel - dalam beberapa kasus, *titling figures* juga digunakan untuk menulis harga dan *barcode*. Singkatnya, jika sebuah tulisan terdapat huruf kecil, seperti pada paragraf, gunakan *text figures*, sisanya gunakan *titling figures*.
+Aturannya adalah gunakan *titling figures* jika Anda: menulis dalam huruf besar, menulis daftar, dan menulis tabel – dalam beberapa kasus, *titling figures* juga digunakan untuk menulis harga dan *barcode*. Singkatnya, jika sebuah tulisan terdapat huruf kecil, seperti pada paragraf, gunakan *text figures*, sisanya gunakan *titling figures*.
 
 <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/800/1*mXRxTtEJNZcZeGl--siAJA.png" alt="Panduan menggunakan titling figures dan text figures." title="Panduan menggunakan titling figures dan text figures."><small class="site-article__caption">Panduan menggunakan <em>titling</em> dan <em>text figures</em>.</small>
 
