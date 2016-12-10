@@ -13,7 +13,7 @@ meta     : Desain yang baik mudah dipahami orang lain. Jika Anda mendesain sesua
 
 Desain itu rumit. Seperti halnya lelucon, jika Anda perlu menjelaskan sebuah lelucon, berarti lelucon tersebut tidak begitu baik. Jika Anda perlu menjelaskan desain yang Anda kerjakan, berarti desain tersebut tidak baik. Itulah mengapa kita perlu memastikan bahwa segalanya mudah dipahami.
 
-Ketika mendesain sesuatu, saya selalu memiliki pertanyaan, "Apakah itu mudah dipahami orang lain?" Saya tidak peduli bagaimana kecantikannya, pertama desain tersebut harus mudah dipahami. Memperbaiki tampilan adalah tahap akhir. Jika Anda membuatnya mudah dipahami, Anda melakukan pekerjaan dengan baik.
+Ketika mendesain sesuatu, saya selalu memiliki pertanyaan, "Apakah orang lain memahaminya?" Saya tidak peduli bagaimana kecantikannya, pertama desain tersebut harus mudah dipahami. Memperbaiki tampilan adalah tahap akhir. Jika Anda membuatnya mudah dipahami, Anda melakukan pekerjaan dengan baik.
 
 Apakah Anda pernah bertemu seseorang yang berbicara bahasa Indonesia dan mencampurnya dengan bahasa Inggris, seperti, "Itu adalah *priority*."? Apakah Anda menyukainya? Tergantung, jika Anda memahami bahasa Inggris, itu bukan masalah, namun jika Anda tidak memahami bahasa Inggris, itu adalah masalah.<sup><a href="#fn:1" title="Catatan Nr.1">1</a></sup>
 
@@ -25,6 +25,6 @@ Tugas Anda bukanlah untuk tampil pintar, tetapi membantu orang lain memahami ker
 
 <ol>
     <li id="fn:1">
-        Tentu, beberapa kata dalam bahasa Inggris tidak memiliki terjemahan yang baik dalam bahasa Indonesia, seperti: <em>typeface</em> dan <em>ligature</em>. Namun, jika kata yang Anda ucapkan dapat disampaikan dalam bahasa Indonesia, gunakan bahasa Indonesia. Dalam menulis dan berbicara, jika Anda mengucapkan kalimat yang dapat disampaikan dalam satu bahasa, tetapi Anda malah mencampurnya dengan bahasa lain, misalnya, "Itu adalah <em>priority</em>," maka Anda akan terlihat bodoh.
+        Tentu, beberapa kata dalam bahasa Inggris tidak memiliki terjemahan yang baik dalam bahasa Indonesia, seperti: <em>typeface</em> dan <em>ligature</em>. Namun, jika kata yang Anda ucapkan dapat disampaikan dalam bahasa Indonesia, gunakan bahasa Indonesia. Dalam menulis dan berbicara, jika Anda mengucapkan kalimat yang dapat disampaikan dalam satu bahasa, tetapi Anda malah mencampurnya dengan bahasa lain, misalnya, &ldquo;Itu adalah <em>priority</em>,&rdquo; maka Anda akan terlihat bodoh.
     </li>
 </ol>
