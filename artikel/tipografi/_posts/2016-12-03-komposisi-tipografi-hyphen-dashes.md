@@ -19,7 +19,7 @@ Dalam artikel Komposisi Tipografi sebelumnya, kita membahas tentang <a href="htt
 
 <p>Ada tiga cara menghubungkan dan memisahkan kata: <em>hyphen</em>(-), <em>en dash</em>(&ndash;) dan <em>em dash</em>(&mdash;).</p>
 
-Pada Mac dan PC, Anda dapat mengakses *hyphen* dengan mudah, simbol di sebelah kanan angka 9 itu adalah *hyphen*, bukan *minus*.<sup><a href="#fn:1" title="Catatan Nr.1">1</a></sup> *Hyphen* memiliki 3 fungsi:
+Pada Mac dan PC, Anda dapat mengakses *hyphen* dengan mudah, simbol di sebelah kanan angka 0 itu adalah *hyphen*, bukan *minus*.<sup><a href="#fn:1" title="Catatan Nr.1">1</a></sup> *Hyphen* memiliki 3 fungsi:
 
 1. Untuk memisahkan sebuah kata. Ketika tulisan terlalu panjang untuk dimuat dalam satu baris, Anda dapat memisah sebuah kata dan melanjutkan di bawahnya. Aturannya adalah pastikan setidaknya ada 2 huruf di depan dan tiga huruf di belakang, contohnya: La-kukan ini, buk-an ini.
 2. Untuk menandakan hubungan kata. Seperti beberapa kata di Indonesia: jalan-jalan dan berkeliling-keliling.
