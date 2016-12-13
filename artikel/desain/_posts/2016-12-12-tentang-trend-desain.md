@@ -25,7 +25,7 @@ Tidak ada yang salah dengan *trend*, yang salah adalah bagaimana dan mengapa kit
 
 <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/720/1*HRIDwbXF76Kpd1PcYYMtKQ.jpeg" alt="Desain oleh Dieter Rams untuk Braun." title="Desain oleh Dieter Rams untuk Braun."><small class="site-article__caption">Desain oleh Dieter Rams untuk Braun.</small>
 
-Lihat produk Braun yang dirancang oleh Dieter Rams. Rams merancangnya lebih dari 20 tahun yang lalu, tidak ada yang berubah. Masih terlihat cantik, bukan? Tetapi yang terpenting adalah ketika Anda dapat menggunakannya, Anda tidak perlu belajar menggunakannya untuk yang kedua kalinya. Mereka bertahan untuk waktu yang lama.
+Lihat produk Braun yang dirancang oleh Dieter Rams. Rams merancangnya lebih dari 40 tahun yang lalu, tidak ada yang berubah. Masih terlihat cantik, bukan? Tetapi yang terpenting adalah ketika Anda dapat menggunakannya, Anda tidak perlu belajar menggunakannya untuk yang kedua kalinya. Mereka bertahan untuk waktu yang lama.
 
 Desain yang baik dapat bertahan untuk waktu yang lama dari segi fungsi dan visual. Hal ini berlaku dalam banyak hal. Pernah melihat mobil tua tahun 1950-an dan berpikir, "Itu mengagumkan! Saya ingin memilikinya."? Itulah desain yang baik. Saya yakin, desainer harus sering menanyakan dua pertanyaan ini:
 
