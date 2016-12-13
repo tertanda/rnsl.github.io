@@ -17,7 +17,7 @@ Begitu pun *trend* pada desain. Mereka berbiaya. Misalkan, Anda sedang merancang
 
 Setelah 3 tahun, *trend* berubah, dan Anda terkejut, "Wow! Apa ini? Saya harus merancang ulang situs saya." Dan Anda melakukannya dari awal, lagi. Itu mahal, bukan? Tidak? "Tidak, saya dapat menulis kode dan melakukannya di waktu luang," jawab Anda. Itu bagus, tetapi, bagaimana dengan orang lain?
 
-Bayangkan Tom, ia sering mengunjungi web Anda untuk melihat hasil pekerjaan dan membaca tulisan Anda. Ketika *trend* berubah, ia tidak berpikir bahwa web Anda akan berubah, karena semuanya baik-baik saja. Satu minggu kemudian, ia kembali dan melihat *web* Anda telah diperbarui sesuai *trend* yang baru, "Mengagumkan! Tetapi, dulu saya menemukan galeri di sebelah sini, sekarang di mana?"
+Bayangkan Tom, ia sering mengunjungi web Anda untuk melihat hasil pekerjaan dan membaca tulisan Anda. Ketika *trend* berubah, ia tidak berpikir bahwa tampilan situs Anda akan berubah, karena semuanya baik-baik saja. Satu minggu kemudian, ia kembali dan melihat *web* Anda telah diperbarui sesuai *trend* yang baru, "Mengagumkan! Tetapi, dulu saya menemukan galeri di sebelah sini, sekarang di mana?"
 
 Jangan memperbaiki sesuatu yang tidak rusak. Anda membuat Tom melakukan hal yang tidak diperlukan, ia harus mempelajari menggunakan web Anda dari awal. Tom kehilangan waktu karena Anda dan itu merugikan. Hal inilah yang saya maksud ketika membicarakan bahwa desain yang baik tidak dinilai dari visual.
 
