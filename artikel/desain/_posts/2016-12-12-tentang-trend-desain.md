@@ -4,8 +4,8 @@ title    : Tentang Trend Desain
 author   : El Nino H. Maulana
 category : desain
 permalink: artikel/desain/:title
-banner   : "https://cdn-images-1.medium.com/max/720/1*DvJLx2puJkmDFoB2Bk_1FA.png"
-icon     : "https://cdn-images-1.medium.com/max/720/1*ZyLLPde1P0MjrU4GKTSNdQ.png"
+banner   : "https://cdn-images-1.medium.com/max/720/1*ZyLLPde1P0MjrU4GKTSNdQ.png"
+icon     : "https://cdn-images-1.medium.com/max/720/1*DvJLx2puJkmDFoB2Bk_1FA.png"
 bantitle : Tentang Trend Desain
 intro    : Mengikuti <em>trend</em> membutuhkan biaya yang mahal. Tidak ada yang salah dengan <em>trend</em>, yang salah adalah bagaimana dan mengapa kita mengikutinya.
 meta     : Mengikuti trend desain membutuhkan biaya yang mahal. Tidak ada yang salah dengan trend desain, yang salah adalah bagaimana dan mengapa kita mengikutinya.
