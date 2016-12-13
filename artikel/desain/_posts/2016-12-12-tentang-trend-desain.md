@@ -19,7 +19,7 @@ Setelah 3 tahun, *trend* berubah, dan Anda terkejut, "Wow! Apa ini? Saya harus m
 
 Bayangkan Tom, ia sering mengunjungi web Anda untuk melihat hasil pekerjaan dan membaca tulisan Anda. Ketika *trend* berubah, ia tidak berpikir bahwa tampilan situs Anda akan berubah, karena semuanya baik-baik saja. Satu minggu kemudian, ia kembali dan melihat *web* Anda telah diperbarui sesuai *trend* yang baru, "Mengagumkan! Tetapi, dulu saya menemukan galeri di sebelah sini, sekarang di mana?"
 
-Jangan memperbaiki sesuatu yang tidak rusak. Anda membuat Tom melakukan hal yang tidak diperlukan, ia harus mempelajari menggunakan web Anda dari awal. Tom kehilangan waktu karena Anda dan itu merugikan. Hal inilah yang saya maksud ketika membicarakan bahwa desain yang baik tidak dinilai dari visual.
+Jangan memperbaiki sesuatu yang tidak rusak. Anda membuat Tom melakukan hal yang tidak diperlukan, ia harus mempelajari menggunakan *web* Anda dari awal. Tom kehilangan waktu karena Anda dan itu merugikan. Desain yang buruk merugikan orang.
 
 Tidak ada yang salah dengan *trend*, yang salah adalah bagaimana dan mengapa kita mengikutinya. Desainer sering terjebak *trend* desain tanpa memiliki alasan yang baik, "Ini yang sedang terjadi. Lihat Dribbble, desainer lain juga sedang melakukannya. Saya tidak ingin tertinggal."
 
