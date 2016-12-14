@@ -21,7 +21,7 @@ Mari melihat gambar 1.0, saya akan menyebutnya keran air F. Ini adalah jenis ker
 
 Karena tuasnya yang panjang, saya teringat dengan ganggang pintu, dan secara otomatis saya berpikir untuk memutarnya. Tetapi memutar searah atau melawan arah jarum jam? Saya tidak tahu. Jadi, saya memutarnya searah jarum jam. Kenapa? Karena saya menggunakan tangan kanan, memutar searah jarum jam lebih mudah daripada memutar melawan arah jarum jam.
 
-Proses berpikir seperti ini berlangsung dengan cepat dan terkadang kita tidak menyadarinya. Ketika saya memutarnya, ternyata salah, dan respon pertama saya adalah "Sialan! Bodoh!" Lihat, desain yang buruk menyebabkan orang lain berdosa. Saya tahu ini bukan salah saya, tetapi orang yang merancangnya.
+Proses berpikir seperti ini berlangsung dengan cepat dan terkadang kita tidak menyadarinya. Ketika saya memutarnya, ternyata salah, dan respon pertama saya adalah "Sialan! Bodoh!" Lihat, desain yang buruk merugikan orang lain. Saya tahu ini bukan salah saya, tetapi orang yang merancangnya.
 
 Hal yang paling membuat saya bingung adalah terkadang saya bisa menggunakan keran air F dengan cara memutar tuasnya dan terkadang saya hanya bisa menggunakannya dengan mengangkat tuasnya. Saya tidak tahu apa yang sedang terjadi. Sampai saat ini, saya masih sering salah menggunakannya dan saya membencinya.
 
