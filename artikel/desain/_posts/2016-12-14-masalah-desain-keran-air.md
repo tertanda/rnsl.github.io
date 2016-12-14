@@ -15,7 +15,7 @@ Saya memiliki masalah dengan keran air. Seperti misalnya di rumah makan, ketika 
 
 Masalahnya adalah tidak ada aturan untuk menggunakan keran air yang sama. Di rumah makan A, saya menggunakan keran air dengan cara mengangkat tuas. Di rumah makan B saya menggunakan keran air dengan cara menekan tuas. Lalu di rumah makan C, D, E, F, G, H memiliki keran air yang berbeda lagi. Ini gila.
 
-<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/720/1*ZnWXDGpfoXggbyrACj7aRw.jpeg" alt="Keran Air F: Diputar searah atau melawan arah jarum jam?" title="Keran Air F: Diputar searah atau melawan arah jarum jam?"><small class="site-article__caption">Keran Air F: Diputar searah atau melawan arah jarum jam? Salah, yang benar adalah diangkat, lihat di IKEA. &bull; &copy; IKEA</small>
+<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/720/1*ZnWXDGpfoXggbyrACj7aRw.jpeg" alt="Keran Air F: Diputar searah atau melawan arah jarum jam?" title="Keran Air F: Diputar searah atau melawan arah jarum jam?"><small class="site-article__caption">1.0: Keran Air F: Diputar searah atau melawan arah jarum jam? Salah, yang benar adalah diangkat, lihat di IKEA. &bull; &copy; IKEA</small>
 
 Mari melihat gambar 1.0, saya akan menyebutnya keran air F. Ini adalah jenis keran air yang paling buruk. Saya selalu salah ketika akan menggunakannya, meskipun saya pernah menggunakannya berkali-kali. Tuasnya tidak memberi tahu saya bagaimana cara menggunakannya. Apakah mengangkatnya? Atau menekannya? Atau memutarnya? Tetapi memutar ke mana?
 
@@ -27,7 +27,7 @@ Hal yang paling membuat saya bingung adalah terkadang saya bisa menggunakan kera
 
 Tuas keran air F memiliki empat kemungkinan: diangkat, ditekan, diputar searah, atau melawan arah jarum jam. Saya heran, padahal saya hanya ingin mencuci tangan, mengapa mereka tidak menolong saya dengan membuatnya sedikit lebih mudah dipahami?
 
-<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/720/1*cFUiLawHdlsdBN4TZHL8mQ.jpeg" alt="Keran Air C: Diputar searah atau melawan arah jarum jam?" title="Keran Air C: Diputar searah atau melawan arah jarum jam?"><small class="site-article__caption">Keran Air C: Diputar searah atau melawan arah jarum jam? Entahlah. &bull; &copy; ALEX</small>
+<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/720/1*cFUiLawHdlsdBN4TZHL8mQ.jpeg" alt="Keran Air C: Diputar searah atau melawan arah jarum jam?" title="Keran Air C: Diputar searah atau melawan arah jarum jam?"><small class="site-article__caption">1.1: Keran Air C: Diputar searah atau melawan arah jarum jam? Entahlah. &bull; &copy; ALEX</small>
 
 Sekarang kita melihat gambar 1.1, saya akan menyebutnya keran air C karena lebih baik daripada keran air F. Ketika melihat tuasnya, saya hanya memikirkan dua hal: jika tidak memutarnya searah jarum jam, berarti memutarnya melawan arah jarum jam. Namun, masalah lainnya adalah bagaimana jika kebetulan airnya sedang habis?
 
@@ -37,7 +37,7 @@ Ya, karena ketika Anda pergi, keran air sebetulnya dalam posisi menyala. Alasan 
 
 Beberapa perusahaan melakukan hal yang lumayan baik dengan menulis nama mereka atau tanda panah kecil di atas tuas keran air untuk menandakan apakah keran air menyala atau tidak. Namun masalahnya, semakin lama tulisan tersebut akan hilang.
 
-<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/720/1*GEFudyRUCC92b54Hklr0iw.jpeg" alt="Keran Air A: Diputar searah atau melawan arah jarum jam?" title="Keran Air A: Diputar searah atau melawan arah jarum jam?"><small class="site-article__caption">Keran Air A: Diputar searah atau melawan arah jarum jam? Jika tidak searah maka melawan arah jarum jam. &bull; &copy; ALEX</small>
+<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/720/1*GEFudyRUCC92b54Hklr0iw.jpeg" alt="Keran Air A: Diputar searah atau melawan arah jarum jam?" title="Keran Air A: Diputar searah atau melawan arah jarum jam?"><small class="site-article__caption">1.2: Keran Air A: Diputar searah atau melawan arah jarum jam? Jika tidak searah maka melawan arah jarum jam. &bull; &copy; ALEX</small>
 
 Mari melihat gambar 1.2, saya akan menyebutnya keran air A, ini adalah keran air yang bekerja dengan baik. Anda dapat menemukannya di banyak tempat karena harganya yang murah. Seperti keran air C, tuas keran air A hanya memiliki dua kemungkinan: jika tidak diputar searah jarum jam, maka diputar sebaliknya.
 
