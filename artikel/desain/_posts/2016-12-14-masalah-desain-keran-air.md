@@ -19,7 +19,7 @@ Masalahnya adalah tidak ada aturan untuk menggunakan keran air yang sama. Di rum
 
 Mari melihat gambar 1.0, saya akan menyebutnya keran air F. Ini adalah jenis keran air yang paling buruk. Saya selalu salah ketika akan menggunakannya, meskipun saya pernah menggunakannya berkali-kali. Tuasnya tidak memberi tahu saya bagaimana cara menggunakannya. Apakah mengangkatnya? Atau menekannya? Atau memutarnya? Tetapi memutar ke mana?
 
-Karena tuasnya yang panjang, saya teringat dengan ganggang pintu, dan secara otomatis saya berpikir untuk memutarnya. Tetapi memutar searah atau melawan arah jarum jam? Saya tidak tahu. Jadi, saya memutarnya searah jarum jam. Kenapa? Karena saya menggunakan tangan kanan, memutar searah jarum jam lebih mudah daripada memutar melawan arah jarum jam.
+Karena tuasnya yang panjang, saya teringat dengan tuas pintu, dan secara otomatis saya berpikir untuk memutarnya. Tetapi memutar searah atau melawan arah jarum jam? Saya tidak tahu. Jadi, saya memutarnya searah jarum jam. Kenapa? Karena saya menggunakan tangan kanan, memutar searah jarum jam lebih mudah daripada memutar melawan arah jarum jam.
 
 Proses berpikir seperti ini berlangsung dengan cepat dan terkadang kita tidak menyadarinya. Ketika saya memutarnya, ternyata salah, dan respon pertama saya adalah "Sialan! Bodoh!" Lihat, desain yang buruk merugikan orang lain. Saya tahu ini bukan salah saya, tetapi orang yang merancangnya.
 
