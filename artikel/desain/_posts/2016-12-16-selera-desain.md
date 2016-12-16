@@ -15,7 +15,7 @@ Ketika Dieter Rams lahir, Jerman tidak dihebohkan dengan berita, "Seseorang deng
 
 Saya yakin apa yang selama ini kita sebut dengan selera adalah nilai. Kita salah memahami keduanya. Misalnya, saya dan Anda masing-masing memiliki uang satu juta rupiah yang bisa kita gunakan untuk membeli apa pun, namun dalam hal ini, kita hanya dapat menggunakannya untuk membeli jam tangan.
 
-<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/720/1*YmTIPczeGx3wnKqiMxLHPg.jpeg" alt="Jam tangan Braun, saya senang melihatnya." title="Jam tangan Braun, saya senang melihatnya."><small class="site-article__caption">Saya senang melihat produk Braun.</small>
+<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/720/1*YmTIPczeGx3wnKqiMxLHPg.jpeg" alt="Jam tangan Braun, saya senang melihatnya." title="Jam tangan Braun, saya senang melihatnya."><small class="site-article__caption">1.0: Saya senang melihat produk Braun.</small>
 
 Kita pergi ke toko yang sama dan melihat sebuah jam tangan yang mengagumkan. Anda tidak perlu <a href="http://ransel.org/artikel/desain/memahami-pengertian-desain" title="Memahami Pengertian Desain" target="_blank">menjadi desainer</a> untuk berpikir jika jam tangan pada gambar 1.0 terlihat mengagumkan. Saya juga berpikir seperti itu. Perhatikan, kita berpikir bahwa jam di atas terlihat mengagumkan. Sekarang, kita mulai membuat keputusan.
 
