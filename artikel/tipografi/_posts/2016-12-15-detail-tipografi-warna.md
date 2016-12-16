@@ -35,4 +35,4 @@ Saat ini kita membaca lebih banyak pada layar monitor, dan kabar baiknya kita me
 
 ## Kesimpulan
 
-Jangan mengandalkan warna untuk membuat sesuatu terlihat lebih cantik. Itu bukan hal yang baik. Saya pribadi tidak menyarankan desainer dan typographer untuk mempelajari bagaimana cara mengkombinasikan warna, tetapi bagaimana menggunakan warna dengan baik. Lihat presentasi Geri Coady tentang <a href="https://www.youtube.com/watch?v=9vXug07iBK8" title="Colour Accessibility" target="_blank">Colour Accessibility</a>.
+Jangan mengandalkan warna untuk membuat sesuatu terlihat lebih cantik. Itu bukan hal yang baik. Saya pribadi tidak menyarankan desainer dan *typographer* untuk mempelajari bagaimana cara mengkombinasikan warna, tetapi bagaimana menggunakan warna dengan baik. Lihat presentasi Geri Coady tentang <a href="https://www.youtube.com/watch?v=9vXug07iBK8" title="Colour Accessibility" target="_blank">Colour Accessibility</a>.
