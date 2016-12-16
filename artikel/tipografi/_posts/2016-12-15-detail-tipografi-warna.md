@@ -11,7 +11,7 @@ intro    : Warna membuat ilusi. Jangan mengandalkan warna untuk membuat sesuatu 
 meta     : Detail tipografi. Warna membuat ilusi. Jangan mengandalkan warna untuk membuat sesuatu terlihat lebih cantik. Gunakan warna denga bijak.
 ---
 
-Warna membuat ilusi. Sebuah warna yang sama akan terlihat berbeda pada garis dengan ketebalan 2px dan 10px. Bagaimana kita melihat warna juga berbeda, warna biru yang Anda lihat tidak sama dengan biru yang saya lihat. Dengan berbekal pengetahuan ini, kita akan belajar menggunakan warna dengan baik
+Warna membuat ilusi. Sebuah warna yang sama akan terlihat berbeda pada garis dengan ketebalan 2px dan 10px. Bagaimana kita melihat warna juga berbeda, warna biru yang Anda lihat tidak sama dengan biru yang saya lihat. Dengan berbekal pengetahuan ini, kita akan belajar menggunakan warna dengan baik.
 
 <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/720/1*qhAN-5yNO4YaHdkVaNFhDQ.png" alt="1.0: Ilusi warna pada tipografi, ketiga tulisan menggunakan warna yang sama #333." title="1.0: Ilusi warna pada tipografi, ketiga tulisan menggunakan warna yang sama #333."><small class="site-article__caption">1.0: Ilusi warna pada tipografi, ketiga tulisan menggunakan warna yang sama #333.</small>
 
