@@ -29,7 +29,7 @@ Pada *logotype* dan *logogram*, Anda dapat menggunakan warna apa pun karena tuju
 
 <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/720/1*Be8poC2lW2p25TPJkGxD6A.jpeg" alt="1.2: Tip: hindari warna pada pojok kiri bawah dan pojok kanan atas." title="1.2: Tip: hindari warna pada pojok kiri bawah dan pojok kanan atas."><small class="site-article__caption">1.2: Tip: hindari warna pada pojok kiri bawah dan pojok kanan atas.</small>
 
-Terakhir, perhatikan dimana tipografi akan diterapkan. Pada monitor, menggunakan hitam #000 dan putih #fff akan membuat kontras yang berlebihan. Beberapa desainer, termasuk saya, menjauhi untuk menggunakan warna di bagian pojok kiri bawah (#000) dan pojok kanan atas – warna tulisan di situs ini adalah #333 dan #666. Warna di sana tidak begitu baik ketika diterapkan pada media seperti monitor, kertas, dsb.
+Terakhir, perhatikan dimana tipografi akan diterapkan. Pada monitor, menggunakan hitam (#000) dan putih (#fff) akan membuat kontras yang berlebihan. Beberapa desainer, termasuk saya, menjauhi untuk menggunakan warna di bagian pojok kiri bawah (#000) dan pojok kanan atas – warna tulisan di situs ini adalah #333 dan #666. Warna di sana tidak begitu baik ketika diterapkan pada media seperti monitor, kertas, dsb.
 
 Saat ini kita membaca lebih banyak pada layar monitor, dan kabar baiknya kita memiliki aplikasi seperti Twilight dan f.lux untuk mengontrol warna monitor. Namun, tidak semua orang menggunakan aplikasi tersebut, beberapa orang masih menggunakan monitor seadanya, dan ini adalah tugas kita untuk membantu mereka.
 
