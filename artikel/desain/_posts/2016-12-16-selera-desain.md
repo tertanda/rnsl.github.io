@@ -21,7 +21,7 @@ Kita pergi ke toko yang sama dan melihat sebuah jam tangan yang mengagumkan. And
 
 Kita memiliki jumlah uang dan pemikiran tentang jam yang sama. Tetapi, kita menilai sesuatu dengan berbeda. Anda menilai sesuatu yang mahal lebih berkualitas, dari segi penampilan dan daya tahan. Saya juga berpikir demikian, tetapi saya tidak mungkin membayar satu juta rupiah untuk sebuah jam. Lihat, kita memiliki pemikiran serupa tentang sesuatu, tetapi menilainya dengan berbeda.
 
-Ketika kita bertemu, saya akan berkata, "Jam tangan Anda bagus." Tetapi, itu bukan berarti bahwa Anda memiliki selera yang lebih baik. Lihat, bagaimana saya berkata, seperti Anda, saya juga berpikir bahwa jam tangan Anda bagus. Alasan mengapa saya tidak memilikinya karena kita menilainya dengan berbeda. 
+Ketika kita bertemu, saya akan berkata, "Jam tangan Anda bagus." Tetapi, itu bukan berarti bahwa Anda memiliki selera yang lebih baik. Lihat bagaimana saya berkata, seperti Anda, saya juga berpikir bahwa jam tangan Anda bagus. Alasan mengapa saya tidak memilikinya karena kita menilainya dengan berbeda. 
 
 Hal ini juga berlaku dengan desain. Ketika Anda melihat sebuah halaman *web* misalnya, dan berpikir, "Ia menyusun tipografi dengan sangat baik. Saya benar-benar menyukainya. Mengagumkan!" Apakah Anda menyadari sesuatu? Ya, seperti orang yang membuatnya, bahwa halaman *web* miliknya memiliki tipografi yang baik.
 
