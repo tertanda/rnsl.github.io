@@ -15,7 +15,7 @@ Warna membuat ilusi. Sebuah warna yang sama akan terlihat berbeda pada garis den
 
 <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/720/1*qhAN-5yNO4YaHdkVaNFhDQ.png" alt="1.0: Ilusi warna pada tipografi, ketiga tulisan menggunakan warna yang sama #333." title="1.0: Ilusi warna pada tipografi, ketiga tulisan menggunakan warna yang sama #333."><small class="site-article__caption">1.0: Ilusi warna pada tipografi, ketiga tulisan menggunakan warna yang sama #333.</small>
 
-# Hitam dan Putih
+## Hitam dan Putih
 
 Tulisan hitam di atas kertas putih sudah digunakan jauh sebelum Guttenberg menemukan teknologi cetak pada abad ke-16. Sehingga, ada alasan baik mengapa tulisan hitam di atas putih telah bertahan lebih dari ratusan tahun. Alasannya adalah karena mudah dibaca dan berbiaya lebih murah.
 
