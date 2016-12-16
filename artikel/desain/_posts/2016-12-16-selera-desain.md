@@ -11,7 +11,7 @@ intro    : Saya yakin apa yang selama ini kita sebut dengan selera adalah nilai.
 meta     : Kita sering kali salah memahami tentang selera desain. Saya yakin apa yang selama ini kita sebut dengan selera adalah nilai.
 ---
 
-Ketika Dieter Rams lahir, Jerman tidak dihebohkan dengan berita, "Seseorang dengan Selera Desain yang Tinggi telah Lahir". Sering kali, ketika kita membicarakan selera, akan ada sebuah pendapat seperti, "Selera itu tergantung orangnya." atau "Kau memiliki selera desain lebih baik."
+Ketika Dieter Rams lahir, Jerman tidak dihebohkan dengan berita, "Seseorang dengan Selera Desain yang Tinggi telah Lahir". Sering kali, ketika kita membicarakan selera, akan ada sebuah pendapat seperti, "Selera itu tergantung orangnya," atau "Kau memiliki selera desain lebih baik."
 
 Saya yakin apa yang selama ini kita sebut dengan selera adalah nilai. Kita salah memahami keduanya. Misalnya, saya dan Anda masing-masing memiliki uang satu juta rupiah yang bisa kita gunakan untuk membeli apa pun, namun dalam hal ini, kita hanya dapat menggunakannya untuk membeli jam tangan.
 
