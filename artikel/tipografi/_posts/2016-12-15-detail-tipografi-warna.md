@@ -17,7 +17,7 @@ Warna membuat ilusi. Sebuah warna yang sama akan terlihat berbeda pada garis den
 
 ## Hitam dan Putih
 
-Tulisan hitam di atas kertas putih sudah digunakan jauh sebelum Guttenberg menemukan teknologi cetak pada abad ke-16. Sehingga, ada alasan baik mengapa tulisan hitam di atas putih telah bertahan lebih dari ratusan tahun. Alasannya adalah karena mudah dibaca dan berbiaya lebih murah.
+Tulisan hitam di atas kertas putih sudah digunakan jauh sebelum Johannes Gutenberg menemukan teknologi cetak pada abad ke-15. Sehingga, ada alasan baik mengapa tulisan hitam di atas putih telah bertahan lebih dari ratusan tahun. Alasannya adalah karena mudah dibaca dan berbiaya lebih murah.
 
 <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/720/1*Rosidd2aM4f4pX21GaM8ig.jpeg" alt="1.1: Mereka terlihat cantik, bukan?" title="1.1: Mereka terlihat cantik, bukan?"><small class="site-article__caption">1.1: Mereka terlihat cantik, bukan? &bull; &copy; Alex Baxevanis</small>
 
