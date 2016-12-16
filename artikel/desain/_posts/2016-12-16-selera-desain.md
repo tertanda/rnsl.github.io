@@ -23,7 +23,7 @@ Kita memiliki jumlah uang dan pemikiran tentang jam yang sama. Tetapi, kita meni
 
 Ketika kita bertemu, saya akan berkata, "Jam tangan Anda bagus." Tetapi, itu bukan berarti bahwa Anda memiliki selera yang lebih baik. Lihat bagaimana saya berkata, seperti Anda, saya juga berpikir bahwa jam tangan Anda bagus. Alasan mengapa saya tidak memilikinya karena kita menilainya dengan berbeda. 
 
-Hal ini juga berlaku dengan desain. Ketika Anda melihat sebuah halaman *web* misalnya, dan berpikir, "Ia menyusun tipografi dengan sangat baik. Saya benar-benar menyukainya. Mengagumkan!" Apakah Anda menyadari sesuatu? Ya, seperti orang yang membuatnya, bahwa halaman *web* miliknya memiliki tipografi yang baik.
+Hal ini juga berlaku dengan desain. Ketika Anda melihat sebuah halaman *web* misalnya, dan berpikir, "Ia menyusun tipografi dengan sangat baik. Saya benar-benar menyukainya. Mengagumkan!" Apakah Anda menyadari sesuatu? Ya, seperti orang yang membuatnya, Anda berpikir bahwa halaman *web* miliknya memiliki tipografi yang baik.
 
 Ini bukan tentang selera, tetapi tentang apa yang Anda hargai. Jika Anda bertanya kepada Don Norman, "Bagaimana jika Anda meluangkan sedikit waktu untuk memilih ikon?" Ia mungkin akan menjawab, "Apakah ini lelucon? Saya lebih baik menghabiskan waktu tersebut untuk membuat tampilannya lebih jelas dan mudah dipahami."
 
