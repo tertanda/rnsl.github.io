@@ -13,7 +13,7 @@ meta     : Saya minta maaf untuk ini dan terima kasih telah membaca apa yang say
 
 Jika Anda sering mengikuti artikel Ransel, Anda akan berpikir, "Hmmm, dua hari yang lalu artikel ini tidak ada, tetapi mengapa di sini tertulis dipublikasikan dua hari yang lalu?" Saya minta maaf, Anda benar, saya mempublikasikannya tidak tepat waktu. Saya akan menuliskan apa yang sedang terjadi.
 
-Dalam sebuah artikel, saya menulis tentang betapa inginnya saya memperbaiki dan menyebarkan pengetahuan desain di Indonesia. Saya pikir, kita tertinggal jauh dalam industri desain. Sayangnya, sekolah kita tidak membantu banyak, jika Anda membaca apa yang perlu dipahami oleh desainer, hal itu akan berbeda dengan apa yang kita pelajari di sekolah.
+Dalam <a href="http://ransel.org/artikel/desain/memperbaiki-dan-menyebarkan-pengetahuan" title="Memperbaiki dan Menyebarkan Pengetahuan." target="_blank">sebuah artikel</a>, saya menulis tentang betapa inginnya saya memperbaiki dan menyebarkan pengetahuan desain di Indonesia. Saya pikir, kita tertinggal jauh dalam industri desain. Sayangnya, sekolah kita tidak membantu banyak, jika Anda membaca apa yang perlu dipahami oleh desainer, hal itu akan berbeda dengan apa yang kita pelajari di sekolah.
 
 Ketika saya membaca buku *Don't Make Me Think* untuk pertama kalinya, saya terkejut jika apa yang selama ini saya sebut dengan "desain" bukanlah desain. Sisi baiknya, hal itu membantu saya mempelajari apa itu desain. Saya menghabiskan banyak waktu untuk membaca tulisan dan mengamati orang-orang seperti Don Norman, Jakob Nielsen, Dieter Rams, dsb.
 
@@ -35,6 +35,6 @@ Berikut beberapa rencana yang saya pikirkan:
 
 Sejauh ini, saya menulis beberapa artikel dan terkesan berantakan. Saya tidak berpikir apakah Anda dapat menemukan apa yang Anda inginkan di sini. Dan saya merasa berdosa karena itu.
 
-Lihat, bahkan saya menulis artikel ini dengan berantakan. Saya bingung dengan bagaimana cara melakukannya dengan efisien. Baiklah, saya tidak tahu harus menulis apa lagi, saya memikirkan banyak hal untuk terus memperbaiki Ransel. Jika Anda ingin membantu saya, kirim saya sebuah *email* dan kita akan berbincang.
+Lihat, bahkan saya menulis artikel ini dengan berantakan. Saya bingung dengan bagaimana cara melakukannya dengan efisien. Baiklah, saya tidak tahu harus menulis apa lagi, saya memikirkan banyak hal untuk terus memperbaiki Ransel. Jika Anda ingin membantu saya, <a href="mailto:halo@tertanda.com" title="Kirim email." target="_blank">kirim saya sebuah <em>email</em></a> dan kita akan berbincang.
 
 Saya minta maaf untuk ini dan terima kasih telah membaca apa yang saya tulis. Saya akan memperbaikinya dan kita berjumpa lagi mulai tahun 2017. Selamat tahun baru, teman-teman!
