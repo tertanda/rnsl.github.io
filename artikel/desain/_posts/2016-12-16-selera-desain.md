@@ -2,8 +2,8 @@
 layout   : article
 title    : "Selera Desain"
 author   : El Nino H. Maulana
-category : tipografi
-permalink: artikel/tipografi/:title
+category : desain
+permalink: artikel/desain/:title
 banner   : "https://cdn-images-1.medium.com/max/720/1*kVwW3UBGs8t1nvr4yRXAtA.png"
 icon     : "https://cdn-images-1.medium.com/max/720/1*mqGf3U2X2tM3AeRG0OoHPw.png"
 bantitle : "Selera Desain"
